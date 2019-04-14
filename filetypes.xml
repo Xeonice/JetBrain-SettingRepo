@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="EditSprintName" type="JSX Harmony" />
+      <mapping pattern="index" type="JavaScript" />
+      <mapping pattern="issueFlowTest" type="Jest Snapshot" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping ext="mp4" type="Native" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="IssueItem" type="TypeScript JSX" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
