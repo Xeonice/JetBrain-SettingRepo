@@ -30,11 +30,11 @@
       <file name="/__dummy.xml" timestamp="1539319380805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/java_prac/src/Week_4/Database.java" timestamp="1555489688934">
+      <file name="$USER_HOME$/java_prac/src/Week_4/Database.java" timestamp="1555503792554">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="9" />
+        <mark key="." line="51" column="5" />
       </file>
       <file name="/a.regexp" timestamp="1539354550092">
         <mark key="[" line="0" column="0" />
@@ -54,11 +54,14 @@
       <jump line="43" column="0" filename="$USER_HOME$/java_prac/src/Week_4/Database.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>item</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>item</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77ya5rip5p+U5bCP54yqCiAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC96YXEwMTIzL2FydGljbGUvZGV0YWlscy83NzQ4OTc2MiAK</text>
@@ -85,7 +88,7 @@
         <text>help w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
     </registers>
     <search>
