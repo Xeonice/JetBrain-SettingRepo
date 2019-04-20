@@ -21,7 +21,6 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/choerodon-front-agile/agile/src/app/agile/components/EditIssueNarrow/EditIssueNarrow.js" timestamp="1555239651863" />
       <file name="$USER_HOME$/ant-design/components/breadcrumb/Breadcrumb.tsx" timestamp="1539354506290">
         <mark key="[" line="76" column="26" />
         <mark key="]" line="76" column="25" />
@@ -31,6 +30,13 @@
       <file name="/__dummy.xml" timestamp="1539319380805">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bisheng/packages/bisheng/node_modules/mark-twain/src/transformer.js" timestamp="1555524598032">
+        <mark key="'" line="79" column="28" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
       <file name="/a.regexp" timestamp="1539354550092">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,7 +44,9 @@
         <mark key="[" line="261" column="48" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="79" column="28" filename="$USER_HOME$/bisheng/packages/bisheng/node_modules/mark-twain/src/transformer.js" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">fCDlsZ7mgKcgfCDor7TmmI4gfCDnsbvlnosgfCDpu5jorqTlgLwgfAp8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8Cg==</text>
@@ -70,6 +78,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
