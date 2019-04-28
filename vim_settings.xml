@@ -49,8 +49,10 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="48" column="55" />
       </file>
-      <file name="$USER_HOME$/hello-spring/src/main/java/geektime/spring/hello/hellospring/HelloSpringApplication.java" timestamp="1556470263205">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/hello-spring/src/main/java/geektime/spring/hello/hellospring/HelloSpringApplication.java" timestamp="1556471619975">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="13" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -78,7 +80,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHVibGljIGNsYXNzIA==</text>
@@ -90,10 +92,10 @@
         <text>item</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -102,19 +104,19 @@
         <text encoding="base64">Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIFkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIFkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77ya5rip5p+U5bCP54yqCiAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC96YXEwMTIzL2FydGljbGUvZGV0YWlscy83NzQ4OTc2MiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIFkCg==</text>
       </register>
       <register name=":" type="4">
         <text>help w</text>
