@@ -53,6 +53,9 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="48" column="55" />
       </file>
+      <file name="$USER_HOME$/jpress/module-article/module-article-web/src/main/java/io/jpress/module/article/directive/PreviousArticleDirective.java" timestamp="1561706664898">
+        <mark key="[" line="45" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/java_prac/src/Week_4/Database.java" />
