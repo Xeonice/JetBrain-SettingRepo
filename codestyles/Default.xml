@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
@@ -11,6 +11,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
