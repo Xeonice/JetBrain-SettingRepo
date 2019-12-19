@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Table" type="JSX Harmony" />
       <mapping pattern="EditSprintName" type="JSX Harmony" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="issueFlowTest" type="Jest Snapshot" />
