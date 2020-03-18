@@ -11,7 +11,6 @@
       <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
       <mapping pattern="choerodon-front-boot-test" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping pattern="IssueItem" type="TypeScript JSX" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
