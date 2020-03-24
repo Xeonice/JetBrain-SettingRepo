@@ -5,7 +5,6 @@
       <mapping pattern="EditSprintName" type="JSX Harmony" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="issueFlowTest" type="Jest Snapshot" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="index。js" type="PLAIN_TEXT" />
       <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
