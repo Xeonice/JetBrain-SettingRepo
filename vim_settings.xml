@@ -85,10 +85,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorComponentTree.jsx" timestamp="1586528887163">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorComponentTree.jsx" timestamp="1586529667864">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1586521565139">
         <mark key="[" line="0" column="10" />
@@ -248,8 +248,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>layout</text>
       </register>
       <register name="-" type="4">
         <text>layout</text>
