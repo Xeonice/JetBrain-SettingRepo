@@ -89,15 +89,16 @@
         <mark key="[" line="36" column="16" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586506489971" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1586514552864">
+        <mark key="[" line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586502617329">
         <mark key="[" line="171" column="62" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/index.js" timestamp="1586510614832" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586510988632">
-        <mark key="[" line="33" column="14" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586513522400" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1586502961229">
         <mark key="[" line="33" column="74" />
         <mark key="]" line="29" column="31" />
@@ -107,11 +108,6 @@
         <mark key="[" line="323" column="19" />
         <mark key="]" line="336" column="0" />
         <mark key="." line="336" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586508005956">
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="33" />
-        <mark key="." line="52" column="33" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586503870796">
         <mark key="[" line="97" column="48" />
@@ -237,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>store</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text encoding="base64">c3RlcHNTdG9yZS50cmFuc2Zvcm0uc3RlcHMubWFwKChpdGVtKSA9PiA=</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -250,33 +246,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGN1cnJlbnRDb2RlID09PSBpdGVtLmNvZGUgPyAnYmxvY2snIDogJ25vbmUnLAogICAgICAgICAgICAgICAgfX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZXM9e3N0eWxlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAoaXRlbS5fX3RlbXBGaWVsZCB8fCB7fSkuZGlzcGxheU5hbWUsCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-          return { ...baseComponentStore.componentSet.get(item.code), attributeJson: baseComponentStore.componentSet.get(item.code).props };
-      }</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+      </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
