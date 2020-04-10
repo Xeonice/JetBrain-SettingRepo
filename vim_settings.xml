@@ -88,6 +88,7 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1586502282725">
         <mark key="[" line="36" column="16" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586506489971" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586502617329">
         <mark key="[" line="171" column="62" />
         <mark key="]" line="146" column="0" />
@@ -98,10 +99,10 @@
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586505719621">
-        <mark key="[" line="343" column="104" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586507196531">
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586503870796">
         <mark key="[" line="97" column="48" />
@@ -114,6 +115,12 @@
       <file name="/Tabs.jsx" timestamp="1586502794345" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586503488433">
         <mark key="[" line="106" column="77" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1586506502588">
+        <mark key="[" line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
+        <mark key="[" line="1009" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -221,8 +228,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Array.from(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
       </register>
       <register name="-" type="4">
         <text>Array.from(</text>
@@ -234,33 +241,33 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAoaXRlbS5fX3RlbXBGaWVsZCB8fCB7fSkuZGlzcGxheU5hbWUsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
           return { ...baseComponentStore.componentSet.get(item.code), attributeJson: baseComponentStore.componentSet.get(item.code).props };
       }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cmFjZSh0cnVlKTsK</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cmFjZSh0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogIGAke3N0b3JlLnRlbXB9Y2A7CiAgYCR7c3RvcmUudGVtcH1mYDs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3Qgc3RvcmUgPSB7CiAgICB0ZW1wOiA1LAogICAgc2V0VGVtcCh2YWx1ZSkgewogICAgICBzdG9yZS50ZW1wID0gdmFsdWU7CiAgICB9LAogICAgZ2V0IHNoZXNoaWR1KCkgewogICAgICByZXR1cm4gYGA7CiAgICB9LAogICAgZ2V0IGh1YXNoaWR1KCkgewogICAgICByZXR1cm4gYGdvbmdzaGkgKyBmYDsKICAgIH0sCiAgfTs=</text>
+        <text encoding="base64">CgogIGAke3N0b3JlLnRlbXB9Y2A7CiAgYCR7c3RvcmUudGVtcH1mYDs=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
