@@ -85,18 +85,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1586502282725">
-        <mark key="[" line="36" column="16" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorComponentTree.jsx" timestamp="1586522805787">
+        <mark key="[" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586502617329">
-        <mark key="[" line="171" column="62" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="/a.dummy" timestamp="1586521565139">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/index.js" timestamp="1586510614832" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Table.jsx" timestamp="1586518792805" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/DataStructure.js" timestamp="1586518635482">
         <mark key="[" line="64" column="45" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1586521861347">
+        <mark key="[" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586519882339">
         <mark key="[" line="346" column="103" />
@@ -117,29 +118,25 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1586518932715">
         <mark key="[" line="251" column="55" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586503488433">
-        <mark key="[" line="106" column="77" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1586521881551">
+        <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1586506502588">
-        <mark key="[" line="33" column="15" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorBoolean.jsx" timestamp="1586521503939">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586506489971" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/FieldContainer/FieldContainer.jsx" timestamp="1586518797774" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1586514552864">
         <mark key="[" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorCompnoentTree.jsx" timestamp="1586521535079">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586513522400" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1586502961229">
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleList/index.jsx" timestamp="1586505429977">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="73" column="47" />
-        <mark key="." line="73" column="47" />
-      </file>
-      <file name="/Tabs.jsx" timestamp="1586502794345" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1586521515836" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
         <mark key="[" line="1009" column="27" />
       </file>
@@ -250,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text />
+        <text encoding="base64">ICAvLyDphY3nva4gb3BlcmF0ZUZsYWcg6K6+572u5a2X5q615bGe5oCn5o6n5Yi255qE5by65YWz6IGULOS4tOaXtuaWueahiAogIGNvbnN0IGNoZWNrZWQgPSB1c2VNZW1vKCgpID0+IHBsdWdpblByb3BzLm9wZXJhdGVGbGFnID09PSAnbm8nID8gZmFsc2UgOiBjdXJyZW50VmFsdWUsIFtwbHVnaW5Qcm9wcy5vcGVyYXRlRmxhZywgY3VycmVudFZhbHVlXSk7CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChwbHVnaW5Qcm9wcy5vcGVyYXRlRmxhZyA9PT0gJ25vJykgewogICAgICBzdG9yZS5zZXRWYWx1ZShKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KG9wZXJhdGVBcnIpKSwgY2hlY2tlZCk7CiAgICB9CiAgfSwgW2NoZWNrZWRdKTsKICAvLyBlbmRzCiAgcmV0dXJuICgKICAgIDxGb3JtIGxhYmVsTGF5b3V0PSJ2ZXJ0aWNhbCI+CiAgICAgIDxDaGVja0JveAogICAgICAgIGxhYmVsPXt0ZXh0fQogICAgICAgIC8vIOiuvue9ruWtl+auteeahG9wZXJhdGVGbGFn5bGe5oCnCiAgICAgICAgY2hlY2tlZD17Y2hlY2tlZH0KICAgICAgICBvbkNoYW5nZT17dmFsdWUgPT4gewogICAgICAgICAgc3RvcmUuc2V0VmFsdWUoSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShvcGVyYXRlQXJyKSksIHZhbHVlKTsKICAgICAgICB9fQogICAgICAgIHsuLi5wbHVnaW5Qcm9wc30KICAgICAgLz4KICAgIDwvRm9ybT4KICApOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RlcHNTdG9yZS50cmFuc2Zvcm0uc3RlcHMubWFwKChpdGVtKSA9PiA=</text>
+        <text>store, text, operateArr, currentValue, pluginProps</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -262,19 +259,19 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">ICAvLyDphY3nva4gb3BlcmF0ZUZsYWcg6K6+572u5a2X5q615bGe5oCn5o6n5Yi255qE5by65YWz6IGULOS4tOaXtuaWueahiAogIGNvbnN0IGNoZWNrZWQgPSB1c2VNZW1vKCgpID0+IHBsdWdpblByb3BzLm9wZXJhdGVGbGFnID09PSAnbm8nID8gZmFsc2UgOiBjdXJyZW50VmFsdWUsIFtwbHVnaW5Qcm9wcy5vcGVyYXRlRmxhZywgY3VycmVudFZhbHVlXSk7CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChwbHVnaW5Qcm9wcy5vcGVyYXRlRmxhZyA9PT0gJ25vJykgewogICAgICBzdG9yZS5zZXRWYWx1ZShKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KG9wZXJhdGVBcnIpKSwgY2hlY2tlZCk7CiAgICB9CiAgfSwgW2NoZWNrZWRdKTsKICAvLyBlbmRzCiAgcmV0dXJuICgKICAgIDxGb3JtIGxhYmVsTGF5b3V0PSJ2ZXJ0aWNhbCI+CiAgICAgIDxDaGVja0JveAogICAgICAgIGxhYmVsPXt0ZXh0fQogICAgICAgIC8vIOiuvue9ruWtl+auteeahG9wZXJhdGVGbGFn5bGe5oCnCiAgICAgICAgY2hlY2tlZD17Y2hlY2tlZH0KICAgICAgICBvbkNoYW5nZT17dmFsdWUgPT4gewogICAgICAgICAgc3RvcmUuc2V0VmFsdWUoSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShvcGVyYXRlQXJyKSksIHZhbHVlKTsKICAgICAgICB9fQogICAgICAgIHsuLi5wbHVnaW5Qcm9wc30KICAgICAgLz4KICAgIDwvRm9ybT4KICApOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGN1cnJlbnRDb2RlID09PSBpdGVtLmNvZGUgPyAnYmxvY2snIDogJ25vbmUnLAogICAgICAgICAgICAgICAgfX0=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZXM9e3N0eWxlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGN1cnJlbnRDb2RlID09PSBpdGVtLmNvZGUgPyAnYmxvY2snIDogJ25vbmUnLAogICAgICAgICAgICAgICAgfX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZXM9e3N0eWxlfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -283,10 +280,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
