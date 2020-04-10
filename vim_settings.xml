@@ -99,10 +99,15 @@
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586507196531">
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586508634610">
+        <mark key="[" line="346" column="86" />
+        <mark key="]" line="327" column="30" />
+        <mark key="." line="327" column="30" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586508005956">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586503870796">
         <mark key="[" line="97" column="48" />
@@ -228,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+      <register name="&quot;" type="4">
+        <text>length</text>
       </register>
       <register name="-" type="4">
-        <text>Array.from(</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -241,33 +246,33 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAoaXRlbS5fX3RlbXBGaWVsZCB8fCB7fSkuZGlzcGxheU5hbWUsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
           return { ...baseComponentStore.componentSet.get(item.code), attributeJson: baseComponentStore.componentSet.get(item.code).props };
       }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text />
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFjZSh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogIGAke3N0b3JlLnRlbXB9Y2A7CiAgYCR7c3RvcmUudGVtcH1mYDs=</text>
+        <text encoding="base64">ICB0cmFjZSh0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
