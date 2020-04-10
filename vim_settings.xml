@@ -88,30 +88,51 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1586502282725">
         <mark key="[" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586506489971" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1586514552864">
-        <mark key="[" line="15" column="30" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586502617329">
         <mark key="[" line="171" column="62" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/index.js" timestamp="1586510614832" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Table.jsx" timestamp="1586518792805" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/DataStructure.js" timestamp="1586518635482">
+        <mark key="[" line="64" column="45" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586519882339">
+        <mark key="[" line="346" column="103" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586516904029">
+        <mark key="[" line="115" column="22" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1586518148557">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586519348725">
+        <mark key="[" line="193" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1586518932715">
+        <mark key="[" line="251" column="55" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586503488433">
+        <mark key="[" line="106" column="77" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1586506502588">
+        <mark key="[" line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586506489971" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/FieldContainer/FieldContainer.jsx" timestamp="1586518797774" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1586514552864">
+        <mark key="[" line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586513522400" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1586502961229">
         <mark key="[" line="33" column="74" />
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586510085309">
-        <mark key="[" line="323" column="19" />
-        <mark key="]" line="336" column="0" />
-        <mark key="." line="336" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586514973633" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586503870796">
-        <mark key="[" line="97" column="48" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleList/index.jsx" timestamp="1586505429977">
         <mark key="[" line="42" column="32" />
@@ -119,12 +140,6 @@
         <mark key="." line="73" column="47" />
       </file>
       <file name="/Tabs.jsx" timestamp="1586502794345" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586503488433">
-        <mark key="[" line="106" column="77" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1586506502588">
-        <mark key="[" line="33" column="15" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
         <mark key="[" line="1009" column="27" />
       </file>
@@ -235,7 +250,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RlcHNTdG9yZS50cmFuc2Zvcm0uc3RlcHMubWFwKChpdGVtKSA9PiA=</text>
@@ -247,16 +262,16 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGN1cnJlbnRDb2RlID09PSBpdGVtLmNvZGUgPyAnYmxvY2snIDogJ25vbmUnLAogICAgICAgICAgICAgICAgfX0=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgfX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZXM9e3N0eWxlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGN1cnJlbnRDb2RlID09PSBpdGVtLmNvZGUgPyAnYmxvY2snIDogJ25vbmUnLAogICAgICAgICAgICAgICAgfX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZXM9e3N0eWxlfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -265,13 +280,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
+        <text encoding="base64">ICAgIC8vIGNvbXB1dGVkCiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WuueWZqOaAp+e7hOS7ticsIGNvbnRhaW5lclN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnY29udGFpbmVyU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+e7k+aehOaAp+e7hOS7ticsIHN0Y1N0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCkpOwogICAgfSwgewogICAgICBuYW1lOiAnc3RjU3RvcmUnLAogICAgfSk7CiAgICBhdXRvcnVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ+WfuuehgOe7hOS7ticsIGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudG9KUygpLnZhbHVlcygpKTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2Jhc2VDb21wb25lbnRTdG9yZScsCiAgICB9KTsKICAgIGF1dG9ydW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygn5biD5bGAJywgbGF5b3V0U3RvcmUuZ2V0TGF5b3V0KTsKICAgIH0sIHsKICAgICAgbmFtZTogJ2xheW91dFN0b3JlJywKICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB1c2VFZmZlY3QoKCkgPT4gewoKICAgIH0sIFtdKTs=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
