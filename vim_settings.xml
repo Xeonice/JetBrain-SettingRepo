@@ -85,72 +85,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1586429042195">
-        <mark key="[" line="157" column="27" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1586502282725">
+        <mark key="[" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1586489132947">
-        <mark key="[" line="177" column="24" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleSetting.jsx" timestamp="1586432361164">
-        <mark key="[" line="30" column="57" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleList/RightForm.jsx" timestamp="1586428919599">
-        <mark key="[" line="187" column="71" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586500830356">
-        <mark key="[" line="164" column="27" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586502617329">
+        <mark key="[" line="171" column="62" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1586489139234">
-        <mark key="[" line="34" column="24" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1586502961229">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Radio/index.js" timestamp="1586489172476">
-        <mark key="[" line="108" column="18" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586503325524">
+        <mark key="[" line="338" column="1" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/index.js" timestamp="1586489101229">
-        <mark key="[" line="176" column="23" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586503870796">
+        <mark key="[" line="97" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Lov/index.js" timestamp="1586489124557">
-        <mark key="[" line="168" column="17" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleList/index.jsx" timestamp="1586433019496">
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="74" column="47" />
-        <mark key="." line="74" column="47" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/index.js" timestamp="1586489162339">
-        <mark key="[" line="131" column="19" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1586489166350">
-        <mark key="[" line="109" column="21" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Select/index.js" timestamp="1586489178881">
-        <mark key="[" line="125" column="19" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1586489094254">
-        <mark key="[" line="190" column="21" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1586489088378">
-        <mark key="[" line="110" column="19" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586429668867">
-        <mark key="[" line="108" column="38" />
-        <mark key="]" line="116" column="39" />
-        <mark key="." line="116" column="39" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1586489150845">
-        <mark key="[" line="129" column="18" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/RuleManagerModal.jsx" timestamp="1586424980612">
-        <mark key="]" line="225" column="50" />
-        <mark key="^" line="225" column="50" />
-        <mark key="." line="225" column="50" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586429210665">
-        <mark key="[" line="336" column="7" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
+      <file name="/Tabs.jsx" timestamp="1586502794345" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586503488433">
+        <mark key="[" line="106" column="77" />
       </file>
     </filemarks>
     <jumps>
@@ -258,11 +216,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Array.from(</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>Array.from(</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
