@@ -135,11 +135,6 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
         <mark key="[" line="1009" column="27" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586746182135">
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
