@@ -129,14 +129,11 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586741108612" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1586743768802">
+        <mark key="[" line="177" column="18" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
         <mark key="[" line="1009" column="27" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586526307633">
-        <mark key="[" line="109" column="11" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
       </file>
     </filemarks>
     <jumps>
