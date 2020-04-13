@@ -99,6 +99,11 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/demo/basic.md" timestamp="1586775684613">
         <mark key="[" line="368" column="21" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/FieldContainer/FieldContainer.jsx" timestamp="1586777978120">
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="80" column="31" />
+        <mark key="." line="80" column="31" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/Render/transformResp.js" timestamp="1586768769492">
         <mark key="[" line="36" column="9" />
       </file>
@@ -128,9 +133,6 @@
         <mark key="[" line="428" column="0" />
         <mark key="]" line="428" column="0" />
         <mark key="." line="428" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586761746217">
-        <mark key="[" line="120" column="4" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1586765421787" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/utils/usePageDataTrans.jsx" timestamp="1586776440517">
@@ -263,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>getShowData</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>v</text>
