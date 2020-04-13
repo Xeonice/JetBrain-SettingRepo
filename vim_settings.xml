@@ -135,6 +135,11 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586506546094">
         <mark key="[" line="1009" column="27" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586746182135">
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -242,7 +247,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbLi4uYmFzZUNvbXBvbmVudFN0b3JlLmNvbXBvbmVudFNldC52YWx1ZXMoKV0KICAgICAgICAgIC5maWx0ZXIoKGNvbXBvbmVudCkgPT4gY29tcG9uZW50LmNvbXBvbmVudENvZGUgPT09IGNoYW5nZS5vbGRWYWx1ZS5jb2RlKQogICAgICAgICAgLmZvckVhY2goKGNvbXBvbmVudCkgPT4gewogICAgICAgICAgICBiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0LmRlbGV0ZShjb21wb25lbnQuY29kZSk7CiAgICAgICAgICB9KTs=</text>
       </register>
       <register name="-" type="4">
         <text>layout</text>
@@ -254,31 +259,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbLi4uYmFzZUNvbXBvbmVudFN0b3JlLmNvbXBvbmVudFNldC52YWx1ZXMoKV0KICAgICAgICAgIC5maWx0ZXIoKGNvbXBvbmVudCkgPT4gY29tcG9uZW50LmNvbXBvbmVudENvZGUgPT09IGNoYW5nZS5vbGRWYWx1ZS5jb2RlKQogICAgICAgICAgLmZvckVhY2goKGNvbXBvbmVudCkgPT4gewogICAgICAgICAgICBiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0LmRlbGV0ZShjb21wb25lbnQuY29kZSk7CiAgICAgICAgICB9KTs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CiAgY29uc3Qgc3RjQW5kQ29udGFpbmVyUmVuZGVyID0gKGxheW91dCkgPT4gewogICAgZGVidWdnZXI7CiAgICBpZiAoc3RjU3RvcmUuY29tcG9uZW50U2V0LmhhcyhsYXlvdXQudHJhbnNmb3JtLmNvbXBvbmVudENvZGUpKSB7CiAgICAgIGNvbnN0IHN0Y0NvbXBvbmVudCA9IHN0Y1N0b3JlLmNvbXBvbmVudFNldC5nZXQobGF5b3V0LnRyYW5zZm9ybS5jb21wb25lbnRDb2RlKTsKICAgICAgcmV0dXJuICgKICAgICAgICA8VHJlZU5vZGUgdGl0bGU9e3N0Y0NvbXBvbmVudC5jb2RlfSBrZXk9e3N0Y0NvbXBvbmVudC5jb2RlfT4KICAgICAgICAgIHtiYXNlQ29tcG9uZW50UmVuZGVyKHN0Y0NvbXBvbmVudCl9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0KICAgIGlmIChjb250YWluZXJTdG9yZS5jb21wb25lbnRTZXQuaGFzKGxheW91dC50cmFuc2Zvcm0uY29tcG9uZW50Q29kZSkpIHsKICAgICAgY29uc3QgY29udGFpbmVyQ29tcG9uZW50ID0gY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0LmdldChsYXlvdXQudHJhbnNmb3JtLmNvbXBvbmVudENvZGUpOwogICAgICByZXR1cm4gKAogICAgICAgIDxUcmVlTm9kZSB0aXRsZT17Y29udGFpbmVyQ29tcG9uZW50LmNvZGV9IGtleT17Y29udGFpbmVyQ29tcG9uZW50LmNvZGV9PgogICAgICAgICAge2NvbnRhaW5lckNvbXBvbmVudFJlbmRlcihjb250YWluZXJDb21wb25lbnQpfQogICAgICAgIDwvVHJlZU5vZGU+CiAgICAgICk7CiAgICB9CiAgfTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bGF5b3V0U3RvcmUubGF5b3V0CiAgICAgICAgLmZpbHRlcigobHkpID0+IGx5LmNvZGUgPT09IGxheW91dC5jb2RlKQogICAgICAgIC5tYXAoKGx5KSA9PiAo</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChbLi4uY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0LnZhbHVlcygpXS5maW5kKChjaGlsZENvbnRhaW5lcikgPT4gY2hpbGRDb250YWluZXIucGFyZW50Q29udGFpbmVyQ29kZSA9PT0gY29udGFpbmVyLmNvZGUpKSB7CiAgICAgIHJldHVybiBbLi4uY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0LnZhbHVlcygpXQogICAgICAgIC5maWx0ZXIoKGNoaWxkQ29udGFpbmVyKSA9PiBjaGlsZENvbnRhaW5lci5wYXJlbnRDb250YWluZXJDb2RlID09PSBjb250YWluZXIuY29kZSkKICAgICAgICAubWFwKChjaGlsZENvbnRhaW5lcikgPT4gKAogICAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtjaGlsZENvbnRhaW5lci5jb2RlfSBrZXk9e2NoaWxkQ29udGFpbmVyLmNvZGV9PgogICAgICAgICAgICB7Y29udGFpbmVyQ29tcG9uZW50UmVuZGVyKHsKICAgICAgICAgICAgICBjaGlsZENvbnRhaW5lciwKICAgICAgICAgICAgfSl9CiAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICkpOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8VHJlZU5vZGUgdGl0bGU9e2NvbnRhaW5lci5jb2RlfSBrZXk9e2NvbnRhaW5lci5jb2RlfT4KICAgICAgICAgIHtsYXlvdXRSZW5kZXIoewogICAgICAgICAgICBsYXlvdXQsCiAgICAgICAgICB9KX0KICAgICAgICA8L1RyZWVOb2RlPgogICAgICApOwogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChbLi4uY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0LnZhbHVlcygpXS5maW5kKChjaGlsZENvbnRhaW5lcikgPT4gY2hpbGRDb250YWluZXIucGFyZW50Q29udGFpbmVyQ29kZSA9PT0gY29udGFpbmVyLmNvZGUpKSB7CiAgICAgIHJldHVybiBbLi4uY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0LnZhbHVlcygpXQogICAgICAgIC5maWx0ZXIoKGNoaWxkQ29udGFpbmVyKSA9PiBjaGlsZENvbnRhaW5lci5wYXJlbnRDb250YWluZXJDb2RlID09PSBjb250YWluZXIuY29kZSkKICAgICAgICAubWFwKChjaGlsZENvbnRhaW5lcikgPT4gKAogICAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtjaGlsZENvbnRhaW5lci5jb2RlfSBrZXk9e2NoaWxkQ29udGFpbmVyLmNvZGV9PgogICAgICAgICAgICB7Y29udGFpbmVyQ29tcG9uZW50UmVuZGVyKHsKICAgICAgICAgICAgICBjaGlsZENvbnRhaW5lciwKICAgICAgICAgICAgfSl9CiAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICkpOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8VHJlZU5vZGUgdGl0bGU9e2NvbnRhaW5lci5jb2RlfSBrZXk9e2NvbnRhaW5lci5jb2RlfT4KICAgICAgICAgIHtsYXlvdXRSZW5kZXIoewogICAgICAgICAgICBsYXlvdXQsCiAgICAgICAgICB9KX0KICAgICAgICA8L1RyZWVOb2RlPgogICAgICApOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
