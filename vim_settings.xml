@@ -85,9 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/ClassifyEditorSetting.jsx" timestamp="1586830153564">
-        <mark key="[" line="5" column="48" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/Render/transformResp.js" timestamp="1586834907963">
         <mark key="[" line="151" column="0" />
       </file>
@@ -117,7 +114,7 @@
         <mark key="[" line="80" column="14" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586831108685" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1586833196003">
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1586856327821">
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -139,6 +136,9 @@
         <mark key="[" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/config/compileStartEnv.js" timestamp="1586854016517" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/ButtonRender.jsx" timestamp="1586856490738">
+        <mark key="[" line="110" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
