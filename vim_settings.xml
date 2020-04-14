@@ -85,6 +85,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1586867849055">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/Render/transformResp.js" timestamp="1586834907963">
         <mark key="[" line="151" column="0" />
       </file>
@@ -96,27 +101,14 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/index.js" timestamp="1586834600011">
         <mark key="[" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586833695910">
-        <mark key="[" line="497" column="44" />
-        <mark key="]" line="428" column="0" />
-        <mark key="." line="428" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1586866559048">
         <mark key="[" line="116" column="23" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1586833417684">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1586865025431" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Card/Card.jsx" timestamp="1586865500310">
         <mark key="[" line="58" column="32" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/lib/routes/PageDesigner/SideBar/StructuralComponentSelector/StructuralComponentSelector.js" timestamp="1586854018115" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1586833709739">
-        <mark key="[" line="80" column="14" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/FieldContainer/FieldContainer.jsx" timestamp="1586864900205">
         <mark key="[" line="81" column="31" />
         <mark key="]" line="81" column="31" />
@@ -141,7 +133,13 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/utils/usePageDataTrans.jsx" timestamp="1586848223355">
         <mark key="[" line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1586867326724">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="150" column="22" />
+        <mark key="." line="150" column="22" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/config/compileStartEnv.js" timestamp="1586854016517" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1586867793893" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/ButtonRender.jsx" timestamp="1586864027765">
         <mark key="[" line="110" column="46" />
       </file>
@@ -252,7 +250,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -264,16 +262,16 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBnZXRTaG93RGF0YSA9ICgpID0+IHsKICAgIGNvbnN0IGJhc2VDb21wb25lbnRzID0gWy4uLmJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudmFsdWVzKCldOwogICAgY29uc3QgY29tcG9uZW50cyA9IFtmb3JtU3RvcmUuZ2V0SlNPTkRhdGFdOwogICAgY29uc3QgYmFzaWNDb21wb25lbnRzID0gYmFzZUNvbXBvbmVudHMubWFwKGl0ZW0gPT4gaXRlbS5nZXRKU09ORGF0YSB8fCBpdGVtKTsKICAgIHJldHVybiB7CiAgICAgIGJhc2ljQ29tcG9uZW50cywKICAgICAgY29tcG9uZW50cywKICAgIH07CiAgfTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBnZXRTaG93RGF0YSA9ICgpID0+IHsKICAgIGNvbnN0IGJhc2VDb21wb25lbnRzID0gWy4uLmJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQudmFsdWVzKCldOwogICAgY29uc3QgY29tcG9uZW50cyA9IFtmb3JtU3RvcmUuZ2V0SlNPTkRhdGFdOwogICAgY29uc3QgYmFzaWNDb21wb25lbnRzID0gYmFzZUNvbXBvbmVudHMubWFwKGl0ZW0gPT4gaXRlbS5nZXRKU09ORGF0YSB8fCBpdGVtKTsKICAgIHJldHVybiB7CiAgICAgIGJhc2ljQ29tcG9uZW50cywKICAgICAgY29tcG9uZW50cywKICAgIH07CiAgfTs=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -285,7 +283,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOmihOiniOaAgeaVsOaNrgogICAgLy8gY29uc3QgeyBsYXlvdXRTdG9yZSwgYmFzZUNvbXBvbmVudFN0b3JlLCBzdGNTdG9yZSwgY29udGFpbmVyU3RvcmUgfSA9IHVzZVBhZ2VEZXNpZ25lclN0b3JlKCk7CiAgICBkZWJ1Z2dlcjs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
