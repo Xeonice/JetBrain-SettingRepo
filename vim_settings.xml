@@ -85,13 +85,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-ComponentTree/EditorComponentTree.jsx" timestamp="1586766880314">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1586831108685" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/demo/basic.md" timestamp="1586775684613">
         <mark key="[" line="368" column="21" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/ClassifyEditorSetting.jsx" timestamp="1586830153564">
+        <mark key="[" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/FieldContainer/FieldContainer.jsx" timestamp="1586777978120">
         <mark key="[" line="81" column="31" />
@@ -104,14 +103,11 @@
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/AppProval/AppProvalList/Store/index.js" timestamp="1586779382916">
         <mark key="[" line="15" column="73" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Table.jsx" timestamp="1586831508604">
+        <mark key="[" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1586827701051">
         <mark key="[" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/index.js" timestamp="1586767103292">
-        <mark key="[" line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/store/DataStructure.js" timestamp="1586767251477">
-        <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1586776784768">
         <mark key="[" line="16" column="0" />
@@ -119,8 +115,8 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1586829212645">
-        <mark key="[" line="175" column="53" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1586830285534">
+        <mark key="[" line="180" column="53" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/ButtonsAndCommandArea/ButtonsAndCommandArea.jsx" timestamp="1586778052712">
         <mark key="[" line="181" column="46" />
@@ -129,12 +125,7 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/stores/utils.tsx" timestamp="1586779316110">
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/utils/usePageDataTrans.jsx" timestamp="1586781874103">
-        <mark key="[" line="21" column="41" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/store/index.js" timestamp="1586767189512">
-        <mark key="[" line="8" column="92" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/utils/usePageDataTrans.jsx" timestamp="1586830651808" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/utils/index.js" timestamp="1586775203017">
         <mark key="[" line="0" column="0" />
       </file>
