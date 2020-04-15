@@ -85,8 +85,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586938876802">
-        <mark key="[" line="53" column="36" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586943033738">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1586939376186" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1586936811727">
@@ -106,7 +108,11 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/ClassifyEditorSetting.jsx" timestamp="1586939096865">
         <mark key="[" line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1586934350401" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1586942560860">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="7" />
+        <mark key="." line="78" column="7" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586941817429" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/DatePicker.jsx" timestamp="1586934111962">
         <mark key="[" line="9" column="0" />
@@ -259,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filter</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -275,28 +281,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7CiAgICB0eXBlOiAnZWRpdG9yLWNvbXBvbmVudFRyZWUnLAogIH0s</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICB7CiAgICB0eXBlOiAnZWRpdG9yLWNvbXBvbmVudFRyZWUnLAogIH0s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXRDb250ZW50KCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgLy8gLnNvcnQoKGEsIGIpID0+IHsKICAgIC8vICAgcmV0dXJuIGFbMF0udHJhbnNmb3JtLnkgPCBiWzBdLnRyYW5zZm9ybS55OwogICAgLy8gfSk=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZXRDb250ZW50KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAogICAgLy8gLnNvcnQoKGEsIGIpID0+IHsKICAgIC8vICAgcmV0dXJuIGFbMF0udHJhbnNmb3JtLnkgPCBiWzBdLnRyYW5zZm9ybS55OwogICAgLy8gfSk=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmuIXpmaTln7rnoYDnu4Tku7YKICAgICAgICAvLyBbLi4uYmFzZUNvbXBvbmVudFN0b3JlLmNvbXBvbmVudFNldC50b0pTKCkudmFsdWVzKCldLmZvckVhY2goYmFzZUl0ZW0gPT4gewogICAgICAgIC8vICAgaWYgKGJhc2VJdGVtLmNvbXBvbmVudENvZGUgPT09IGNvZGUpIHsKICAgICAgICAvLyAgICAgLy8g5Yig6Zmk5LmL5YmN5Yik5pat5pyJ5rKh5pyJ5YWz6IGU5a6D55qEbGF5b3V077yM5L6L5aaCc3RvcmXnu4Tku7YKICAgICAgICAvLyAgICAgY29uc3QgY2hpbGRMYXlvdXQgPSBsYXlvdXRTdG9yZS5nZXRMYXlvdXQuZmluZChsYXlvdXRJdGVtID0+IGxheW91dEl0ZW0ucGFyZW50Q29udGFpbmVyQ29kZSA9PT0gYmFzZUl0ZW0uY29kZSk7CiAgICAgICAgLy8gICAgIGlmIChjaGlsZExheW91dCAmJiBjaGlsZExheW91dC5fX3N0Y0NvZGUpIHsKICAgICAgICAvLyAgICAgICBvbkVkaXRvckNhbGxCYWNrKCdkZWxldGUnLCBjaGlsZExheW91dC5fX3N0Y0NvZGUpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gICAgIC8vIOWIoOmZpOWfuuehgOe7hOS7tgogICAgICAgIC8vICAgICBiYXNlQ29tcG9uZW50U3RvcmUuZGVSZWdpc3RlcihiYXNlSXRlbS5jb2RlKTsKICAgICAgICAvLyAgIH0KICAgICAgICAvLyB9KTsKICAgICAgICAvLyAvLyDmuIXpmaTnu5PmnoTmgKfnu4Tku7YKICAgICAgICAvLyBzdGNTdG9yZS5kZVJlZ2lzdGVyKGNvZGUpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
