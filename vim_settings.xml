@@ -85,10 +85,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586951260241">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586957858875">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-front-boot/package.json" timestamp="1586950121161" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1586939376186" />
@@ -134,7 +134,7 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1586955543718">
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1586956394200">
         <mark key="[" line="171" column="65" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -151,11 +151,11 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1586939409699">
         <mark key="[" line="182" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1586954249661">
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="10" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1586957018477">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586936158393">
         <mark key="[" line="624" column="12" />
@@ -270,7 +270,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>添加组件</text>
+        <text>hashMap[store.type](store, item)</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -282,28 +282,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text>import { formFilter } from '../../../StcComponents/Form/store/DataStructure';
+import { tableFilter } from '../../../StcComponents/Table/store/DataStructure';</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgdGFiPXsKICAgIC8vICAgLy8g5re75Yqg57uE5Lu26aG1562+CiAgICAvLyAgIDxUYWJMYWJlbAogICAgLy8gICAgIHRpdGxlPSLmt7vliqDnu4Tku7YiCiAgICAvLyAgICAgYWN0aXZlSW1nPXtzdHlsZXMuYWN0aXZlQWRkQ29tVGFifQogICAgLy8gICAgIGluQWN0aXZlSW1nPXtzdHlsZXMuYWRkQ29tVGFifQogICAgLy8gICAgIGNvbmRpdGlvbj0iZGVmYXVsdCIKICAgIC8vICAgLz4KICAgIC8vIH0=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwogICAgcmV0dXJuICgKICAgICAgPFRhYlBhbmUKICAgICAgICB0YWI9Iua3u+WKoOe7hOS7tiIKICAgICAgICBrZXk9ImRlZmF1bHQiCiAgICAgID4KICAgICAgICA0NzgxMjc0ODkxMgogICAgICAgIHsvKjxTdHJ1Y3R1cmFsQ29tcG9uZW50U2VsZWN0b3IgLz4qL30KICAgICAgPC9UYWJQYW5lPgogICAgKTsKICAgIGRlYnVnZ2VyOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgY29uc3QgaGFzaE1hcCA9IHsKICAgIEZvcm06IGZvcm1GaWx0ZXIsCiAgICBUYWJsZTogdGFibGVGaWx0ZXIsCiAgfTs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIOa3u+WKoOe7hOS7tumhteetvgogICAgICAgICAgICA8VGFiTGFiZWwKICAgICAgICAgICAgICB0aXRsZT0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnNvbGUubG9nKGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQpOwogIH0sIFtiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0XSk7CgogIGNvbnN0IEZpZWxkUmVuZGVyID0gbW9kYWxJdGVtID0+IHsKICAgIGlmIChmaWx0ZXIpIHsKICAgICAgcmV0dXJuICgKICAgICAgICBtb2RhbEl0ZW0uZmllbGRzICYmCiAgICAgICAgbW9kYWxJdGVtLmZpZWxkcy5maWx0ZXIoaXRlbSA9PiBmaWx0ZXIoc3RvcmUsIGl0ZW0pKS5tYXAoZmllbGQgPT4gPEZpZWxkIG9iaj17ZmllbGR9IC8+KQogICAgICApOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIG1vZGFsSXRlbS5maWVsZHMgJiYKICAgICAgbW9kYWxJdGVtLmZpZWxkcwogICAgICAgIC5maWx0ZXIoaXRlbSA9PiBoYXNoTWFwW3N0b3JlLnR5cGVdKHN0b3JlLCBpdGVtKSkKICAgICAgICAubWFwKGZpZWxkID0+IDxGaWVsZCBvYmo9e2ZpZWxkfSBmaWVsZFR5cGU9e2ZpZWxkVHlwZX0gLz4pCiAgICApOwogIH07</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBpZiAoY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0Lmhhcyhwcm9wc1BhbmVsLmN1cnJlbnRTdGNDb21wb25lbnQpKSB7CiAgICAgIGRlYnVnZ2VyOwogICAgICByZXR1cm4gKAogICAgICAgIDxUYWJQYW5lCiAgICAgICAgICB0YWI9ewogICAgICAgICAgLy8g5re75Yqg57uE5Lu26aG1562+CiAgICAgICAgICAgIDxUYWJMYWJlbAogICAgICAgICAgICAgIHRpdGxlPSLmt7vliqDnu4Tku7YiCiAgICAgICAgICAgICAgYWN0aXZlSW1nPXtzdHlsZXMuYWN0aXZlQWRkQ29tVGFifQogICAgICAgICAgICAgIGluQWN0aXZlSW1nPXtzdHlsZXMuYWRkQ29tVGFifQogICAgICAgICAgICAgIGNvbmRpdGlvbj0iZGVmYXVsdCIKICAgICAgICAgICAgLz4KICAgICAgICAgIH0KICAgICAgICAgIGtleT0iZGVmYXVsdCIKICAgICAgICA+CiAgICAgICAgICA8U3RydWN0dXJhbENvbXBvbmVudFNlbGVjdG9yIC8+CiAgICAgICAgPC9UYWJQYW5lPgogICAgICApOwogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
