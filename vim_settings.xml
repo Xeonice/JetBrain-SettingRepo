@@ -85,66 +85,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586943033738">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1586951260241">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-front-boot/package.json" timestamp="1586950121161" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1586939376186" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1586936811727">
-        <mark key="[" line="137" column="12" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1586949412951">
+        <mark key="[" line="130" column="44" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-number/EditorNumber.jsx" timestamp="1586941585826">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/DateTimePicker.jsx" timestamp="1586934147984">
-        <mark key="[" line="11" column="2" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/TimePicker.jsx" timestamp="1586934152538">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/ClassifyEditorSetting.jsx" timestamp="1586939096865">
-        <mark key="[" line="5" column="48" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/ClassifyEditorSetting.jsx" timestamp="1586948081798">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1586942560860">
         <mark key="[" line="78" column="7" />
         <mark key="]" line="78" column="7" />
         <mark key="." line="78" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586941817429" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/DatePicker.jsx" timestamp="1586934111962">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1586947908934">
+        <mark key="[" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586935652396">
-        <mark key="[" line="264" column="11" />
-        <mark key="]" line="264" column="4" />
-        <mark key="." line="264" column="4" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1586953435837">
+        <mark key="[" line="209" column="7" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1586950350047">
+        <mark key="[" line="262" column="11" />
+        <mark key="]" line="262" column="4" />
+        <mark key="." line="262" column="4" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1586940582040">
         <mark key="[" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1586936036093">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1586948846866">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1586941656643">
-        <mark key="[" line="32" column="32" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1586938027107">
-        <mark key="[" line="115" column="30" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1586953593651">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1586938358102">
         <mark key="[" line="121" column="26" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-front-boot/gulpfile.js" timestamp="1586950251082" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1586936628675">
         <mark key="[" line="28" column="60" />
       </file>
@@ -155,6 +150,12 @@
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1586939409699">
         <mark key="[" line="182" column="13" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1586951391973">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="10" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1586936158393">
         <mark key="[" line="624" column="12" />
@@ -265,11 +266,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>添加组件</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -281,28 +282,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7CiAgICB0eXBlOiAnZWRpdG9yLWNvbXBvbmVudFRyZWUnLAogIH0s</text>
+        <text encoding="base64">ICAgIC8vICAgdGFiPXsKICAgIC8vICAgLy8g5re75Yqg57uE5Lu26aG1562+CiAgICAvLyAgIDxUYWJMYWJlbAogICAgLy8gICAgIHRpdGxlPSLmt7vliqDnu4Tku7YiCiAgICAvLyAgICAgYWN0aXZlSW1nPXtzdHlsZXMuYWN0aXZlQWRkQ29tVGFifQogICAgLy8gICAgIGluQWN0aXZlSW1nPXtzdHlsZXMuYWRkQ29tVGFifQogICAgLy8gICAgIGNvbmRpdGlvbj0iZGVmYXVsdCIKICAgIC8vICAgLz4KICAgIC8vIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwogICAgcmV0dXJuICgKICAgICAgPFRhYlBhbmUKICAgICAgICB0YWI9Iua3u+WKoOe7hOS7tiIKICAgICAgICBrZXk9ImRlZmF1bHQiCiAgICAgID4KICAgICAgICA0NzgxMjc0ODkxMgogICAgICAgIHsvKjxTdHJ1Y3R1cmFsQ29tcG9uZW50U2VsZWN0b3IgLz4qL30KICAgICAgPC9UYWJQYW5lPgogICAgKTsKICAgIGRlYnVnZ2VyOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIOa3u+WKoOe7hOS7tumhteetvgogICAgICAgICAgICA8VGFiTGFiZWwKICAgICAgICAgICAgICB0aXRsZT0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXRDb250ZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgLy8gLnNvcnQoKGEsIGIpID0+IHsKICAgIC8vICAgcmV0dXJuIGFbMF0udHJhbnNmb3JtLnkgPCBiWzBdLnRyYW5zZm9ybS55OwogICAgLy8gfSk=</text>
+        <text encoding="base64">CiAgICBpZiAoY29udGFpbmVyU3RvcmUuY29tcG9uZW50U2V0Lmhhcyhwcm9wc1BhbmVsLmN1cnJlbnRTdGNDb21wb25lbnQpKSB7CiAgICAgIGRlYnVnZ2VyOwogICAgICByZXR1cm4gKAogICAgICAgIDxUYWJQYW5lCiAgICAgICAgICB0YWI9ewogICAgICAgICAgLy8g5re75Yqg57uE5Lu26aG1562+CiAgICAgICAgICAgIDxUYWJMYWJlbAogICAgICAgICAgICAgIHRpdGxlPSLmt7vliqDnu4Tku7YiCiAgICAgICAgICAgICAgYWN0aXZlSW1nPXtzdHlsZXMuYWN0aXZlQWRkQ29tVGFifQogICAgICAgICAgICAgIGluQWN0aXZlSW1nPXtzdHlsZXMuYWRkQ29tVGFifQogICAgICAgICAgICAgIGNvbmRpdGlvbj0iZGVmYXVsdCIKICAgICAgICAgICAgLz4KICAgICAgICAgIH0KICAgICAgICAgIGtleT0iZGVmYXVsdCIKICAgICAgICA+CiAgICAgICAgICA8U3RydWN0dXJhbENvbXBvbmVudFNlbGVjdG9yIC8+CiAgICAgICAgPC9UYWJQYW5lPgogICAgICApOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
