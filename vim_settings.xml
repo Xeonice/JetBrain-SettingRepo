@@ -151,12 +151,6 @@
       <file name="$USER_HOME$/WorkProject/choerodon-front-boot/gulpfile.js" timestamp="1586950251082" />
       <file name="$USER_HOME$/ExploreProject/vscode/extensions/emmet/node_modules/@emmetio/html-matcher/dist/html-matcher.es.js" timestamp="1587004946020" />
       <file name="$USER_HOME$/ExploreProject/vscode/src/vs/base/test/node/utils.ts" timestamp="1587004990030" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1587001928344">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="23" column="20" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
