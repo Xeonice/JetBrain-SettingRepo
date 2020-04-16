@@ -85,11 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1587002261105">
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/src/index.js" timestamp="1587017311699" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/index.js" timestamp="1587017412906">
         <mark key="[" line="4" column="25" />
@@ -106,6 +101,7 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/gulpfile.js" timestamp="1587017585571" />
       <file name="$USER_HOME$/ExploreProject/vscode/extensions/emmet/node_modules/@emmetio/html-matcher/dist/html-matcher.es.js" timestamp="1587004946020" />
       <file name="$USER_HOME$/ExploreProject/vscode/src/vs/base/test/node/utils.ts" timestamp="1587004990030" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/components/LowcodeLayout/config/menu.js" timestamp="1587019806534" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/README.md" timestamp="1587018937887" />
     </filemarks>
     <jumps>
