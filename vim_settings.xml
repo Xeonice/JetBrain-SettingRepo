@@ -85,6 +85,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587093805910" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
+        <mark key="[" line="104" column="105" />
+        <mark key="]" line="223" column="10" />
+        <mark key="." line="223" column="10" />
+      </file>
+      <file name="/Dummy.css" timestamp="1587036098236">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587039892345">
+        <mark key="[" line="38" column="17" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587103714979">
+        <mark key="[" line="216" column="54" />
+        <mark key="]" line="216" column="54" />
+        <mark key="." line="216" column="54" />
+      </file>
       <file name="/Dummy.html" timestamp="1587036340974">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,36 +120,23 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587017884178">
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587103312228">
         <mark key="[" line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587093805910">
-        <mark key="[" line="244" column="63" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
         <mark key="[" line="43" column="23" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1587103950520" />
       <file name="/" timestamp="1587036138368">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/PageSetup/PageSetup.jsx" timestamp="1587102656197">
+        <mark key="[" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[211]添加与搜索单词 - 数据结构设计.js" timestamp="1587035893479">
         <mark key="[" line="82" column="2" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/an-zhao-powcaida-lao-de-zi-dian-shu-feng-ge-de-ti-.md" timestamp="1587037617195" />
-      <file name="/Dummy.css" timestamp="1587036098236">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[208]实现 Trie (前缀树).js" timestamp="1587030503878">
-        <mark key="[" line="25" column="3" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587039892345">
-        <mark key="[" line="38" column="17" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587090736334">
-        <mark key="[" line="438" column="19" />
-        <mark key="]" line="528" column="0" />
-        <mark key="." line="528" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -239,11 +243,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>peek()</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>peek()</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -258,23 +262,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>import { formFilter } from '../../../StcComponents/Form/store/DataStructure';
 import { tableFilter } from '../../../StcComponents/Table/store/DataStructure';</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc3QgaGFzaE1hcCA9IHsKICAgIEZvcm06IGZvcm1GaWx0ZXIsCiAgICBUYWJsZTogdGFibGVGaWx0ZXIsCiAgfTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgaGFzaE1hcCA9IHsKICAgIEZvcm06IGZvcm1GaWx0ZXIsCiAgICBUYWJsZTogdGFibGVGaWx0ZXIsCiAgfTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnNvbGUubG9nKGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQpOwogIH0sIFtiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0XSk7CgogIGNvbnN0IEZpZWxkUmVuZGVyID0gbW9kYWxJdGVtID0+IHsKICAgIGlmIChmaWx0ZXIpIHsKICAgICAgcmV0dXJuICgKICAgICAgICBtb2RhbEl0ZW0uZmllbGRzICYmCiAgICAgICAgbW9kYWxJdGVtLmZpZWxkcy5maWx0ZXIoaXRlbSA9PiBmaWx0ZXIoc3RvcmUsIGl0ZW0pKS5tYXAoZmllbGQgPT4gPEZpZWxkIG9iaj17ZmllbGR9IC8+KQogICAgICApOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIG1vZGFsSXRlbS5maWVsZHMgJiYKICAgICAgbW9kYWxJdGVtLmZpZWxkcwogICAgICAgIC5maWx0ZXIoaXRlbSA9PiBoYXNoTWFwW3N0b3JlLnR5cGVdKHN0b3JlLCBpdGVtKSkKICAgICAgICAubWFwKGZpZWxkID0+IDxGaWVsZCBvYmo9e2ZpZWxkfSBmaWVsZFR5cGU9e2ZpZWxkVHlwZX0gLz4pCiAgICApOwogIH07</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnNvbGUubG9nKGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQpOwogIH0sIFtiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0XSk7CgogIGNvbnN0IEZpZWxkUmVuZGVyID0gbW9kYWxJdGVtID0+IHsKICAgIGlmIChmaWx0ZXIpIHsKICAgICAgcmV0dXJuICgKICAgICAgICBtb2RhbEl0ZW0uZmllbGRzICYmCiAgICAgICAgbW9kYWxJdGVtLmZpZWxkcy5maWx0ZXIoaXRlbSA9PiBmaWx0ZXIoc3RvcmUsIGl0ZW0pKS5tYXAoZmllbGQgPT4gPEZpZWxkIG9iaj17ZmllbGR9IC8+KQogICAgICApOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIG1vZGFsSXRlbS5maWVsZHMgJiYKICAgICAgbW9kYWxJdGVtLmZpZWxkcwogICAgICAgIC5maWx0ZXIoaXRlbSA9PiBoYXNoTWFwW3N0b3JlLnR5cGVdKHN0b3JlLCBpdGVtKSkKICAgICAgICAubWFwKGZpZWxkID0+IDxGaWVsZCBvYmo9e2ZpZWxkfSBmaWVsZFR5cGU9e2ZpZWxkVHlwZX0gLz4pCiAgICApOwogIH07</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
