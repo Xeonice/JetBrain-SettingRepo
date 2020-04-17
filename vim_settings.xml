@@ -87,9 +87,8 @@
     <filemarks>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587093805910" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
-        <mark key="[" line="104" column="105" />
-        <mark key="]" line="222" column="10" />
-        <mark key="." line="222" column="10" />
+        <mark key="]" line="217" column="10" />
+        <mark key="." line="217" column="10" />
       </file>
       <file name="/JavaScript Console" timestamp="1587106199671">
         <mark key="[" line="0" column="0" />
@@ -102,11 +101,7 @@
         <mark key="]" line="41" column="2" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587106568235">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587106568235" />
       <file name="/Dummy.html" timestamp="1587036340974">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,18 +115,12 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1587032621791">
         <mark key="[" line="140" column="22" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587103312228">
-        <mark key="[" line="10" column="20" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
         <mark key="[" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1587103950520" />
       <file name="/" timestamp="1587036138368">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/PageSetup/PageSetup.jsx" timestamp="1587106818458">
-        <mark key="[" line="17" column="100" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[211]添加与搜索单词 - 数据结构设计.js" timestamp="1587035893479">
         <mark key="[" line="82" column="2" />
