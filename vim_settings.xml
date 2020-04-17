@@ -87,8 +87,8 @@
     <filemarks>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587093805910" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
-        <mark key="]" line="217" column="10" />
-        <mark key="." line="217" column="10" />
+        <mark key="]" line="222" column="10" />
+        <mark key="." line="222" column="10" />
       </file>
       <file name="/JavaScript Console" timestamp="1587106199671">
         <mark key="[" line="0" column="0" />
@@ -101,7 +101,9 @@
         <mark key="]" line="41" column="2" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587106568235" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587111839676">
+        <mark key="[" line="199" column="18" />
+      </file>
       <file name="/Dummy.html" timestamp="1587036340974">
         <mark key="[" line="0" column="0" />
       </file>
