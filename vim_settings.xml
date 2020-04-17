@@ -128,10 +128,10 @@
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587039892345">
         <mark key="[" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587006753086">
-        <mark key="[" line="484" column="26" />
-        <mark key="]" line="484" column="26" />
-        <mark key="." line="484" column="26" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587090736334">
+        <mark key="[" line="438" column="19" />
+        <mark key="]" line="536" column="0" />
+        <mark key="." line="536" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,8 +239,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -255,29 +255,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text>import { formFilter } from '../../../StcComponents/Form/store/DataStructure';
 import { tableFilter } from '../../../StcComponents/Table/store/DataStructure';</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgY29uc3QgaGFzaE1hcCA9IHsKICAgIEZvcm06IGZvcm1GaWx0ZXIsCiAgICBUYWJsZTogdGFibGVGaWx0ZXIsCiAgfTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgaGFzaE1hcCA9IHsKICAgIEZvcm06IGZvcm1GaWx0ZXIsCiAgICBUYWJsZTogdGFibGVGaWx0ZXIsCiAgfTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnNvbGUubG9nKGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQpOwogIH0sIFtiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0XSk7CgogIGNvbnN0IEZpZWxkUmVuZGVyID0gbW9kYWxJdGVtID0+IHsKICAgIGlmIChmaWx0ZXIpIHsKICAgICAgcmV0dXJuICgKICAgICAgICBtb2RhbEl0ZW0uZmllbGRzICYmCiAgICAgICAgbW9kYWxJdGVtLmZpZWxkcy5maWx0ZXIoaXRlbSA9PiBmaWx0ZXIoc3RvcmUsIGl0ZW0pKS5tYXAoZmllbGQgPT4gPEZpZWxkIG9iaj17ZmllbGR9IC8+KQogICAgICApOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIG1vZGFsSXRlbS5maWVsZHMgJiYKICAgICAgbW9kYWxJdGVtLmZpZWxkcwogICAgICAgIC5maWx0ZXIoaXRlbSA9PiBoYXNoTWFwW3N0b3JlLnR5cGVdKHN0b3JlLCBpdGVtKSkKICAgICAgICAubWFwKGZpZWxkID0+IDxGaWVsZCBvYmo9e2ZpZWxkfSBmaWVsZFR5cGU9e2ZpZWxkVHlwZX0gLz4pCiAgICApOwogIH07</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnNvbGUubG9nKGJhc2VDb21wb25lbnRTdG9yZS5jb21wb25lbnRTZXQpOwogIH0sIFtiYXNlQ29tcG9uZW50U3RvcmUuY29tcG9uZW50U2V0XSk7CgogIGNvbnN0IEZpZWxkUmVuZGVyID0gbW9kYWxJdGVtID0+IHsKICAgIGlmIChmaWx0ZXIpIHsKICAgICAgcmV0dXJuICgKICAgICAgICBtb2RhbEl0ZW0uZmllbGRzICYmCiAgICAgICAgbW9kYWxJdGVtLmZpZWxkcy5maWx0ZXIoaXRlbSA9PiBmaWx0ZXIoc3RvcmUsIGl0ZW0pKS5tYXAoZmllbGQgPT4gPEZpZWxkIG9iaj17ZmllbGR9IC8+KQogICAgICApOwogICAgfQoKICAgIHJldHVybiAoCiAgICAgIG1vZGFsSXRlbS5maWVsZHMgJiYKICAgICAgbW9kYWxJdGVtLmZpZWxkcwogICAgICAgIC5maWx0ZXIoaXRlbSA9PiBoYXNoTWFwW3N0b3JlLnR5cGVdKHN0b3JlLCBpdGVtKSkKICAgICAgICAubWFwKGZpZWxkID0+IDxGaWVsZCBvYmo9e2ZpZWxkfSBmaWVsZFR5cGU9e2ZpZWxkVHlwZX0gLz4pCiAgICApOwogIH07</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
