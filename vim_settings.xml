@@ -85,8 +85,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1587117592735" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587093805910" />
+      <file name="/Dummy.html" timestamp="1587036340974">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587036340988">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587132752349">
+        <mark key="[" line="204" column="63" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
+        <mark key="[" line="43" column="23" />
+      </file>
+      <file name="/" timestamp="1587036138368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[211]添加与搜索单词 - 数据结构设计.js" timestamp="1587035893479">
+        <mark key="[" line="82" column="2" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
         <mark key="]" line="222" column="10" />
         <mark key="." line="222" column="10" />
@@ -97,31 +113,12 @@
       <file name="/Dummy.css" timestamp="1587036098236">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1587132065462" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587105993119">
         <mark key="[" line="67" column="13" />
         <mark key="]" line="41" column="2" />
         <mark key="." line="41" column="2" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587111839676" />
-      <file name="/Dummy.html" timestamp="1587036340974">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587036340988">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/tree/index.tsx" timestamp="1587038649654" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/index.js" timestamp="1587117587108" />
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
-        <mark key="[" line="43" column="23" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1587103950520" />
-      <file name="/" timestamp="1587036138368">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[211]添加与搜索单词 - 数据结构设计.js" timestamp="1587035893479">
-        <mark key="[" line="82" column="2" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/an-zhao-powcaida-lao-de-zi-dian-shu-feng-ge-de-ti-.md" timestamp="1587037617195" />
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
