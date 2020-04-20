@@ -85,32 +85,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.html" timestamp="1587036340974">
+      <file name="/Dummy.txt" timestamp="1587036340988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587036340988">
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1587350391238">
+        <mark key="[" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
+        <mark key="]" line="222" column="10" />
+        <mark key="." line="222" column="10" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1587351128422">
+        <mark key="[" line="81" column="21" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587106199671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587132752349">
         <mark key="[" line="204" column="63" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Radio/index.js" timestamp="1587347071009" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
         <mark key="[" line="43" column="23" />
       </file>
-      <file name="/" timestamp="1587036138368">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/index.js" timestamp="1587347059684" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Select/index.js" timestamp="1587347074564" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587103921611">
-        <mark key="]" line="222" column="10" />
-        <mark key="." line="222" column="10" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1587106199671">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1587132065462" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587105993119">
         <mark key="[" line="67" column="13" />
         <mark key="]" line="41" column="2" />
