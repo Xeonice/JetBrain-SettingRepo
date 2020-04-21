@@ -85,10 +85,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/ATag/ATag.jsx" timestamp="1587370415394" />
       <file name="/Dummy.txt" timestamp="1587036340988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.js" timestamp="1587446242517">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587132752349">
+        <mark key="[" line="204" column="63" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
+        <mark key="[" line="43" column="23" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587381571762" />
+      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/ATag/ATag.jsx" timestamp="1587370415394" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1587350391238">
         <mark key="[" line="8" column="5" />
       </file>
@@ -102,24 +112,19 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587360408456">
+      <file name="/JavaScript Console" timestamp="1587446403241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587132752349">
-        <mark key="[" line="204" column="63" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/2chong-jie-fa-qiao-miao-de-zheng-ze-py3shi-xian-tr.md" timestamp="1587036562086">
-        <mark key="[" line="43" column="23" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[648]单词替换.js" timestamp="1587431980987">
-        <mark key="[" line="33" column="7" />
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[648]单词替换.js" timestamp="1587446379564">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[421]数组中两个数的最大异或值.js" timestamp="1587361005126">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="44" column="49" />
         <mark key="." line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587381571762" />
     </filemarks>
     <jumps>
       <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -227,10 +232,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.substring(1)</text>
+        <text encoding="base64">IC0gJ2En</text>
       </register>
       <register name="-" type="4">
-        <text>.substring(1)</text>
+        <text encoding="base64">IC0gJ2En</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
