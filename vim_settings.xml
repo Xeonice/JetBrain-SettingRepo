@@ -91,6 +91,7 @@
       <file name="/fragment.js" timestamp="1587446242517">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/choerodon-ui/pro/lib/button/enum.d.ts" timestamp="1587522479566" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1587458788299">
         <mark key="[" line="28" column="30" />
       </file>
@@ -113,9 +114,11 @@
         <mark key="]" line="47" column="31" />
         <mark key="." line="47" column="31" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1587523776546">
+        <mark key="[" line="0" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="75" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
       <jump line="17" column="23" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
@@ -215,6 +218,7 @@
       <jump line="155" column="47" filename="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" />
       <jump line="55" column="24" filename="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-lov/EditorLov.jsx" />
       <jump line="170" column="99" filename="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" />
+      <jump line="86" column="6" filename="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
