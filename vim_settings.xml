@@ -88,9 +88,6 @@
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/choerodon-ui/pro/lib/data-set/enum.d.ts" timestamp="1587460186346" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/modules.js" timestamp="1587460288111" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/monaco-editor/esm/vs/editor/edcore.main.js" timestamp="1587468520050" />
-      <file name="/fragment.js" timestamp="1587446242517">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/choerodon-ui/pro/lib/button/enum.d.ts" timestamp="1587522479566" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1587458788299">
         <mark key="[" line="28" column="30" />
@@ -100,6 +97,7 @@
       <file name="/JavaScript Console" timestamp="1587446403241">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/monaco-editor/esm/vs/editor/editor.api.d.ts" timestamp="1587528818341" />
       <file name="$USER_HOME$/WorkProject/notify-service/react/components/choerodonEditor/index.js" timestamp="1587468126585" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/scripts/start.js" timestamp="1587460333961" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/monaco-editor/esm/vs/basic-languages/monaco.contribution.js" timestamp="1587468437015" />
@@ -113,6 +111,11 @@
         <mark key="[" line="58" column="35" />
         <mark key="]" line="47" column="31" />
         <mark key="." line="47" column="31" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1587530936707">
+        <mark key="[" line="8" column="67" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -220,11 +223,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>current</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -233,31 +236,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IFsKICAgICAgeyBuYW1lOiAnYScsIGFnZTogMTIzNCB9LAogICAgICB7IG5hbWU6ICdiJywgYWdlOiA1Njc4IH0sCiAgICBdLA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgY2FjaGUuY3VycmVudCA9IGNvZGUuY3VycmVudDsKICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXNldCcpOwogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGE6IFsKICAgICAgeyBuYW1lOiAnYScsIGFnZTogMTIzNCB9LAogICAgICB7IG5hbWU6ICdiJywgYWdlOiA1Njc4IH0sCiAgICBdLA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmltcG9ydCBJbml0IGZyb20gJy4vSW5pdERhdGFTZXQnOwppbXBvcnQgeyBBUElEYXRhLCBEZWZpbmVGaWVsZERhdGFTZXQgfSBmcm9tICIuL0RlZmluZUZpZWxkcyI7</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KHsgdmFsdWUgfTogYW55KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2codmFsdWUpOwogICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIHsgbmFtZTogJ25hbWUnLCB0eXBlOiAnc3RyaW5nJyB9LAogICAgICB7IG5hbWU6ICdhZ2UnLCB0eXBlOiAnbnVtYmVyJyB9LAogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
