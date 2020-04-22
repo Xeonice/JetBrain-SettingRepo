@@ -114,9 +114,6 @@
         <mark key="]" line="47" column="31" />
         <mark key="." line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1587523776546">
-        <mark key="[" line="0" column="45" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -223,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IFsKICAgICAgeyBuYW1lOiAnYScsIGFnZTogMTIzNCB9LAogICAgICB7IG5hbWU6ICdiJywgYWdlOiA1Njc4IH0sCiAgICBdLA==</text>
+      <register name="&quot;" type="4">
+        <text>current</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
