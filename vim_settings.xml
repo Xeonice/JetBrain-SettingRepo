@@ -90,7 +90,6 @@
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/Button.jsx" timestamp="1587706821819" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1587712939102">
         <mark key="[" line="30" column="7" />
       </file>
@@ -102,9 +101,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587719476264">
         <mark key="[" line="400" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587707133052">
-        <mark key="[" line="177" column="56" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1587712977192">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -115,27 +111,27 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1587717006908" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1587715309768">
-        <mark key="[" line="112" column="44" />
+      <file name="/EditorPlugin.jsx" timestamp="1587721621703" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1587721894696" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1587722040831">
+        <mark key="[" line="4" column="36" />
         <mark key="]" line="112" column="44" />
         <mark key="." line="112" column="44" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587719018657" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1587707845242">
-        <mark key="[" line="3" column="9" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/DataStructure.js" timestamp="1587720796851">
         <mark key="[" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1587721143125">
-        <mark key="[" line="147" column="20" />
-        <mark key="]" line="150" column="21" />
-        <mark key="." line="150" column="21" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1587722355191">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1587717014863">
         <mark key="[" line="175" column="27" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1587721898069" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/BaseComponentSetting.jsx" timestamp="1587722037505" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587719766773">
         <mark key="[" line="49" column="32" />
       </file>
@@ -248,11 +244,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>TabPanel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TabPanel</text>
+        <text>tabOnchange</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -273,19 +269,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICAKICAgICAgKSwKICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICA8VGFiUGFuZQogICAgICAgICAgdGFiPSLlrrnlmajlnovnu4Tku7borr7nva4iCiAgICAgICAgPgogICAgICAgICAgVGVzdAogICAgICAgIDwvVGFiUGFuZT4gCiAgICAgICks</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICAKICAgICAgKSwKICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICA8VGFiUGFuZQogICAgICAgICAgdGFiPSLlrrnlmajlnovnu4Tku7borr7nva4iCiAgICAgICAgPgogICAgICAgICAgVGVzdAogICAgICAgIDwvVGFiUGFuZT4gCiAgICAgICks</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
