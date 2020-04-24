@@ -97,15 +97,13 @@
         <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1587697991766" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1587712939102">
+        <mark key="[" line="30" column="7" />
+      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README.md" timestamp="1587693759469" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1587708033267" />
       <file name="/JavaScript Console" timestamp="1587694398553">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/command-js-tutorilal/bin/lib/download.js" timestamp="1587632159311">
-        <mark key="[" line="7" column="121" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/Column.tsx" timestamp="1587632358179" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1587698851806" />
@@ -115,16 +113,18 @@
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587707133052">
         <mark key="[" line="177" column="56" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1587711625973">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1587712977192">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1587698854208">
         <mark key="[" line="175" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587698885781">
-        <mark key="[" line="111" column="12" />
-        <mark key="]" line="111" column="12" />
-        <mark key="." line="111" column="12" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587712886243">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/src/router.jsx" timestamp="1587694378216">
         <mark key="[" line="67" column="15" />
@@ -241,8 +241,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>多选框</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
       </register>
       <register name="-" type="4">
         <text>多选框</text>
@@ -254,31 +254,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpCg==</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text>请注明出处。</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CuS9nOiAhe+8muW8oOWbvemSsArpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVhMzFkMjEwZjI2NWRhNDMxYTQzMzMwZQogIOadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>请注明出处。</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CuS9nOiAhe+8muW8oOWbvemSsArpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVhMzFkMjEwZjI2NWRhNDMxYTQzMzMwZQogIOadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmlmICghcHJvamVjdE5hbWUpIHsKICAvLyBoZWxwIOmAiemhue+8jOWGhee9rgogIHByb2dyYW0uaGVscCgpOwogIHJldHVybjsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiY29uc29sZS5sb2coJ2hlbGxvLCBjb21tYWRlcicpIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8VGl0bGU+6Ieq5bex5YaZ55qEIE1vbmFjb0VkaXRvcjwvVGl0bGU+Ki99CiAgICAgICAgey8qPE1vbmFjb0VkaXRvckN1c3RvbSovfQogICAgICAgIHsvKiAgdmFsdWU9e2NhY2hlLmN1cnJlbnR9Ki99CiAgICAgICAgey8qICBjaGFuZ2U9eyh2YWx1ZSkgPT4geyovfQogICAgICAgIHsvKiAgICBjYWNoZS5jdXJyZW50ID0gdmFsdWU7Ki99CiAgICAgICAgey8qICB9fSovfQogICAgICAgIHsvKiAgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiKi99CiAgICAgICAgey8qICBoZWlnaHQ9ezQwMH0qL30KICAgICAgICB7LyovPiovfQ==</text>
+        <text encoding="base64">CmlmICghcHJvamVjdE5hbWUpIHsKICAvLyBoZWxwIOmAiemhue+8jOWGhee9rgogIHByb2dyYW0uaGVscCgpOwogIHJldHVybjsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
