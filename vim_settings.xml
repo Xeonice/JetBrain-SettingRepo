@@ -110,11 +110,6 @@
         <mark key="]" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/MonacoEditor.tsx" timestamp="1587624015797">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README.md" timestamp="1587693759469" />
       <file name="/JavaScript Console" timestamp="1587694398553">
         <mark key="[" line="0" column="0" />
@@ -125,7 +120,16 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/Column.tsx" timestamp="1587632358179" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1587698851806" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1587693528985" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1587698854208">
+        <mark key="[" line="175" column="23" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587698885781">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="111" column="12" />
+        <mark key="." line="111" column="12" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/command-js-tutorilal/bin/lowcode-hello.js" timestamp="1587629778111">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="0" />
@@ -137,11 +141,6 @@
         <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/package.json" timestamp="1587694020771" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1587626467133">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -249,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>多选框</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>多选框</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
