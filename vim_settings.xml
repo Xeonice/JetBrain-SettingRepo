@@ -92,17 +92,9 @@
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README_lowcode.md" timestamp="1587694626767" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/Button.jsx" timestamp="1587706821819" />
-      <file name="$USER_HOME$/ExploreProject/command-js-tutorilal/bin/lowcode.js" timestamp="1587630692856">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587697298337" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[340]至多包含 K 个不同字符的最长子串.js" timestamp="1587704621685">
         <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/command-js-tutorilal/bin/download.js" timestamp="1587631111880">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1587697991766" />
       <file name="$USER_HOME$/ExploreProject/command-js-tutorilal/bin/lowcode-init.js" timestamp="1587631705418">
@@ -111,6 +103,7 @@
         <mark key="." line="25" column="21" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README.md" timestamp="1587693759469" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1587708033267" />
       <file name="/JavaScript Console" timestamp="1587694398553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +134,9 @@
         <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/package.json" timestamp="1587694020771" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1587707845242">
+        <mark key="[" line="3" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
