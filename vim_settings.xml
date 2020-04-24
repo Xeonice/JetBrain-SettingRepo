@@ -85,10 +85,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/index.en-US.md" timestamp="1587632634396">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="38" />
-        <mark key="." line="30" column="38" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-select/EditorSelect.jsx" timestamp="1587714788276">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README_lowcode.md" timestamp="1587694626767" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/Button.jsx" timestamp="1587706821819" />
@@ -100,12 +100,14 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1587712939102">
         <mark key="[" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README.md" timestamp="1587693759469" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1587708033267" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-input/EditorInput.jsx" timestamp="1587714798650">
+        <mark key="[" line="6" column="95" />
+      </file>
       <file name="/JavaScript Console" timestamp="1587694398553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/Column.tsx" timestamp="1587632358179" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/select/Select.d.ts" timestamp="1587714427340" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1587698851806" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[面试题48]最长不含重复字符的子字符串.js" timestamp="1587704693434">
         <mark key="[" line="45" column="0" />
@@ -121,17 +123,21 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1587698854208">
         <mark key="[" line="175" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587712886243">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587715749143">
+        <mark key="[" line="124" column="4" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1587715309768">
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="44" />
+        <mark key="." line="113" column="44" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/src/router.jsx" timestamp="1587694378216">
         <mark key="[" line="67" column="15" />
         <mark key="]" line="67" column="15" />
         <mark key="." line="67" column="15" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/package.json" timestamp="1587694020771" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1587707845242">
         <mark key="[" line="3" column="9" />
       </file>
@@ -241,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
+      <register name="&quot;" type="4">
+        <text>...Object.keys(item)</text>
       </register>
       <register name="-" type="4">
-        <text>多选框</text>
+        <text>...Object.keys(item)</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
