@@ -91,8 +91,6 @@
         <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/Button.jsx" timestamp="1587706821819" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587697298337" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1587697991766" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1587712939102">
         <mark key="[" line="30" column="7" />
       </file>
@@ -100,8 +98,15 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-input/EditorInput.jsx" timestamp="1587714798650">
         <mark key="[" line="6" column="95" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1587719409076">
+        <mark key="[" line="161" column="7" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/select/Select.d.ts" timestamp="1587714427340" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1587698851806" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587719476264">
+        <mark key="[" line="400" column="48" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[面试题48]最长不含重复字符的子字符串.js" timestamp="1587704693434">
         <mark key="[" line="45" column="0" />
       </file>
@@ -127,15 +132,18 @@
         <mark key="]" line="112" column="44" />
         <mark key="." line="112" column="44" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587719018657" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/index.js" timestamp="1587707845242">
         <mark key="[" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/WorkProject/lowcode-project-microFront/README_lowcode.md" timestamp="1587694626767" />
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[340]至多包含 K 个不同字符的最长子串.js" timestamp="1587704621685">
         <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1587717014863">
         <mark key="[" line="175" column="27" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587719610091">
+        <mark key="[" line="49" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -243,8 +251,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>...Object.keys(item)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>...Object.keys(item)</text>
@@ -256,31 +264,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICAKICAgICAgKSwKICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICA8VGFiUGFuZQogICAgICAgICAgdGFiPSLlrrnlmajlnovnu4Tku7borr7nva4iCiAgICAgICAgPgogICAgICAgICAgVGVzdAogICAgICAgIDwvVGFiUGFuZT4gCiAgICAgICks</text>
       </register>
       <register name="5" type="2">
-        <text>请注明出处。</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CuS9nOiAhe+8muW8oOWbvemSsArpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVhMzFkMjEwZjI2NWRhNDMxYTQzMzMwZQogIOadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmlmICghcHJvamVjdE5hbWUpIHsKICAvLyBoZWxwIOmAiemhue+8jOWGhee9rgogIHByb2dyYW0uaGVscCgpOwogIHJldHVybjsKfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
