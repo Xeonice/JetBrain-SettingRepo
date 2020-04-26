@@ -122,10 +122,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/DataStructure.js" timestamp="1587720796851">
         <mark key="[" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1587722355191">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1587864757726">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1587717014863">
         <mark key="[" line="175" column="27" />
@@ -272,16 +272,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICAKICAgICAgKSwKICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICA8VGFiUGFuZQogICAgICAgICAgdGFiPSLlrrnlmajlnovnu4Tku7borr7nva4iCiAgICAgICAgPgogICAgICAgICAgVGVzdAogICAgICAgIDwvVGFiUGFuZT4gCiAgICAgICks</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICAKICAgICAgKSwKICAgICAgcHJvcHNQYW5lbC5jdXJyZW50Q29udGFpbmVyQ29tcG9uZW50ICYmICgKICAgICAgICA8VGFiUGFuZQogICAgICAgICAgdGFiPSLlrrnlmajlnovnu4Tku7borr7nva4iCiAgICAgICAgPgogICAgICAgICAgVGVzdAogICAgICAgIDwvVGFiUGFuZT4gCiAgICAgICks</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdEJveDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
