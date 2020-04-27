@@ -130,20 +130,17 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-number/EditorNumber.jsx" timestamp="1587971802853">
         <mark key="[" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1587722040831">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="112" column="44" />
-        <mark key="." line="112" column="44" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587975844188">
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587977630817" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587976809744">
+        <mark key="[" line="41" column="45" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/NoDataSourcePlaceholder/NoDataSourcePlaceholder.jsx" timestamp="1587977652346" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/writing-new-chapters-in-life.mdx" timestamp="1587958087556">
         <mark key="[" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587975999078">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587976454442">
         <mark key="[" line="171" column="47" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="159" column="16" />
@@ -154,12 +151,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/DataStructure.js" timestamp="1587720796851">
-        <mark key="[" line="16" column="36" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.less" timestamp="1587720948875">
-        <mark key="[" line="35" column="35" />
-      </file>
+      <file name="/ComponentEditor.jsx" timestamp="1587976729860" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerRenderer.jsx" timestamp="1587974308916">
         <mark key="[" line="34" column="14" />
       </file>
