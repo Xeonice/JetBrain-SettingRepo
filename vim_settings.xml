@@ -88,6 +88,11 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活躍衝刺 - 看板性能優化隨筆.mdx" timestamp="1587958692568">
         <mark key="[" line="105" column="195" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponentRenderer.jsx" timestamp="1587975080207">
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587971356320">
         <mark key="[" line="508" column="25" />
       </file>
@@ -130,21 +135,19 @@
         <mark key="]" line="112" column="44" />
         <mark key="." line="112" column="44" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587972587055">
-        <mark key="[" line="182" column="12" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1587975844188">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/writing-new-chapters-in-life.mdx" timestamp="1587958087556">
         <mark key="[" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587971297483">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1587972208885">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587975999078">
+        <mark key="[" line="171" column="47" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="159" column="16" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1587972460541">
         <mark key="[" line="10" column="0" />
@@ -156,6 +159,9 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.less" timestamp="1587720948875">
         <mark key="[" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerRenderer.jsx" timestamp="1587974308916">
+        <mark key="[" line="34" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -264,10 +270,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>StcComponents</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -276,32 +282,32 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text>import { tabsEditorData } from '../../StcComponents/Tabs/store/DataStructure';
-import { stepsEditorData } from '../../StcComponents/Steps/store/DataStructure';</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZGF0YVN0cnVjdHVyZTogewogICAgICAgIHR5cGU6ICdUYWJzJywKICAgICAgICBlZGl0b3JEYXRhOiB0YWJzRWRpdG9yRGF0YSwKICAgICAgfSwKICAgIH0s</text>
+        <text encoding="base64">CiAgLy8gY29uc3QgaGFzaE1hcCA9IHsKICAvLyAgIFBhZ2VCdG46ICgKICAvLyAgICAgPFBhZ2VMZXZlbEJ1dHRvbkNvbXBvbmVudAogIC8vICAgICAgIGNvZGU9e3N0Y0NvZGV9CiAgLy8gICAgICAgbGF5b3V0Q29kZT17Y29kZX0KICAvLyAgICAgICBpc0VkaXRvcj17aXNFZGl0b3J9CiAgLy8gICAgICAgb25DbGljaz17c2V0Q29tcG9uZW50RGVmYXVsdFNpZGVCYXJ9CiAgLy8gICAgICAgc3RjU3RvcmU9e3N0Y1N0b3JlfQogIC8vICAgICAgIGJhc2VDb21wb25lbnRTdG9yZT17YmFzZUNvbXBvbmVudFN0b3JlfQogIC8vICAgICAgIHRleHRBbGlnbj17Y3VycmVudFN0b3JlLnByb3BzLnRleHRBbGlnbn0KICAvLyAgICAgICBzdXNwZW5zaW9uPXtjdXJyZW50U3RvcmUucHJvcHMuc3VzcGVuc2lvbn0gLy8g5oKs5rWuCiAgLy8gICAgICAgdmVydGljYWxBbGlnbj17bGF5b3V0U3RvcmVJdGVtWSA9PT0gMH0KICAvLyAgICAgLz4KICAvLyAgICksCiAgLy8gICBGb3JtOiAoCiAgLy8gICAgIDxGb3JtQ29tcG9uZW50CiAgLy8gICAgICAgY29kZT17c3RjQ29kZX0KICAvLyAgICAgICBsYXlvdXRDb2RlPXtjb2RlfQogIC8vICAgICAgIGlzRWRpdG9yPXtpc0VkaXRvcn0KICAvLyAgICAgICBvbkNsaWNrPXtzZXRDb21wb25lbnREZWZhdWx0U2lkZUJhcn0KICAvLyAgICAgICBwcm9wc1BhbmVsPXtwcm9wc1BhbmVsfQogIC8vICAgICAgIHN0Y1N0b3JlPXtzdGNTdG9yZX0KICAvLyAgICAgICBiYXNlQ29tcG9uZW50U3RvcmU9e2Jhc2VDb21wb25lbnRTdG9yZX0KICAvLyAgICAgICBmaWVsZFN0b3JlPXtmaWVsZFN0b3JlfQogIC8vICAgICAgIG9uQnV0dG9uQ2xpY2s9e29uQnV0dG9uQ2xpY2t9CiAgLy8gICAgIC8+CiAgLy8gICApLAogIC8vICAgVGFibGU6ICgKICAvLyAgICAgPFRhYmxlQ29tcG9uZW50CiAgLy8gICAgICAgY29kZT17c3RjQ29kZX0KICAvLyAgICAgICBsYXlvdXRDb2RlPXtjb2RlfQogIC8vICAgICAgIGlzRWRpdG9yPXtpc0VkaXRvcn0KICAvLyAgICAgICBvbkNsaWNrPXtzZXRDb21wb25lbnREZWZhdWx0U2lkZUJhcn0KICAvLyAgICAgICBwcm9wc1BhbmVsPXtwcm9wc1BhbmVsfQogIC8vICAgICAgIHN0Y1N0b3JlPXtzdGNTdG9yZX0KICAvLyAgICAgICBiYXNlQ29tcG9uZW50U3RvcmU9e2Jhc2VDb21wb25lbnRTdG9yZX0KICAvLyAgICAgICBmaWVsZFN0b3JlPXtmaWVsZFN0b3JlfQogIC8vICAgICAgIG9uQnV0dG9uQ2xpY2s9e29uQnV0dG9uQ2xpY2t9CiAgLy8gICAgIC8+CiAgLy8gICApLAogIC8vICAgVGFiczogKAogIC8vICAgICA8Q29udGFpbmVyUmVuZGVyZXIKICAvLyAgICAgICBpbmhlcml0VHlwZT0iVGFicyIKICAvLyAgICAgICBjb2RlPXtzdGNDb2RlfQogIC8vICAgICAgIGxheW91dENvZGU9e2NvZGV9CiAgLy8gICAgICAgaXNFZGl0b3I9e2lzRWRpdG9yfQogIC8vICAgICAgIGJhc2VDb21wb25lbnRTdG9yZT17YmFzZUNvbXBvbmVudFN0b3JlfQogIC8vICAgICAgIHN0Y1N0b3JlPXtzdGNTdG9yZX0KICAvLyAgICAgICBwcm9wc1BhbmVsPXtwcm9wc1BhbmVsfQogIC8vICAgICAgIG9uQ2xpY2s9e3NldENvbXBvbmVudERlZmF1bHRTaWRlQmFyfQogIC8vICAgICAvPgogIC8vICAgKSwKICAvLyAgIFN0ZXBzOiAoCiAgLy8gICAgIDxDb250YWluZXJSZW5kZXJlcgogIC8vICAgICAgIGluaGVyaXRUeXBlPSJTdGVwcyIKICAvLyAgICAgICBjb2RlPXtzdGNDb2RlfQogIC8vICAgICAgIGxheW91dENvZGU9e2NvZGV9CiAgLy8gICAgICAgaXNFZGl0b3I9e2lzRWRpdG9yfQogIC8vICAgICAgIHByb3BzUGFuZWw9e3Byb3BzUGFuZWx9CiAgLy8gICAgICAgYmFzZUNvbXBvbmVudFN0b3JlPXtiYXNlQ29tcG9uZW50U3RvcmV9CiAgLy8gICAgICAgc3RjU3RvcmU9e3N0Y1N0b3JlfQogIC8vICAgICAgIG9uQ2xpY2s9e3NldENvbXBvbmVudERlZmF1bHRTaWRlQmFyfQogIC8vICAgICAvPgogIC8vICAgKSwKICAvLyB9Ow==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZGF0YVN0cnVjdHVyZTogewogICAgICAgIHR5cGU6ICdTdGVwcycsCiAgICAgICAgZWRpdG9yRGF0YTogc3RlcHNFZGl0b3JEYXRhLAogICAgICB9LAogICAgfSw=</text>
+        <text encoding="base64">ICAvLyAgIFRhYnM6ICgKICAvLyAgICAgPENvbnRhaW5lclJlbmRlcmVyCiAgLy8gICAgICAgaW5oZXJpdFR5cGU9IlRhYnMiCiAgLy8gICAgICAgY29kZT17c3RjQ29kZX0KICAvLyAgICAgICBsYXlvdXRDb2RlPXtjb2RlfQogIC8vICAgICAgIGlzRWRpdG9yPXtpc0VkaXRvcn0KICAvLyAgICAgICBiYXNlQ29tcG9uZW50U3RvcmU9e2Jhc2VDb21wb25lbnRTdG9yZX0KICAvLyAgICAgICBzdGNTdG9yZT17c3RjU3RvcmV9CiAgLy8gICAgICAgcHJvcHNQYW5lbD17cHJvcHNQYW5lbH0KICAvLyAgICAgICBvbkNsaWNrPXtzZXRDb21wb25lbnREZWZhdWx0U2lkZUJhcn0KICAvLyAgICAgLz4KICAvLyAgICksCiAgLy8gICBTdGVwczogKAogIC8vICAgICA8Q29udGFpbmVyUmVuZGVyZXIKICAvLyAgICAgICBpbmhlcml0VHlwZT0iU3RlcHMiCiAgLy8gICAgICAgY29kZT17c3RjQ29kZX0KICAvLyAgICAgICBsYXlvdXRDb2RlPXtjb2RlfQogIC8vICAgICAgIGlzRWRpdG9yPXtpc0VkaXRvcn0KICAvLyAgICAgICBwcm9wc1BhbmVsPXtwcm9wc1BhbmVsfQogIC8vICAgICAgIGJhc2VDb21wb25lbnRTdG9yZT17YmFzZUNvbXBvbmVudFN0b3JlfQogIC8vICAgICAgIHN0Y1N0b3JlPXtzdGNTdG9yZX0KICAvLyAgICAgICBvbkNsaWNrPXtzZXRDb21wb25lbnREZWZhdWx0U2lkZUJhcn0KICAvLyAgICAgLz4KICAvLyAgICks</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcHNQYW5lbD17cHJvcHNQYW5lbH0KICAgICAgICAgICAgICAgICAgICAgICAgYmFzZUNvbXBvbmVudFN0b3JlPXtiYXNlQ29tcG9uZW50U3RvcmV9CiAgICAgICAgICAgICAgICAgICAgICAgIHN0Y1N0b3JlPXtzdGNTdG9yZX0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo8Q29tcG9uZW50RWRpdG9yIAogIGJ1dHRvbj17fQo+CiAgPHN0Y1JlbmRlcmVyIC8+CjwvQ29tcG9uZW50RWRpdG9yPg==</text>
+        <text>import { tabsEditorData } from '../../StcComponents/Tabs/store/DataStructure';
+import { stepsEditorData } from '../../StcComponents/Steps/store/DataStructure';</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
