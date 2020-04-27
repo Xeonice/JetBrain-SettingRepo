@@ -90,10 +90,6 @@
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1587712939102">
-        <mark key="[" line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1587708033267" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-input/EditorInput.jsx" timestamp="1587714798650">
         <mark key="[" line="6" column="95" />
       </file>
@@ -101,11 +97,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1587719476264">
         <mark key="[" line="400" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1587712977192">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/upload/Upload.tsx" timestamp="1587951173049" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1587717243698">
         <mark key="[" line="100" column="4" />
         <mark key="]" line="3" column="0" />
@@ -132,6 +124,7 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1587721898069" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/BaseComponentSetting.jsx" timestamp="1587722037505" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components/upload/Upload.tsx" timestamp="1587951140681" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1587719766773">
         <mark key="[" line="49" column="32" />
       </file>
