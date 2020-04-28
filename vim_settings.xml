@@ -132,12 +132,16 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588055559511" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588057357848" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588055854334" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587979566191">
         <mark key="[" line="47" column="92" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588056142865" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588057313984">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1588053037828">
         <mark key="[" line="143" column="95" />
       </file>
@@ -247,8 +251,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>none</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IE1vbmFjb0VkaXRvckN1c3RvbSBmcm9tICcuL01vbmFjb0VkaXRvcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>none</text>
@@ -260,31 +264,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IE1vbmFjb0VkaXRvckN1c3RvbSBmcm9tICcuL01vbmFjb0VkaXRvcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLy8ganN4ID0+IGd1bHAgLyB3ZWJwYWNrID0+IHN0cmluZwoKICAvLyBzdHJpbmcgPT4gYmFiZWwvcGFyc2VyID0+IGFzdCA9PiBjb21waWxlciA9PiBzdHJpbmcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>34</text>
