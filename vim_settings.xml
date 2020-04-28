@@ -85,13 +85,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponentRenderer.jsx" timestamp="1587979346604">
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588049620062">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/index.js" timestamp="1588058963197">
+        <mark key="[" line="34" column="4" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Logo/index.js" timestamp="1588052839763">
         <mark key="[" line="9" column="10" />
@@ -99,16 +94,31 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1588043726175">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/theme.js" timestamp="1588038582194">
         <mark key="[" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Navigation/index.js" timestamp="1588043909851">
         <mark key="[" line="94" column="17" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1588059022985">
+        <mark key="[" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.js" timestamp="1588058643498">
+        <mark key="[" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1588053037828">
+        <mark key="[" line="143" column="95" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588049620062">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1588043726175">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588058581892">
+        <mark key="[" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/ThemeButton/index.less" timestamp="1588039273893">
         <mark key="[" line="18" column="0" />
@@ -121,29 +131,25 @@
         <mark key="^" line="118" column="22" />
         <mark key="." line="118" column="21" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1587979035566">
-        <mark key="[" line="23" column="61" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1588037966081">
-        <mark key="[" line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/ThemeButton/ThemeButton.jsx" timestamp="1588041130431">
         <mark key="[" line="88" column="20" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588057357848" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588055854334" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1587979566191">
-        <mark key="[" line="47" column="92" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588059333650">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588055854334" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/index.js" timestamp="1588059218393" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588057313984">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1588053037828">
-        <mark key="[" line="143" column="95" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588058630537">
+        <mark key="[" line="22" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -252,7 +258,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IE1vbmFjb0VkaXRvckN1c3RvbSBmcm9tICcuL01vbmFjb0VkaXRvcic7Cg==</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>none</text>
@@ -264,13 +270,13 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IE1vbmFjb0VkaXRvckN1c3RvbSBmcm9tICcuL01vbmFjb0VkaXRvcic7Cg==</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLy8ganN4ID0+IGd1bHAgLyB3ZWJwYWNrID0+IHN0cmluZwoKICAvLyBzdHJpbmcgPT4gYmFiZWwvcGFyc2VyID0+IGFzdCA9PiBjb21waWxlciA9PiBzdHJpbmcK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IE1vbmFjb0VkaXRvckN1c3RvbSBmcm9tICcuL01vbmFjb0VkaXRvcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLy8ganN4ID0+IGd1bHAgLyB3ZWJwYWNrID0+IHN0cmluZwoKICAvLyBzdHJpbmcgPT4gYmFiZWwvcGFyc2VyID0+IGFzdCA9PiBjb21waWxlciA9PiBzdHJpbmcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -279,16 +285,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
