@@ -90,7 +90,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Logo/index.js" timestamp="1588049450949" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Logo/index.js" timestamp="1588052839763">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="9" column="10" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/theme.js" timestamp="1588038582194">
         <mark key="[" line="2" column="12" />
       </file>
@@ -106,24 +111,29 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1588037966081">
         <mark key="[" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1587977630817" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1587979573918" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1587979579840" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1587979445726">
-        <mark key="[" line="43" column="34" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1588053037828">
+        <mark key="[" line="143" column="95" />
       </file>
       <file name="/Dummy.txt" timestamp="1588049620062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1588043726175">
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/ThemeButton/index.less" timestamp="1588039273893">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1588053279598">
+        <mark key="[" line="162" column="13" />
+        <mark key="]" line="131" column="2" />
+        <mark key="^" line="131" column="2" />
+        <mark key="." line="131" column="1" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1587979035566">
         <mark key="[" line="23" column="61" />
@@ -252,11 +262,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>none</text>
       </register>
       <register name="-" type="4">
-        <text>StcComponents</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -271,22 +281,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImRhcmstbW9kZS10b2dnbGUiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
