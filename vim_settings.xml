@@ -96,13 +96,11 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/DataStructure.js" timestamp="1588066611772">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1588066729427">
-        <mark key="[" line="80" column="39" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1588069022242">
+        <mark key="[" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1588065886472">
         <mark key="[" line="7" column="23" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1588064676128">
         <mark key="[" line="18" column="15" />
@@ -114,11 +112,7 @@
         <mark key="^" line="78" column="31" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.js" timestamp="1588066001734">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.js" timestamp="1588066001734" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588058581892">
         <mark key="[" line="28" column="3" />
       </file>
@@ -135,19 +129,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588062069228">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1588065642540">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="162" column="16" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588055854334" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/index.js" timestamp="1588059218393" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588057313984">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588058630537">
         <mark key="[" line="22" column="4" />
       </file>
@@ -263,11 +245,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>'top'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>v</text>
