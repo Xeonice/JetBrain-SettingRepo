@@ -90,9 +90,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/index.js" timestamp="1588066106663">
-        <mark key="[" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/DataStructure.js" timestamp="1588066611772">
         <mark key="[" line="17" column="12" />
       </file>
@@ -102,39 +99,44 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1588065886472">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1588064676128">
-        <mark key="[" line="18" column="15" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1588069672177">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1588061586680" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1588065621384">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="78" column="31" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1588069724213">
+        <mark key="[" line="211" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.js" timestamp="1588066001734" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588058581892">
-        <mark key="[" line="28" column="3" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1588069615344">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="75" column="31" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/PageLevelButton.jsx" timestamp="1588061903225">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/index.js" timestamp="1588064442825">
-        <mark key="[" line="7" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/index.js" timestamp="1588069718933">
+        <mark key="[" line="66" column="33" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/NoDataSourcePlaceholder/NoDataSourcePlaceholder.jsx" timestamp="1588070195036">
+        <mark key="[" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentEditor.jsx" timestamp="1588062069228">
         <mark key="[" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/index.js" timestamp="1588059218393" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588058630537">
-        <mark key="[" line="22" column="4" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1588069744088">
+        <mark key="[" line="251" column="24" />
+        <mark key="]" line="251" column="24" />
+        <mark key="." line="251" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/components/SelectIcon/index.jsx" timestamp="1588064818507">
-        <mark key="[" line="8" column="12" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/components/SelectIcon/index.jsx" timestamp="1588070052356">
+        <mark key="[" line="1" column="32" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -246,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>useFormStore</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>useFormStore</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -261,28 +263,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKiAga2V5PXtjb2RlfSovfQogICAgICAgICAgICAgICAgICAgICAgey8qICBjbGFzc05hbWU9e1sncmVhY3QtdGFic19fdGFiJywgc3R5bGVzLnRhYl19Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIG9uQ2xpY2s9eygpID0+IHNldEN1cnJlbnRDb2RlKGl0ZW0uY29kZSl9Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIHtzZXRUaXRsZUVsZShpdGVtKX0qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjwvVGFiPiovfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>// 新建分组需要用的数据
+const initGroupData = {
+  newGroup: [],
+  newGroupProps: {},
+};
+
+// 新增行需要用的数据
+const initLineData = [];</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPFRhYnMqL30KICAgICAgICAgICAgey8qICBvblNlbGVjdD17dGFiT25jaGFuZ2V9Ki99CiAgICAgICAgICAgIHsvKiAgZGVmYXVsdEluZGV4PXt0YWJzU3RvcmUudHJhbnNmb3JtLnRhYlBhbmVsLmZpbmRJbmRleChpdGVtID0+IGl0ZW0uY29kZSA9PT0gYWN0aXZlS2V5KX0qL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LyogIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbJ3RhYi1iYXItbGVmdCddfT4qL30KICAgICAgICAgICAgICAgIHsvKjxUYWJMaXN0IHN0eWxlPXt7IGZsZXg6IDEgfX0+Ki99</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKiAga2V5PXtjb2RlfSovfQogICAgICAgICAgICAgICAgICAgICAgey8qICBjbGFzc05hbWU9e1sncmVhY3QtdGFic19fdGFiJywgc3R5bGVzLnRhYl19Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIG9uQ2xpY2s9eygpID0+IHNldEN1cnJlbnRDb2RlKGl0ZW0uY29kZSl9Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIHtzZXRUaXRsZUVsZShpdGVtKX0qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjwvVGFiPiovfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezF9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezF9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPFRhYnMqL30KICAgICAgICAgICAgey8qICBvblNlbGVjdD17dGFiT25jaGFuZ2V9Ki99CiAgICAgICAgICAgIHsvKiAgZGVmYXVsdEluZGV4PXt0YWJzU3RvcmUudHJhbnNmb3JtLnRhYlBhbmVsLmZpbmRJbmRleChpdGVtID0+IGl0ZW0uY29kZSA9PT0gYWN0aXZlS2V5KX0qL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LyogIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbJ3RhYi1iYXItbGVmdCddfT4qL30KICAgICAgICAgICAgICAgIHsvKjxUYWJMaXN0IHN0eWxlPXt7IGZsZXg6IDEgfX0+Ki99</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezF9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
