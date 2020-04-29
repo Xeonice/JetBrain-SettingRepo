@@ -91,13 +91,8 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/DataStructure.js" timestamp="1588133961680">
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588071365236">
-        <mark key="[" line="30" column="15" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/PageLevelButton.jsx" timestamp="1588070814106">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588136154596">
+        <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1588071250140">
         <mark key="[" line="123" column="60" />
@@ -105,54 +100,48 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/index.js" timestamp="1588069718933">
-        <mark key="[" line="66" column="33" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1588135677177">
+        <mark key="[" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1588069672177">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="25" />
-        <mark key="." line="35" column="25" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/MonacoEditor.tsx" timestamp="1588134849533">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/DataStructure.js" timestamp="1588133958339" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/MonacoEditor.tsx" timestamp="1588131142498">
-        <mark key="[" line="7" column="30" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/a.js" timestamp="1588136002885">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1588069724213">
-        <mark key="[" line="211" column="37" />
+      <file name="/JavaScript Console" timestamp="1588135967380">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1588070869413">
-        <mark key="[" line="164" column="30" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588130976648">
-        <mark key="[" line="183" column="13" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1588069615344">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="75" column="31" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1588069744088">
-        <mark key="[" line="251" column="24" />
-        <mark key="]" line="251" column="24" />
-        <mark key="." line="251" column="24" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588071270389">
-        <mark key="[" line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588130506877">
-        <mark key="[" line="8" column="67" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/test.jsx" timestamp="1588136206541">
+        <mark key="[" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/systemjs/README.md" timestamp="1588130887686" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerRenderer.jsx" timestamp="1588070877266">
         <mark key="[" line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/components/SelectIcon/index.jsx" timestamp="1588070052356">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1588136196559">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588071365236">
+        <mark key="[" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/DataStructure.js" timestamp="1588133958339" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/b.js" timestamp="1588135944841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588135748679">
+        <mark key="[" line="183" column="13" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/tsconfig.json" timestamp="1588136095900" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588071270389">
+        <mark key="[" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588136214304">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -260,8 +249,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>{ System: SystemJS, applyImportMap, setBaseUrl }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{ System: SystemJS, applyImportMap, setBaseUrl }</text>
@@ -282,29 +271,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>// 新建分组需要用的数据
-const initGroupData = {
-  newGroup: [],
-  newGroupProps: {},
-};
-
-// 新增行需要用的数据
-const initLineData = [];</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKiAga2V5PXtjb2RlfSovfQogICAgICAgICAgICAgICAgICAgICAgey8qICBjbGFzc05hbWU9e1sncmVhY3QtdGFic19fdGFiJywgc3R5bGVzLnRhYl19Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIG9uQ2xpY2s9eygpID0+IHNldEN1cnJlbnRDb2RlKGl0ZW0uY29kZSl9Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyogIHtzZXRUaXRsZUVsZShpdGVtKX0qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjwvVGFiPiovfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPFRhYnMqL30KICAgICAgICAgICAgey8qICBvblNlbGVjdD17dGFiT25jaGFuZ2V9Ki99CiAgICAgICAgICAgIHsvKiAgZGVmYXVsdEluZGV4PXt0YWJzU3RvcmUudHJhbnNmb3JtLnRhYlBhbmVsLmZpbmRJbmRleChpdGVtID0+IGl0ZW0uY29kZSA9PT0gYWN0aXZlS2V5KX0qL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LyogIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbJ3RhYi1iYXItbGVmdCddfT4qL30KICAgICAgICAgICAgICAgIHsvKjxUYWJMaXN0IHN0eWxlPXt7IGZsZXg6IDEgfX0+Ki99</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9ezB9Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBTeXN0ZW0gfSA9IHJlcXVpcmUoJ3N5c3RlbWpzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
