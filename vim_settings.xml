@@ -94,8 +94,11 @@
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588136154596">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1588135677177">
-        <mark key="[" line="3" column="18" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1588139156494">
+        <mark key="[" line="189" column="7" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpackDevServer.config.js" timestamp="1588138317882">
+        <mark key="[" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/MonacoEditor.tsx" timestamp="1588134849533">
         <mark key="[" line="9" column="0" />
@@ -115,7 +118,7 @@
       <file name="/Dummy.txt" timestamp="1588136196559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588138172315">
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588138917293">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -128,17 +131,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.jsx" timestamp="1588137077382" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588135748679">
-        <mark key="[" line="183" column="13" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588139252130">
+        <mark key="[" line="174" column="51" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/tsconfig.json" timestamp="1588136095900" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/index.js" timestamp="1588071270389">
-        <mark key="[" line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588137495170">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588139547294">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -246,11 +246,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ID0gdGVzdC50ZXN0KCk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKAogICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZSh0KQogICAgICAgICAgICAgICAgKTs=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>{ System: SystemJS, applyImportMap, setBaseUrl }</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
