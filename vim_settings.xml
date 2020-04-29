@@ -85,12 +85,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/DataStructure.js" timestamp="1588133961680">
-        <mark key="[" line="22" column="23" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588143713054">
+        <mark key="[" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588136154596">
-        <mark key="[" line="3" column="40" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/public/index.html" timestamp="1588146251644">
+        <mark key="[" line="23" column="58" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1588146413245" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpackDevServer.config.js" timestamp="1588138317882">
         <mark key="[" line="76" column="19" />
       </file>
@@ -99,28 +100,27 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/a.js" timestamp="1588136002885">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/a.js" timestamp="1588143609968">
+        <mark key="[" line="0" column="39" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588135967380">
+      <file name="/JavaScript Console" timestamp="1588143589872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/test.jsx" timestamp="1588136206541">
         <mark key="[" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/systemjs/README.md" timestamp="1588130887686" />
       <file name="/Dummy.txt" timestamp="1588136196559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588142406974">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-boolean/EditorBoolean.jsx" timestamp="1588145236464">
+        <mark key="[" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/index.js" timestamp="1588071365236">
-        <mark key="[" line="30" column="15" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588146997201">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/store/DataStructure.js" timestamp="1588133958339" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.js" timestamp="1588143785482" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/set-public-path.js" timestamp="1588141860164">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -129,17 +129,12 @@
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/b.js" timestamp="1588135944841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.jsx" timestamp="1588137077382" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588142229012">
-        <mark key="[" line="355" column="40" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.jsx" timestamp="1588143695894">
+        <mark key="[" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/tsconfig.json" timestamp="1588136095900" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588141611211">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588147184115">
+        <mark key="[" line="91" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -263,7 +258,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICA8c2NyaXB0Pi0tPgo8IS0tICAgICAgU3lzdGVtSlMuaW1wb3J0KCdodHRwczovL3VucGtnLmNvbS9yZWFjdEAxNi43LjAvdW1kL3JlYWN0LnByb2R1Y3Rpb24ubWluLmpzJyktLT4KPCEtLSAgICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYykgey0tPgo8IS0tICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGMpOy0tPgo8IS0tICAgICAgICAgICAgICB9KS0tPgo8IS0tICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24oZSkgey0tPgo8IS0tICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZSktLT4KPCEtLSAgICAgICAgICAgICAgfSk7LS0+Cgo8IS0tICAgIDwvc2NyaXB0Pi0tPg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgIChmdW5jdGlvbigpIHsKICAgICAgICBTeXN0ZW0uaW1wb3J0KCdodHRwczovL3VucGtnLmNvbS9yZWFjdEAxNi43LjAvdW1kL3JlYWN0LnByb2R1Y3Rpb24ubWluLmpzJykudGhlbihzaW5nbGVTcGEgPT4gewogICAgICAgICAgY29uc29sZS5sb2coc2luZ2xlU3BhKQogICAgICAgIH0pCiAgICAgIH0pKCkKICAgIDwvc2NyaXB0Pg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,19 +267,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNpbmdsZVNwYS5yZWdpc3RlckFwcGxpY2F0aW9uKAogICAgICAgICAgICAgICAgICAnYXBwVnVlSGlzdG9yeScsCiAgICAgICAgICAgICAgICAgICgpID0+IFN5c3RlbS5pbXBvcnQoJ2FwcFZ1ZUhpc3RvcnknKSwKICAgICAgICAgICAgICAgICAgbG9jYXRpb24gPT4gbG9jYXRpb24ucGF0aG5hbWUuc3RhcnRzV2l0aCgnL2FwcC12dWUtaGlzdG9yeS8nKQogICAgICAgICAgKQogICAgICAgICAgc2luZ2xlU3BhLnJlZ2lzdGVyQXBwbGljYXRpb24oCiAgICAgICAgICAgICAgICAgICdhcHBWdWVIYXNoJywKICAgICAgICAgICAgICAgICAgKCkgPT4gU3lzdGVtLmltcG9ydCgnYXBwVnVlSGFzaCcpLAogICAgICAgICAgICAgICAgICBsb2NhdGlvbiA9PiBsb2NhdGlvbi5wYXRobmFtZS5zdGFydHNXaXRoKCcvYXBwLXZ1ZS1oYXNoLycpCiAgICAgICAgICApCiAgICAgICAgICBzaW5nbGVTcGEuc3RhcnQoKTsKICAgICAgICB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAianNwbSI6IHsKICAgICJkZXBlbmRlbmNpZXMiOiB7CiAgICAgIAogICAgfSwKICAgICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAgIAogICAgfQogIH0s</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">PCEtLSAgICA8c2NyaXB0Pi0tPgo8IS0tICAgICAgU3lzdGVtSlMuaW1wb3J0KCdodHRwczovL3VucGtnLmNvbS9yZWFjdEAxNi43LjAvdW1kL3JlYWN0LnByb2R1Y3Rpb24ubWluLmpzJyktLT4KPCEtLSAgICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24oYykgey0tPgo8IS0tICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGMpOy0tPgo8IS0tICAgICAgICAgICAgICB9KS0tPgo8IS0tICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24oZSkgey0tPgo8IS0tICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZSktLT4KPCEtLSAgICAgICAgICAgICAgfSk7LS0+Cgo8IS0tICAgIDwvc2NyaXB0Pi0tPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3QgdXJsVGVzdCA9ICdodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzJzsKICBpbXBvcnQodXJsVGVzdCkudGhlbigocmVzKSA9PiB7CiAgICBkZWJ1Z2dlcjsKICB9KQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
