@@ -94,8 +94,10 @@
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588136154596">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1588139156494">
-        <mark key="[" line="189" column="7" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/package.json" timestamp="1588140568262">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpackDevServer.config.js" timestamp="1588138317882">
         <mark key="[" line="76" column="19" />
@@ -131,14 +133,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.jsx" timestamp="1588137077382" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588139252130">
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/webpack.config.js" timestamp="1588140430106">
         <mark key="[" line="174" column="51" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/tsconfig.json" timestamp="1588136095900" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588139547294">
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588140372529">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -246,8 +248,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -259,25 +261,25 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ID0gdGVzdC50ZXN0KCk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKAogICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZSh0KQogICAgICAgICAgICAgICAgKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAianNwbSI6IHsKICAgICJkZXBlbmRlbmNpZXMiOiB7CiAgICAgIAogICAgfSwKICAgICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAgIAogICAgfQogIH0s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgdXJsVGVzdCA9ICdodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzJzsKICBpbXBvcnQodXJsVGVzdCkudGhlbigocmVzKSA9PiB7CiAgICBkZWJ1Z2dlcjsKICB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ID0gdGVzdC50ZXN0KCk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKAogICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZSh0KQogICAgICAgICAgICAgICAgKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
