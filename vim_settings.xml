@@ -111,8 +111,8 @@
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/a.js" timestamp="1588154962594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-boolean/EditorBoolean.jsx" timestamp="1588145236464">
-        <mark key="[" line="17" column="15" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-boolean/EditorBoolean.jsx" timestamp="1588237410651">
+        <mark key="[" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588154848626">
         <mark key="[" line="31" column="17" />
@@ -120,12 +120,13 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.js" timestamp="1588143785482" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1588210775687">
-        <mark key="[" line="111" column="49" />
-        <mark key="]" line="111" column="49" />
-        <mark key="." line="111" column="49" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1588238280383">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/react/umd/react.production.min.js" timestamp="1588154426784" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1588237741728" />
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/config/set-public-path.js" timestamp="1588141860164">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -245,11 +246,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmllbGQsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text encoding="base64">ZmllbGQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -261,28 +262,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PEJhc2VDb21wb25lbnRSZW5kZXJlciAKICB0eXBlPSJJbnB1dCIKLz4K</text>
+        <text encoding="base64">ICAgICwgLy8g6K6+572uIHBsdWdpbiDlj5fmjqfkuo4g5a2X5q615bGe5oCnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibWFwIjogewogICAgICAgICAgInJlYWN0IjogIm5vZGVfbW9kdWxlcy9yZWFjdC91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiCiAgICAgICAgfSw=</text>
+        <text encoding="base64">PEJhc2VDb21wb25lbnRSZW5kZXJlciAKICB0eXBlPSJJbnB1dCIKLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAicmVhY3QiOiAiLi4vbm9kZV9tb2R1bGVzL3JlYWN0L3VtZC9yZWFjdC5wcm9kdWN0aW9uLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LyI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QvdW1kLyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LWRvbSI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QtZG9tL3VtZC9yZWFjdC1kb20ucHJvZHVjdGlvbi5taW4uanMiLC0tPgo8IS0tICAgICAgICAgICJyZWFjdC1kb20vIjogIi4uL25vZGVfbW9kdWxlcy9yZWFjdC1kb20vdW1kLyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngiOiAiLi4vbm9kZV9tb2R1bGVzL21vYngvbGliL21vYngudW1kLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngvIjogIi4uL25vZGVfbW9kdWxlcy9tb2J4L2xpYi8iLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQiOiAiLi4vbm9kZV9tb2R1bGVzL21vbWVudC9tb21lbnQuanMiLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQvIjogIi4uL25vZGVfbW9kdWxlcy9tb21lbnQvIi0tPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibWFwIjogewogICAgICAgICAgInJlYWN0IjogIm5vZGVfbW9kdWxlcy9yZWFjdC91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiCiAgICAgICAgfSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicGFja2FnZXMiOiB7CiAgICAgICAgICAicmVhY3QiOnsibWFpbiI6Im1vbWVudC5qcyJ9CiAgICAgICAgfQ==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAicmVhY3QiOiAiLi4vbm9kZV9tb2R1bGVzL3JlYWN0L3VtZC9yZWFjdC5wcm9kdWN0aW9uLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LyI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QvdW1kLyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LWRvbSI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QtZG9tL3VtZC9yZWFjdC1kb20ucHJvZHVjdGlvbi5taW4uanMiLC0tPgo8IS0tICAgICAgICAgICJyZWFjdC1kb20vIjogIi4uL25vZGVfbW9kdWxlcy9yZWFjdC1kb20vdW1kLyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngiOiAiLi4vbm9kZV9tb2R1bGVzL21vYngvbGliL21vYngudW1kLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngvIjogIi4uL25vZGVfbW9kdWxlcy9tb2J4L2xpYi8iLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQiOiAiLi4vbm9kZV9tb2R1bGVzL21vbWVudC9tb21lbnQuanMiLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQvIjogIi4uL25vZGVfbW9kdWxlcy9tb21lbnQvIi0tPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ic3lzdGVtanMtaW1wb3J0bWFwIj4KICAgIHsKICAgICAgImltcG9ydHMiOiB7CiAgICAgICAgInJlYWN0IjogImh0dHBzOi8vdW5wa2cuY29tL3JlYWN0QDE2LjcuMC91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiLAogICAgICB9CiAgICB9CiAgICA8L3NjcmlwdD4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAicGFja2FnZXMiOiB7CiAgICAgICAgICAicmVhY3QiOnsibWFpbiI6Im1vbWVudC5qcyJ9CiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
