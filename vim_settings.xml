@@ -85,13 +85,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/index.tsx" timestamp="1588143713054">
-        <mark key="[" line="6" column="39" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/AnimeLogo/index.js" timestamp="1588239297310">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1588239022918" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/public/index.html" timestamp="1588146251644">
-        <mark key="[" line="23" column="58" />
-      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Box/Box.js" timestamp="1588239353104" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Logo/index.js" timestamp="1588239710731" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1588234963322">
         <mark key="[" line="15" column="40" />
       </file>
@@ -100,16 +98,10 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/mobx/package.json" timestamp="1588151396167" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1588213035720" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/TextField.jsx" timestamp="1588212787056" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/a.js" timestamp="1588143609968">
-        <mark key="[" line="0" column="39" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1588143589872">
+      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/a.js" timestamp="1588154962594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/a.js" timestamp="1588154962594">
+      <file name="/Dummy.txt" timestamp="1588239313347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-boolean/EditorBoolean.jsx" timestamp="1588237410651">
@@ -120,16 +112,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.js" timestamp="1588143785482" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/index.js" timestamp="1588239667166">
+        <mark key="[" line="30" column="29" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1588238280383">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/node_modules/react/umd/react.production.min.js" timestamp="1588154426784" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1588237741728" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/ffff.jsx" timestamp="1588143695894">
-        <mark key="[" line="1" column="17" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1588241920074">
+        <mark key="[" line="138" column="45" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588154950535">
         <mark key="[" line="96" column="27" />
@@ -242,8 +236,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmllbGQsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZmllbGQsIA==</text>
@@ -258,28 +252,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwgLy8g6K6+572uIHBsdWdpbiDlj5fmjqfkuo4g5a2X5q615bGe5oCnCg==</text>
+        <text encoding="base64">ICAgICAgICBiZWdpbj17KGFuaW1lKSA9PiB7CiAgICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICAgIGNvbnN0IHRpbWVsaW5lID0gYW5pbWUudGltZWxpbmUoeyBhdXRvcGxheTogdHJ1ZSwgZGlyZWN0aW9uOiAnYWx0ZXJuYXRlJywgbG9vcDogdHJ1ZSB9KTsKICAgICAgICAgIHBhdGhzLmZvckVhY2goZnVuY3Rpb24ocGF0aCwgaW5kZXgpIHsKICAgICAgICAgICAgdGltZWxpbmUKICAgICAgICAgICAgICAuYWRkKHsKICAgICAgICAgICAgICAgIHRhcmdldHM6IHBhdGguaWQsCiAgICAgICAgICAgICAgICBkOiB7CiAgICAgICAgICAgICAgICAgIHZhbHVlOiBwYXRoLmQsCiAgICAgICAgICAgICAgICAgIGR1cmF0aW9uOiAxMDAwLAogICAgICAgICAgICAgICAgICBlYXNpbmc6ICdlYXNlSW5PdXRRdWFkJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG9mZnNldDogMTAwMCArIDEwICogaW5kZXgKICAgICAgICAgICAgICB9KTsKICAgICAgICAgIH0pOwogICAgICAgIH19</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PEJhc2VDb21wb25lbnRSZW5kZXJlciAKICB0eXBlPSJJbnB1dCIKLz4K</text>
+        <text encoding="base64">ICAgICAgey8qPEFuaW1lKi99CiAgICAgIHsvKiAgYXV0b3BsYXk9e3RydWV9Ki99CiAgICAgIHsvKiAgZGlyZWN0aW9uPSJhbHRlcm5hdGUiKi99CiAgICAgIHsvKiAgbG9vcCovfQogICAgICB7Lyo+Ki99</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibWFwIjogewogICAgICAgICAgInJlYWN0IjogIm5vZGVfbW9kdWxlcy9yZWFjdC91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiCiAgICAgICAgfSw=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAicmVhY3QiOiAiLi4vbm9kZV9tb2R1bGVzL3JlYWN0L3VtZC9yZWFjdC5wcm9kdWN0aW9uLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LyI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QvdW1kLyIsLS0+CjwhLS0gICAgICAgICAgInJlYWN0LWRvbSI6ICIuLi9ub2RlX21vZHVsZXMvcmVhY3QtZG9tL3VtZC9yZWFjdC1kb20ucHJvZHVjdGlvbi5taW4uanMiLC0tPgo8IS0tICAgICAgICAgICJyZWFjdC1kb20vIjogIi4uL25vZGVfbW9kdWxlcy9yZWFjdC1kb20vdW1kLyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngiOiAiLi4vbm9kZV9tb2R1bGVzL21vYngvbGliL21vYngudW1kLm1pbi5qcyIsLS0+CjwhLS0gICAgICAgICAgIm1vYngvIjogIi4uL25vZGVfbW9kdWxlcy9tb2J4L2xpYi8iLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQiOiAiLi4vbm9kZV9tb2R1bGVzL21vbWVudC9tb21lbnQuanMiLC0tPgo8IS0tICAgICAgICAgICJtb21lbnQvIjogIi4uL25vZGVfbW9kdWxlcy9tb21lbnQvIi0tPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicGFja2FnZXMiOiB7CiAgICAgICAgICAicmVhY3QiOnsibWFpbiI6Im1vbWVudC5qcyJ9CiAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
