@@ -88,6 +88,7 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/AnimeLogo/index.js" timestamp="1588239297310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活躍衝刺 - 看板性能優化隨筆.mdx" timestamp="1588749435921" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Box/Box.js" timestamp="1588243733558">
         <mark key="[" line="81" column="35" />
       </file>
@@ -95,29 +96,34 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1588234963322">
         <mark key="[" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1588213025930">
-        <mark key="[" line="154" column="4" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/about.js" timestamp="1588749225552">
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/a.js" timestamp="1588154962594">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Navigation/index.js" timestamp="1588749807512">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="62" />
+        <mark key="^" line="45" column="63" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1588749422288" />
       <file name="/Dummy.txt" timestamp="1588239313347">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/work.js" timestamp="1588749303470" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-boolean/EditorBoolean.jsx" timestamp="1588237410651">
         <mark key="[" line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/public/index.html" timestamp="1588154848626">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/writings.js" timestamp="1588749397136">
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/index.js" timestamp="1588244927916">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活跃衝刺 - 看板性能优化随笔.mdx" timestamp="1588749520794" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/index.js" timestamp="1588749016412">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1588238280383">
         <mark key="[" line="5" column="23" />
@@ -130,11 +136,6 @@
         <mark key="." line="145" column="45" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1588244160348" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1588154950535">
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/global.js" timestamp="1588243585598">
         <mark key="[" line="13" column="1" />
       </file>
@@ -245,10 +246,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdpZHRoPXt3aWR0aH0gaGVpZ2h0PXtoZWlnaHR9IHZpZXdCb3g9IjAgMCA3MDAgNjAwIg==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpZHRoPXt3aWR0aH0gaGVpZ2h0PXtoZWlnaHR9IHZpZXdCb3g9IjAgMCA3MDAgNjAwIg==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -266,13 +267,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiZWdpbj17KGFuaW1lKSA9PiB7CiAgICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICAgIGNvbnN0IHRpbWVsaW5lID0gYW5pbWUudGltZWxpbmUoeyBhdXRvcGxheTogdHJ1ZSwgZGlyZWN0aW9uOiAnYWx0ZXJuYXRlJywgbG9vcDogdHJ1ZSB9KTsKICAgICAgICAgIHBhdGhzLmZvckVhY2goZnVuY3Rpb24ocGF0aCwgaW5kZXgpIHsKICAgICAgICAgICAgdGltZWxpbmUKICAgICAgICAgICAgICAuYWRkKHsKICAgICAgICAgICAgICAgIHRhcmdldHM6IHBhdGguaWQsCiAgICAgICAgICAgICAgICBkOiB7CiAgICAgICAgICAgICAgICAgIHZhbHVlOiBwYXRoLmQsCiAgICAgICAgICAgICAgICAgIGR1cmF0aW9uOiAxMDAwLAogICAgICAgICAgICAgICAgICBlYXNpbmc6ICdlYXNlSW5PdXRRdWFkJwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG9mZnNldDogMTAwMCArIDEwICogaW5kZXgKICAgICAgICAgICAgICB9KTsKICAgICAgICAgIH0pOwogICAgICAgIH19</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPEFuaW1lKi99CiAgICAgIHsvKiAgYXV0b3BsYXk9e3RydWV9Ki99CiAgICAgIHsvKiAgZGlyZWN0aW9uPSJhbHRlcm5hdGUiKi99CiAgICAgIHsvKiAgbG9vcCovfQogICAgICB7Lyo+Ki99</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
