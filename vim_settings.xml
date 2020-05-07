@@ -85,6 +85,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/Column.jsx" timestamp="1588843737474">
+        <mark key="[" line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1588838613468">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="41" column="0" />
@@ -104,6 +107,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1588843732512">
+        <mark key="[" line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1588838680752">
         <mark key="[" line="116" column="4" />
         <mark key="]" line="164" column="0" />
@@ -118,9 +124,6 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1588755744438">
-        <mark key="[" line="79" column="40" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Radio/index.js" timestamp="1588838595611">
         <mark key="[" line="79" column="4" />
@@ -140,9 +143,6 @@
         <mark key="[" line="142" column="4" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588763344939">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/templates/Blog/mdx.js" timestamp="1588766025403">
         <mark key="[" line="69" column="28" />
