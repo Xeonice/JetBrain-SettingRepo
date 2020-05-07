@@ -85,58 +85,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活躍衝刺 - 看板性能優化隨筆.mdx" timestamp="1588749435921" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1588755744438">
-        <mark key="[" line="79" column="40" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Navigation/index.js" timestamp="1588751128772">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="45" column="63" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1588749422288" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1588766283296">
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/NumberField/index.js" timestamp="1588838613468">
+        <mark key="[" line="153" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1588766310071" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/index.js" timestamp="1588766317823" />
       <file name="$USER_HOME$/ExploreProject/vscode-dataset-extension/node_modules/@types/vscode/index.d.ts" timestamp="1588763476755" />
       <file name="$USER_HOME$/ExploreProject/vscode-dataset-extension/src/completion.js" timestamp="1588766443070">
         <mark key="[" line="141" column="2" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TextField/index.js" timestamp="1588838958806">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1588838970716">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1588838680752">
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Select/index.js" timestamp="1588838933365">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Lov/index.js" timestamp="1588838624650">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1588755744438">
+        <mark key="[" line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Radio/index.js" timestamp="1588838595611">
+        <mark key="[" line="79" column="4" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1588838892071">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DatePicker/index.js" timestamp="1588838659841">
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588763344939">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/work.js" timestamp="1588749303470" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/writings.js" timestamp="1588749397136">
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/templates/Blog/mdx.js" timestamp="1588766025403">
         <mark key="[" line="69" column="28" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/ATag/index.js" timestamp="1588766412107" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1588838861726">
+        <mark key="[" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/ATag/index.js" timestamp="1588838798355">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/SayHi/index.js" timestamp="1588751071338">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活跃衝刺 - 看板性能优化随笔.mdx" timestamp="1588749520794" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/index.js" timestamp="1588751692008">
         <mark key="[" line="40" column="18" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1588766329726">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1588838482742">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Select/index.js" timestamp="1588766258885">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -244,8 +274,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB7CiAgLy8gICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogIC8vICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgLy8gICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICAvLyB9LA==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text />
@@ -257,25 +287,25 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB7CiAgLy8gICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogIC8vICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgLy8gICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICAvLyB9LA==</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
