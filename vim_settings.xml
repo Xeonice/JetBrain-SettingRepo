@@ -90,6 +90,9 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/index.less" timestamp="1588859833143" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1588854144537" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1588917125288">
+        <mark key="[" line="8" column="8" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1588903084786">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -135,9 +138,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/Step.jsx" timestamp="1588858353702" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1588855796146">
         <mark key="[" line="42" column="55" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1588852675424">
-        <mark key="[" line="145" column="48" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.less" timestamp="1588859494569">
         <mark key="[" line="2" column="23" />
