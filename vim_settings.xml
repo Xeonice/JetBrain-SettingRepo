@@ -89,7 +89,6 @@
         <mark key="[" line="45" column="61" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/index.less" timestamp="1588859833143" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1588854144537" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/Upload.jsx" timestamp="1588917125288">
         <mark key="[" line="8" column="8" />
       </file>
@@ -102,6 +101,7 @@
         <mark key="[" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1588855665708" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/lib/tabs/index.d.ts" timestamp="1588919193932" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/index.less" timestamp="1588859111027">
         <mark key="[" line="62" column="0" />
       </file>
@@ -113,13 +113,18 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentEditor/ComponentNameEditor.jsx" timestamp="1588859904394">
         <mark key="[" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1588859327744">
-        <mark key="[" line="6" column="16" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageList/ListView.jsx" timestamp="1588920190558">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1588859349097">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1588918175963">
+        <mark key="[" line="83" column="51" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1588920303142">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="148" column="24" />
+        <mark key="." line="148" column="24" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/components/CommonTitle/CommonTitle.jsx" timestamp="1588859930915">
         <mark key="[" line="37" column="139" />
@@ -129,9 +134,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1588855351306">
         <mark key="[" line="119" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588853188110">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/NoDataSourcePlaceholder/NoDataSourcePlaceholder.jsx" timestamp="1588858308373">
         <mark key="[" line="4" column="52" />
       </file>
@@ -139,8 +141,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1588855796146">
         <mark key="[" line="42" column="55" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.less" timestamp="1588859494569">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/index.less" timestamp="1588920079737">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -249,7 +253,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RpdGxlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -261,31 +265,31 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RpdGxlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWI9e3NldFRpdGxlRWxlKGl0ZW0pfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text />
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICYmICFpc1Rvb2x0aXAgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPXtkZWxldGVJbWd9IG9uQ2xpY2s9e2UgPT4gZGVsZXRlVGFiKGUsIGl0ZW0pfSBhbHQ9IuWIoOmZpCIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgKX0=</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3RpdGxlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWI9e3NldFRpdGxlRWxlKGl0ZW0pfQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
