@@ -95,10 +95,11 @@
         <mark key="[" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-select-old/EditorSelect.jsx" timestamp="1588994451734" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/@types/react/index.d.ts" timestamp="1589007068551" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1588924184267">
         <mark key="[" line="139" column="14" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1589004511292">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1589007458716">
         <mark key="[" line="74" column="58" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1588992706016">
@@ -127,14 +128,17 @@
         <mark key="]" line="96" column="18" />
         <mark key="." line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadData.ts" timestamp="1589004519034">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadData.ts" timestamp="1589007429437">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1589001262200">
         <mark key="[" line="206" column="12" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/pageDesignerService.js" timestamp="1589007486566" />
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -242,7 +246,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLnNldFZhbHVlKEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0ZUFycikpLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CmludGVyZmFjZSBSZXF1ZXN0IHsKCn07</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -254,28 +258,28 @@
         <text encoding="base64">ICAgICAgeyBrZXk6ICdhZGRfYnRuJywgdHlwZTogJ2FkZCcgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLnNldFZhbHVlKEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0ZUFycikpLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CmludGVyZmFjZSBSZXF1ZXN0IHsKCn07</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbD17dGV4dH0KICAgICAgICBjbGVhckJ1dHRvbj17ZmFsc2V9CiAgICAgICAgdmFsdWU9ey9sb3ZPYmovLnRlc3Qob3BlcmF0ZUZpZWxkT2JqLmNoaWxkRmllbGQpID8gY3VycmVudFZhbHVlLnZpZXdDb2RlIDogY3VycmVudFZhbHVlfQogICAgICAgIG9uQ2hhbmdlPXt2YWx1ZSA9PiB7CiAgICAgICAgICBzdG9yZS5zZXRWYWx1ZShvcGVyYXRlRmllbGRPYmosIHZhbHVlKTsKICAgICAgICB9fQogICAgICAgIHsuLi5wbHVnaW5Qcm9wc30=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaGlkZGVuOiAnJywK</text>
+        <text encoding="base64">ZnVuY3Rpb24gdXNlTG9hZERhdGEocmVxOiBSZXF1ZXN0KTogUmV0dXJuVmFsdWU8UmVzdWx0PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0b3JlLnNldFZhbHVlKEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0ZUFycikpLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywKICAgICAgICAgICAgdG9wOiAnOHB4JywKICAgICAgICAgICAgbGVmdDogJzcwcHgnLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICA8VG9vbHRpcAogICAgICAgICAgICBwbGFjZW1lbnQ9InRvcCIKICAgICAgICAgICAgdGl0bGU9IumAieaLqeWtmOacieWklumUrueahOaooeWei+S9nOS4uuS4u+aooeWei+aXtu+8jOiZveeEtuS4u+S7juaooeWei+WPr+S/neWtmOaIkOWKn++8jOS9huafpeivouaXtuWFs+iBlOWtl+auteS8muS4uuepuu+8jOaXoOazleafpeWHuuaVsOaNruOAgiIKICAgICAgICAgID4KICAgICAgICAgICAgPEljb24gdHlwZT0iZXJyb3Jfb3V0bGluZSIgLz4KICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICA8L2Rpdj4=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbD17dGV4dH0KICAgICAgICBjbGVhckJ1dHRvbj17ZmFsc2V9CiAgICAgICAgdmFsdWU9ey9sb3ZPYmovLnRlc3Qob3BlcmF0ZUZpZWxkT2JqLmNoaWxkRmllbGQpID8gY3VycmVudFZhbHVlLnZpZXdDb2RlIDogY3VycmVudFZhbHVlfQogICAgICAgIG9uQ2hhbmdlPXt2YWx1ZSA9PiB7CiAgICAgICAgICBzdG9yZS5zZXRWYWx1ZShvcGVyYXRlRmllbGRPYmosIHZhbHVlKTsKICAgICAgICB9fQogICAgICAgIHsuLi5wbHVnaW5Qcm9wc30=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFTb3VyY2U6IHRhYmxlU3RvcmUuZGF0YVNvdXJjZS5jb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgaGlkZGVuOiAnJywK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
