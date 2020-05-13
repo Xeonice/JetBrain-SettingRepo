@@ -29,7 +29,6 @@
         <entry>v</entry>
       </history-search>
       <history-cmd>
-        <entry>7</entry>
         <entry>17</entry>
         <entry>12</entry>
         <entry>2</entry>
@@ -49,6 +48,7 @@
         <entry>170</entry>
         <entry>32</entry>
         <entry>34</entry>
+        <entry>451</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,6 +107,13 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/jsconfig.json" timestamp="1589361934126">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/.babelrc.js" timestamp="1589361397285" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/linkedProps.js" timestamp="1589356683052">
         <mark key="[" line="28" column="22" />
       </file>
@@ -116,6 +123,9 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="/ModelSelector.jsx" timestamp="1589350062987" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/webpack.config.js" timestamp="1589361242775">
+        <mark key="[" line="450" column="61" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/index.js" timestamp="1589261073843">
         <mark key="[" line="1" column="38" />
       </file>
@@ -138,7 +148,6 @@
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1589186221955" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/pageDesignerService.js" timestamp="1589258509966" />
     </filemarks>
     <jumps>
@@ -286,7 +295,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>34</text>
+        <text>451</text>
       </register>
     </registers>
   </component>
