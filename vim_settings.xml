@@ -85,11 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/usePageDataTrans.jsx" timestamp="1589018119931">
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="5" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveData.ts" timestamp="1589261146443">
         <mark key="[" line="0" column="35" />
       </file>
@@ -99,8 +94,10 @@
         <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1589259699801" />
-      <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1589016696929">
-        <mark key="[" line="139" column="14" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Lov/index.js" timestamp="1589356203154">
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/store/index.js" timestamp="1589261064858">
         <mark key="[" line="0" column="30" />
@@ -110,27 +107,31 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1589017875434">
-        <mark key="[" line="106" column="28" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/linkedProps.js" timestamp="1589356683052">
+        <mark key="[" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1589355577423">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/ModelSelector.jsx" timestamp="1589350062987" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/renderFormPropsReducer.js" timestamp="1589017943924">
-        <mark key="[" line="8" column="38" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/store/index.js" timestamp="1589261073843">
         <mark key="[" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Form.jsx" timestamp="1589018041553">
-        <mark key="[" line="27" column="73" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1589354249994">
+        <mark key="[" line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1589017315474" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1589018724177">
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1589356299435" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/writings.js" timestamp="1589353443566">
         <mark key="]" line="40" column="25" />
         <mark key="." line="40" column="25" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1589355948091">
+        <mark key="[" line="199" column="25" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/BaseComponentSetting.jsx" timestamp="1589355881954">
+        <mark key="[" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadData.ts" timestamp="1589259283993">
         <mark key="[" line="27" column="22" />
@@ -246,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>书写一份针对 DataSet 的交互文档，使新人在接触这一文档体系时能够拥有更加平滑的学习曲线。在这一文档完成后，我会将其放在个人随笔中。</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>书写一份针对 DataSet 的交互文档，使新人在接触这一文档体系时能够拥有更加平滑的学习曲线。在这一文档完成后，我会将其放在个人随笔中。</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
