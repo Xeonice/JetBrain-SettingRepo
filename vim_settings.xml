@@ -110,12 +110,6 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/jsconfig.json" timestamp="1589011481803">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1589017875434">
         <mark key="[" line="106" column="28" />
       </file>
@@ -133,6 +127,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1589018724177">
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/pages/writings.js" timestamp="1589353443566">
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadData.ts" timestamp="1589259283993">
         <mark key="[" line="27" column="22" />
