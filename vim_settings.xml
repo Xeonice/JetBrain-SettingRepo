@@ -99,6 +99,9 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveData.ts" timestamp="1589370633099">
         <mark key="[" line="158" column="25" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1589771887470">
+        <mark key="[" line="171" column="7" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveDataJS.js" timestamp="1589458069412">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="0" />
@@ -108,7 +111,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/DataStructure.js" timestamp="1589512386427">
         <mark key="[" line="62" column="25" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1589770515925">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1589770832461">
         <mark key="[" line="302" column="14" />
       </file>
     </filemarks>
@@ -233,13 +236,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWUgPT09ICdzb3VyY2VNb2RhbE5hbWUnKSB7CiAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogJ3NvdXJjZU1vZGFsJywKICAgICAgICAgICAgdHlwZTogJ29iamVjdCcsCiAgICAgICAgICAgIGlnbm9yZTogJ2Fsd2F5cycsCiAgICAgICAgICAgIGxhYmVsOiAn5Li75qih5Z6L5ZCN56ewJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6ICdzb3VyY2VNb2RhbE5hbWUnLAogICAgICAgICAgICBiaW5kOiAnc291cmNlTW9kYWwubmFtZScsCiAgICAgICAgICAgIHR5cGU6ICdzdHJpbmcnLAogICAgICAgICAgfSw=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWUgPT09ICdzb3VyY2VNb2RhbE5hbWUnKSB7CiAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogJ3NvdXJjZU1vZGFsJywKICAgICAgICAgICAgdHlwZTogJ29iamVjdCcsCiAgICAgICAgICAgIGlnbm9yZTogJ2Fsd2F5cycsCiAgICAgICAgICAgIGxhYmVsOiAn5Li75qih5Z6L5ZCN56ewJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6ICdzb3VyY2VNb2RhbE5hbWUnLAogICAgICAgICAgICBiaW5kOiAnc291cmNlTW9kYWwubmFtZScsCiAgICAgICAgICAgIHR5cGU6ICdzdHJpbmcnLAogICAgICAgICAgfSw=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
