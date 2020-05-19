@@ -103,11 +103,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/ComponentSelector/index.less" timestamp="1589787349689">
         <mark key="[" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1589780910053">
-        <mark key="[" line="117" column="14" />
-        <mark key="]" line="117" column="15" />
-        <mark key="." line="117" column="15" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructuralComponentSelector/index.less" timestamp="1589788598635">
         <mark key="[" line="5" column="17" />
       </file>
@@ -125,6 +120,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/SourceModal/index.js" timestamp="1589867564290">
         <mark key="[" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/WorkProject/base-service-pro/package.json" timestamp="1589869714130" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1589781070989">
         <mark key="[" line="204" column="52" />
       </file>
