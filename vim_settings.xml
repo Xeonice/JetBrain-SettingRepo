@@ -95,10 +95,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590026356361">
         <mark key="[" line="51" column="21" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1590027281075">
-        <mark key="[" line="166" column="18" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1590029160953">
+        <mark key="[" line="339" column="65" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1589940205195">
         <mark key="[" line="131" column="42" />
@@ -225,7 +225,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -237,13 +237,13 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VNb2RhbDoKICAgICAgICAgIGN1cnJlbnRTdG9yZS5wcm9wcy5kYXRhU291cmNlVHlwZSA9PT0gJ3NvdXJjZScgPyBjdXJyZW50U3RvcmUuZGF0YVNvdXJjZSA6IHVuZGVmaW5lZCw=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VNb2RhbDoKICAgICAgICAgIGN1cnJlbnRTdG9yZS5wcm9wcy5kYXRhU291cmNlVHlwZSA9PT0gJ3NvdXJjZScgPyBjdXJyZW50U3RvcmUuZGF0YVNvdXJjZSA6IHVuZGVmaW5lZCw=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -252,19 +252,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>name === 'dataSource' ? value : {
           ...value,
           code: value.sourceCode,
         }</text>
       </register>
-      <register name="8" type="2">
-        <text />
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZHMuY3VycmVudC5zZXQoJ2RhdGFTb3VyY2UnLCB7Cg==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>451</text>
