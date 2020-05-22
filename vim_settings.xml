@@ -91,6 +91,11 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1590132888817">
         <mark key="[" line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1590134606413">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590114542210" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1590132768928">
         <mark key="[" line="669" column="0" />
@@ -103,8 +108,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1590132879153">
-        <mark key="[" line="152" column="15" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1590134116666">
+        <mark key="[" line="146" column="58" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590115078959">
         <mark key="[" line="140" column="11" />
@@ -258,7 +263,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJzdHJhY3RUeXBlOiBCYXNlQ29tcG9uZW50LmV4cG9ydEFyci5maW5kKAogICAgICAgICAgICAgIChjb21wb25lbnQpID0+IGNvbXBvbmVudC5kYXRhU3RydWN0dXJlLnR5cGUgPT09IGN1cnJlbnRUeXBlRnVuYyhmaWVsZCkKICAgICAgICAgICAgKS5kYXRhU3RydWN0dXJlLmFic3RyYWN0VHlwZSw=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -270,13 +275,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
