@@ -91,12 +91,19 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README.md" timestamp="1590066298210" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1590066334935" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1590114745233" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/data-set/utils.js" timestamp="1590062208382" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590114542210" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/Field.tsx" timestamp="1590111296130" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/lov/demo/dataset.md" timestamp="1590063376018">
         <mark key="[" line="47" column="24" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590114783608">
+        <mark key="[" line="140" column="11" />
+        <mark key="]" line="140" column="11" />
+        <mark key="." line="140" column="11" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveDataJS.js" timestamp="1590058384652">
         <mark key="[" line="166" column="18" />
@@ -226,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KGN1cnJlbnRTdG9yZS50eXBlID09PSAnQnV0dG9uJykgJiYgKHN0Y1N0b3JlLmNvbXBvbmVudC5nZXQoY3VycmVudFN0b3JlLmNvbXBvbmVudENvZGUpICE9PSAnVGFibGUnKSAmJiA=</text>
       </register>
       <register name="-" type="4">
-        <text>${API_HOST}/hmde/v1/${organizationId}/model-objects/${getAppId()}/page</text>
+        <text encoding="base64">KGN1cnJlbnRTdG9yZS50eXBlID09PSAnQnV0dG9uJykgJiYgKHN0Y1N0b3JlLmNvbXBvbmVudC5nZXQoY3VycmVudFN0b3JlLmNvbXBvbmVudENvZGUpICE9PSAnVGFibGUnKSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
