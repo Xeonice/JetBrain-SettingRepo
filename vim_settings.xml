@@ -89,7 +89,6 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/DataSet.tsx" timestamp="1590111336447" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README.md" timestamp="1590066298210" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1590066334935" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1590114745233" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590114542210" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/Field.tsx" timestamp="1590111296130" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/SEO/index.js" timestamp="1590126324000">
@@ -99,6 +98,9 @@
         <mark key="[" line="28" column="30" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1590131811953">
+        <mark key="[" line="152" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590115078959">
         <mark key="[" line="140" column="11" />
@@ -122,7 +124,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/stores/LovCodeStore.tsx" timestamp="1590065819823" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590127963207">
         <mark key="[" line="9" column="51" />
       </file>
