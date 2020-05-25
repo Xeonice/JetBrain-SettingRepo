@@ -85,30 +85,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/theme.js" timestamp="1590389051629">
+        <mark key="[" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/mdx/index.js" timestamp="1590374794905" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/mdx/mdx-ast-to-mdx-hast.js" timestamp="1590374313999">
-        <mark key="[" line="8" column="22" />
-      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/InlineCode.js" timestamp="1590389054773" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/mdx/package.json" timestamp="1590374835402" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590382780346">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1590389014454">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1590382940204">
-        <mark key="[" line="1" column="26" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/index.js" timestamp="1590387073345">
+        <mark key="[" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590389833514">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1590386495547">
+        <mark key="[" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/ExploreProject/mdx/next-mdx/pages/_app.js" timestamp="1590374699976">
         <mark key="[" line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/react/dist/cjs.js" timestamp="1590374306295" />
-      <file name="$USER_HOME$/ExploreProject/mdx/next-mdx/pages/index.md" timestamp="1590372571707">
-        <mark key="[" line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/MdxTest.mdx" timestamp="1590382618364">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/MdxTest.mdx" timestamp="1590389767905">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/mdx/readme.md" timestamp="1590374525792" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/FieldSelector/FieldSelector.jsx" timestamp="1590375292611">
@@ -122,20 +127,21 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/@mdx-js/react/dist/esm.js" timestamp="1590373978975">
-        <mark key="[" line="2" column="43" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/Heading1.js" timestamp="1590386995388">
+        <mark key="[" line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590385635073">
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590389837342">
+        <mark key="[" line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590386310424">
         <mark key="[" line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mdx/examples/syntax-highlighting/package.json" timestamp="1590372440195" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/gatsby-remark-prismjs/README.md" timestamp="1590382374045" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/global.js" timestamp="1590382758921">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/Lowcode 随想.mdx" timestamp="1590372737325" />
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -242,11 +248,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8qKgogKiBBZGQgYmFjayB0aGUgY29udGFpbmVyIGJhY2tncm91bmQtY29sb3IsIGJvcmRlci1yYWRpdXMsIHBhZGRpbmcsIG1hcmdpbgogKiBhbmQgb3ZlcmZsb3cgdGhhdCB3ZSByZW1vdmVkIGZyb20gPHByZT4uCiAqLwouZ2F0c2J5LWhpZ2hsaWdodCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZkZjZlMzsKICBib3JkZXItcmFkaXVzOiAwLjNlbTsKICBtYXJnaW46IDAuNWVtIDA7CiAgcGFkZGluZzogMWVtOwogIG92ZXJmbG93OiBhdXRvOwp9CgovKioKICogUmVtb3ZlIHRoZSBkZWZhdWx0IFByaXNtSlMgdGhlbWUgYmFja2dyb3VuZC1jb2xvciwgYm9yZGVyLXJhZGl1cywgbWFyZ2luLAogKiBwYWRkaW5nIGFuZCBvdmVyZmxvdy4KICogMS4gTWFrZSB0aGUgZWxlbWVudCBqdXN0IHdpZGUgZW5vdWdoIHRvIGZpdCBpdHMgY29udGVudC4KICogMi4gQWx3YXlzIGZpbGwgdGhlIHZpc2libGUgc3BhY2UgaW4gLmdhdHNieS1oaWdobGlnaHQuCiAqIDMuIEFkanVzdCB0aGUgcG9zaXRpb24gb2YgdGhlIGxpbmUgbnVtYmVycwogKi8KLmdhdHNieS1oaWdobGlnaHQgcHJlW2NsYXNzKj0ibGFuZ3VhZ2UtIl0gewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIG92ZXJmbG93OiBpbml0aWFsOwogIGZsb2F0OiBsZWZ0OyAvKiAxICovCiAgbWluLXdpZHRoOiAxMDAlOyAvKiAyICovCn0K</text>
+      <register name="&quot;" type="4">
+        <text>F7F7F7</text>
       </register>
       <register name="-" type="4">
-        <text>h2</text>
+        <text>F7F7F7</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
