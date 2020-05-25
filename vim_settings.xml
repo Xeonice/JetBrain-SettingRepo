@@ -85,27 +85,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/ModelSelector.jsx" timestamp="1590132539574" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/活跃冲刺 - 看板性能优化随笔.mdx" timestamp="1590138757869">
         <mark key="[" line="130" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/mdx/examples/syntax-highlighting/src/pages/index.mdx" timestamp="1590139765260" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1590132888817">
-        <mark key="[" line="40" column="16" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1590370406678">
         <mark key="[" line="134" column="13" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/Paragraph.js" timestamp="1590136182515">
-        <mark key="[" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/RenderTable.jsx" timestamp="1590132768928">
-        <mark key="[" line="669" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/EventRules/OptionSetting/OptionSetting.jsx" timestamp="1590134116666">
-        <mark key="[" line="146" column="58" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/index.js" timestamp="1590138326110">
         <mark key="[" line="15" column="11" />
@@ -113,15 +100,20 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590137187422">
         <mark key="[" line="141" column="6" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590140945390">
-        <mark key="[" line="17" column="12" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590372937202" />
+      <file name="$USER_HOME$/ExploreProject/mdx/next-mdx/pages/_app.js" timestamp="1590373016784">
+        <mark key="[" line="4" column="58" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/html.js" timestamp="1590136559968">
         <mark key="[" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1590132558025">
-        <mark key="[" line="72" column="17" />
+      <file name="$USER_HOME$/ExploreProject/mdx/next-mdx/pages/index.md" timestamp="1590372571707">
+        <mark key="[" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/MdxTest.mdx" timestamp="1590372738896">
+        <mark key="[" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/FieldSelector/FieldSelector.jsx" timestamp="1590371606549" />
       <file name="/Dummy.txt" timestamp="1590139230780">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,10 +133,16 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/Heading1.js" timestamp="1590136125422">
-        <mark key="[" line="7" column="52" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590373035266">
+        <mark key="[" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590138193544" />
+      <file name="$USER_HOME$/ExploreProject/mdx/examples/syntax-highlighting/package.json" timestamp="1590372440195" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/global.js" timestamp="1590372980201">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/Lowcode 随想.mdx" timestamp="1590372737325" />
     </filemarks>
     <jumps>
       <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
@@ -251,8 +249,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>inlineCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>inlineCode</text>
@@ -267,16 +265,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByZSwKY29kZSwKa2JkLApzYW1wIHsKICBmb250LWZhbWlseTogbW9ub3NwYWNlLCBtb25vc3BhY2U7CiAgZm9udC1zaXplOiAxZW07Cn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWJzdHJhY3RUeXBlOiBCYXNlQ29tcG9uZW50LmV4cG9ydEFyci5maW5kKAogICAgICAgICAgICAgIChjb21wb25lbnQpID0+IGNvbXBvbmVudC5kYXRhU3RydWN0dXJlLnR5cGUgPT09IGN1cnJlbnRUeXBlRnVuYyhmaWVsZCkKICAgICAgICAgICAgKS5kYXRhU3RydWN0dXJlLmFic3RyYWN0VHlwZSw=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJzdHJhY3RUeXBlOiBCYXNlQ29tcG9uZW50LmV4cG9ydEFyci5maW5kKAogICAgICAgICAgICAgIChjb21wb25lbnQpID0+IGNvbXBvbmVudC5kYXRhU3RydWN0dXJlLnR5cGUgPT09IGN1cnJlbnRUeXBlRnVuYyhmaWVsZCkKICAgICAgICAgICAgKS5kYXRhU3RydWN0dXJlLmFic3RyYWN0VHlwZSw=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -288,7 +286,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
