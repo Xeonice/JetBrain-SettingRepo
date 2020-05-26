@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
         <mark key="[" line="130" column="13" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590474346665">
-        <mark key="[" line="91" column="13" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590475491923">
+        <mark key="[" line="83" column="26" />
         <mark key="]" line="102" column="19" />
         <mark key="." line="102" column="19" />
       </file>
@@ -114,18 +114,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/templates/Blog/mdx.js" timestamp="1590381339300">
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/Heading1.js" timestamp="1590386995388">
         <mark key="[" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590389837342">
         <mark key="[" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590470629524">
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590475621295">
         <mark key="[" line="94" column="35" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -140,6 +135,7 @@
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/index.js" timestamp="1590475616852" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/index.js" timestamp="1590387073345">
         <mark key="[" line="16" column="12" />
       </file>
