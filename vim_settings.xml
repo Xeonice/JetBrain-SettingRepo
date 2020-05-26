@@ -93,8 +93,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590470747561">
-        <mark key="[" line="56" column="15" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
+        <mark key="[" line="130" column="13" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590471587547">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="14" />
+        <mark key="." line="72" column="14" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1590386495547">
         <mark key="[" line="8" column="30" />
@@ -139,9 +144,6 @@
         <mark key="[" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1590456765923" />
-      <file name="/Dummy.txt" timestamp="1590377253214">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/培养体系？工具提效？谁能创造更多价值？.mdx" timestamp="1590460562595">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="8" />
@@ -259,11 +261,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>663399</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>663399</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -272,21 +274,24 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWludERyaXAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qKgogKiBBZGQgYmFjayB0aGUgY29udGFpbmVyIGJhY2tncm91bmQtY29sb3IsIGJvcmRlci1yYWRpdXMsIHBhZGRpbmcsIG1hcmdpbgogKiBhbmQgb3ZlcmZsb3cgdGhhdCB3ZSByZW1vdmVkIGZyb20gPHByZT4uCiAqLwouZ2F0c2J5LWhpZ2hsaWdodCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZkZjZlMzsKICBib3JkZXItcmFkaXVzOiAwLjNlbTsKICBtYXJnaW46IDAuNWVtIDA7CiAgcGFkZGluZzogMWVtOwogIG92ZXJmbG93OiBhdXRvOwp9CgovKioKICogUmVtb3ZlIHRoZSBkZWZhdWx0IFByaXNtSlMgdGhlbWUgYmFja2dyb3VuZC1jb2xvciwgYm9yZGVyLXJhZGl1cywgbWFyZ2luLAogKiBwYWRkaW5nIGFuZCBvdmVyZmxvdy4KICogMS4gTWFrZSB0aGUgZWxlbWVudCBqdXN0IHdpZGUgZW5vdWdoIHRvIGZpdCBpdHMgY29udGVudC4KICogMi4gQWx3YXlzIGZpbGwgdGhlIHZpc2libGUgc3BhY2UgaW4gLmdhdHNieS1oaWdobGlnaHQuCiAqIDMuIEFkanVzdCB0aGUgcG9zaXRpb24gb2YgdGhlIGxpbmUgbnVtYmVycwogKi8KLmdhdHNieS1oaWdobGlnaHQgcHJlW2NsYXNzKj0ibGFuZ3VhZ2UtIl0gewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIG92ZXJmbG93OiBpbml0aWFsOwogIGZsb2F0OiBsZWZ0OyAvKiAxICovCiAgbWluLXdpZHRoOiAxMDAlOyAvKiAyICovCn0K</text>
+        <text />
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ci8qKgogKiBBZGQgYmFjayB0aGUgY29udGFpbmVyIGJhY2tncm91bmQtY29sb3IsIGJvcmRlci1yYWRpdXMsIHBhZGRpbmcsIG1hcmdpbgogKiBhbmQgb3ZlcmZsb3cgdGhhdCB3ZSByZW1vdmVkIGZyb20gPHByZT4uCiAqLwouZ2F0c2J5LWhpZ2hsaWdodCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZkZjZlMzsKICBib3JkZXItcmFkaXVzOiAwLjNlbTsKICBtYXJnaW46IDAuNWVtIDA7CiAgcGFkZGluZzogMWVtOwogIG92ZXJmbG93OiBhdXRvOwp9CgovKioKICogUmVtb3ZlIHRoZSBkZWZhdWx0IFByaXNtSlMgdGhlbWUgYmFja2dyb3VuZC1jb2xvciwgYm9yZGVyLXJhZGl1cywgbWFyZ2luLAogKiBwYWRkaW5nIGFuZCBvdmVyZmxvdy4KICogMS4gTWFrZSB0aGUgZWxlbWVudCBqdXN0IHdpZGUgZW5vdWdoIHRvIGZpdCBpdHMgY29udGVudC4KICogMi4gQWx3YXlzIGZpbGwgdGhlIHZpc2libGUgc3BhY2UgaW4gLmdhdHNieS1oaWdobGlnaHQuCiAqIDMuIEFkanVzdCB0aGUgcG9zaXRpb24gb2YgdGhlIGxpbmUgbnVtYmVycwogKi8KLmdhdHNieS1oaWdobGlnaHQgcHJlW2NsYXNzKj0ibGFuZ3VhZ2UtIl0gewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIG92ZXJmbG93OiBpbml0aWFsOwogIGZsb2F0OiBsZWZ0OyAvKiAxICovCiAgbWluLXdpZHRoOiAxMDAlOyAvKiAyICovCn0K</text>
+      </register>
+      <register name="7" type="2">
         <text>plugins: [
   {
     resolve: `gatsby-transformer-remark`,
@@ -298,14 +303,11 @@
   }
 ]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoMTogcHJvcHMgPT4gPGgxIHN0eWxlPXt7Y29sb3I6ICd0b21hdG8nfX0gey4uLnByb3BzfSAvPiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMTogcHJvcHMgPT4gPGgxIHN0eWxlPXt7Y29sb3I6ICd0b21hdG8nfX0gey4uLnByb3BzfSAvPiwK</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
