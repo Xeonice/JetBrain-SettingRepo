@@ -88,23 +88,13 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/theme.js" timestamp="1590389051629">
         <mark key="[" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/InlineCode.js" timestamp="1590389054773" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590460017301" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1590389014454">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="45" column="18" />
-        <mark key="." line="45" column="18" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/index.js" timestamp="1590387073345">
-        <mark key="[" line="16" column="12" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590389833514">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590470019882">
-        <mark key="[" line="1" column="68" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590470747561">
+        <mark key="[" line="56" column="15" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-config.js" timestamp="1590386495547">
         <mark key="[" line="8" column="30" />
@@ -114,14 +104,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1590456765923" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/MdxTest.mdx" timestamp="1590389767905">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590377253214">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/templates/Blog/mdx.js" timestamp="1590381339300">
         <mark key="[" line="66" column="18" />
@@ -134,13 +120,32 @@
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590389837342">
         <mark key="[" line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590470629524">
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590386310424">
+        <mark key="[" line="3" column="68" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/InlineCode.js" timestamp="1590389054773" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590460017301" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/index.js" timestamp="1590389014454">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/index.js" timestamp="1590387073345">
+        <mark key="[" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1590456765923" />
+      <file name="/Dummy.txt" timestamp="1590377253214">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/培养体系？工具提效？谁能创造更多价值？.mdx" timestamp="1590460562595">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/package.json" timestamp="1590386310424">
-        <mark key="[" line="3" column="68" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/node_modules/gatsby-remark-prismjs/README.md" timestamp="1590382374045" />
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Layout/global.js" timestamp="1590382758921">
@@ -254,8 +259,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -270,15 +275,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8qKgogKiBBZGQgYmFjayB0aGUgY29udGFpbmVyIGJhY2tncm91bmQtY29sb3IsIGJvcmRlci1yYWRpdXMsIHBhZGRpbmcsIG1hcmdpbgogKiBhbmQgb3ZlcmZsb3cgdGhhdCB3ZSByZW1vdmVkIGZyb20gPHByZT4uCiAqLwouZ2F0c2J5LWhpZ2hsaWdodCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZkZjZlMzsKICBib3JkZXItcmFkaXVzOiAwLjNlbTsKICBtYXJnaW46IDAuNWVtIDA7CiAgcGFkZGluZzogMWVtOwogIG92ZXJmbG93OiBhdXRvOwp9CgovKioKICogUmVtb3ZlIHRoZSBkZWZhdWx0IFByaXNtSlMgdGhlbWUgYmFja2dyb3VuZC1jb2xvciwgYm9yZGVyLXJhZGl1cywgbWFyZ2luLAogKiBwYWRkaW5nIGFuZCBvdmVyZmxvdy4KICogMS4gTWFrZSB0aGUgZWxlbWVudCBqdXN0IHdpZGUgZW5vdWdoIHRvIGZpdCBpdHMgY29udGVudC4KICogMi4gQWx3YXlzIGZpbGwgdGhlIHZpc2libGUgc3BhY2UgaW4gLmdhdHNieS1oaWdobGlnaHQuCiAqIDMuIEFkanVzdCB0aGUgcG9zaXRpb24gb2YgdGhlIGxpbmUgbnVtYmVycwogKi8KLmdhdHNieS1oaWdobGlnaHQgcHJlW2NsYXNzKj0ibGFuZ3VhZ2UtIl0gewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIG92ZXJmbG93OiBpbml0aWFsOwogIGZsb2F0OiBsZWZ0OyAvKiAxICovCiAgbWluLXdpZHRoOiAxMDAlOyAvKiAyICovCn0K</text>
+        <text />
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Ci8qKgogKiBBZGQgYmFjayB0aGUgY29udGFpbmVyIGJhY2tncm91bmQtY29sb3IsIGJvcmRlci1yYWRpdXMsIHBhZGRpbmcsIG1hcmdpbgogKiBhbmQgb3ZlcmZsb3cgdGhhdCB3ZSByZW1vdmVkIGZyb20gPHByZT4uCiAqLwouZ2F0c2J5LWhpZ2hsaWdodCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZkZjZlMzsKICBib3JkZXItcmFkaXVzOiAwLjNlbTsKICBtYXJnaW46IDAuNWVtIDA7CiAgcGFkZGluZzogMWVtOwogIG92ZXJmbG93OiBhdXRvOwp9CgovKioKICogUmVtb3ZlIHRoZSBkZWZhdWx0IFByaXNtSlMgdGhlbWUgYmFja2dyb3VuZC1jb2xvciwgYm9yZGVyLXJhZGl1cywgbWFyZ2luLAogKiBwYWRkaW5nIGFuZCBvdmVyZmxvdy4KICogMS4gTWFrZSB0aGUgZWxlbWVudCBqdXN0IHdpZGUgZW5vdWdoIHRvIGZpdCBpdHMgY29udGVudC4KICogMi4gQWx3YXlzIGZpbGwgdGhlIHZpc2libGUgc3BhY2UgaW4gLmdhdHNieS1oaWdobGlnaHQuCiAqIDMuIEFkanVzdCB0aGUgcG9zaXRpb24gb2YgdGhlIGxpbmUgbnVtYmVycwogKi8KLmdhdHNieS1oaWdobGlnaHQgcHJlW2NsYXNzKj0ibGFuZ3VhZ2UtIl0gewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIG92ZXJmbG93OiBpbml0aWFsOwogIGZsb2F0OiBsZWZ0OyAvKiAxICovCiAgbWluLXdpZHRoOiAxMDAlOyAvKiAyICovCn0K</text>
+      </register>
+      <register name="6" type="2">
         <text>plugins: [
   {
     resolve: `gatsby-transformer-remark`,
@@ -290,17 +298,14 @@
   }
 ]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoMTogcHJvcHMgPT4gPGgxIHN0eWxlPXt7Y29sb3I6ICd0b21hdG8nfX0gey4uLnByb3BzfSAvPiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMTogcHJvcHMgPT4gPGgxIHN0eWxlPXt7Y29sb3I6ICd0b21hdG8nfX0gey4uLnByb3BzfSAvPiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnByZSwKY29kZSwKa2JkLApzYW1wIHsKICBmb250LWZhbWlseTogbW9ub3NwYWNlLCBtb25vc3BhY2U7CiAgZm9udC1zaXplOiAxZW07Cn0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
