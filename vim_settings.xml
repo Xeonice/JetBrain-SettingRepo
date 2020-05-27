@@ -85,21 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/node_modules/gsap/types/timeline.d.ts" timestamp="1590546454820" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1590489030826" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
-        <mark key="[" line="140" column="11" />
-        <mark key="]" line="140" column="11" />
-        <mark key="." line="140" column="11" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/gatsby-browser.js" timestamp="1590389833514">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
-        <mark key="[" line="130" column="13" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590553787127">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="8" />
@@ -108,18 +93,35 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590481972875">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/README.md" timestamp="1590395339179">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Typography/Paragraph.js" timestamp="1590484243921">
+        <mark key="[" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590389837342">
-        <mark key="[" line="9" column="51" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
+        <mark key="[" line="140" column="11" />
+        <mark key="]" line="140" column="11" />
+        <mark key="." line="140" column="11" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/index.less" timestamp="1590561442749" />
+      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/培养体系？工具提效？谁能创造更多价值？.mdx" timestamp="1590460562595">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590475621295">
         <mark key="[" line="94" column="35" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
+        <mark key="[" line="132" column="12" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-select-old/EditorSelect.jsx" timestamp="1590562057773">
+        <mark key="[" line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590562110139">
+        <mark key="[" line="209" column="52" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590553298223">
         <mark key="'" line="40" column="10" />
@@ -128,26 +130,11 @@
         <mark key="^" line="191" column="36" />
         <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
-        <mark key="[" line="132" column="12" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
+        <mark key="[" line="130" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/index.js" timestamp="1590482501419" />
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/index.js" timestamp="1590475616852" />
-      <file name="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" timestamp="1590491275596" />
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Typography/Paragraph.js" timestamp="1590484243921">
-        <mark key="[" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1590456765923" />
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/node_modules/gsap/types/ease.d.ts" timestamp="1590553064093" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590482850628">
-        <mark key="[" line="100" column="29" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/培养体系？工具提效？谁能创造更多价值？.mdx" timestamp="1590460562595">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590562018542">
+        <mark key="[" line="135" column="20" />
       </file>
     </filemarks>
     <jumps>
