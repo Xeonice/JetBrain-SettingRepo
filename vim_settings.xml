@@ -100,10 +100,10 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
         <mark key="[" line="130" column="13" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590487781187">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="102" column="19" />
-        <mark key="." line="102" column="19" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590553531250">
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590481972875">
         <mark key="[" line="1" column="33" />
@@ -113,11 +113,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/MdxTest.mdx" timestamp="1590389767905">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Quote/Quote.js" timestamp="1590389837342">
         <mark key="[" line="9" column="51" />
       </file>
@@ -126,11 +121,12 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590549504710">
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590553298223">
         <mark key="'" line="40" column="10" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="187" column="36" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="185" column="47" />
+        <mark key="]" line="45" column="24" />
+        <mark key="^" line="191" column="36" />
+        <mark key="." line="45" column="24" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
         <mark key="[" line="132" column="12" />
@@ -144,6 +140,7 @@
         <mark key="[" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/React diff 算法.mdx" timestamp="1590456765923" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/node_modules/gsap/types/ease.d.ts" timestamp="1590553064093" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590482850628">
         <mark key="[" line="100" column="29" />
       </file>
@@ -258,11 +255,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cover</text>
       </register>
       <register name="-" type="4">
-        <text>duration</text>
+        <text>cover</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
