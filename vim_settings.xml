@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getEn</entry>
-        <entry>ap</entry>
-        <entry>`</entry>
-        <entry>r</entry>
-        <entry>R</entry>
         <entry>'</entry>
         <entry>a</entry>
         <entry>allow</entry>
@@ -27,6 +22,11 @@
         <entry>.</entry>
         <entry>\.</entry>
         <entry>v</entry>
+        <entry>this.cover2</entry>
+        <entry>,</entry>
+        <entry>]</entry>
+        <entry>this.cover3</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
@@ -85,6 +85,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/node_modules/gsap/types/timeline.d.ts" timestamp="1590546454820" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1590489030826" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
         <mark key="[" line="140" column="11" />
@@ -125,10 +126,12 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590493539041">
-        <mark key="[" line="25" column="24" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590549504710">
+        <mark key="'" line="40" column="10" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="187" column="36" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/components/Typography/InlineCode.js" timestamp="1590389054773" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
         <mark key="[" line="132" column="12" />
         <mark key="]" line="131" column="0" />
@@ -151,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="84" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
-      <jump line="17" column="23" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/index.js" />
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
       <jump line="9" column="15" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/index.js" />
       <jump line="8" column="14" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/CategoryContent/CategoryContent.jsx" />
@@ -251,48 +252,51 @@
       <jump line="55" column="24" filename="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-lov/EditorLov.jsx" />
       <jump line="170" column="99" filename="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" />
       <jump line="86" column="6" filename="$USER_HOME$/ExploreProject/DataSet-Tutorilal/src/DataSetToturial/App.tsx" />
+      <jump line="31" column="10" filename="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" />
+      <jump line="32" column="10" filename="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8gICB4OiAnMCUnLAogICAgICAvLyAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgLy8gICBkdXJhdGlvbjogaGFsZiwKICAgICAgLy8gfSkKICAgICAgLy8gLnRvKFt0aGlzLmNvdmVyMSwgdGhpcy5jb3ZlcjIsIHRoaXMuY292ZXIzXSwgewogICAgICAvLyAgIHg6ICcwJScsCiAgICAgIC8vICAgZWFzZTogInBvd2VyMS5lYXNlSW5PdXQiLAogICAgICAvLyAgIGR1cmF0aW9uOiBoYWxmLAogICAgICAvLyB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgLnRvKCk=</text>
+        <text>duration</text>
       </register>
       <register name="/" type="4">
-        <text>v</text>
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLy8gICB4OiAnMCUnLAogICAgICAvLyAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgLy8gICBkdXJhdGlvbjogaGFsZiwKICAgICAgLy8gfSkKICAgICAgLy8gLnRvKFt0aGlzLmNvdmVyMSwgdGhpcy5jb3ZlcjIsIHRoaXMuY292ZXIzXSwgewogICAgICAvLyAgIHg6ICcwJScsCiAgICAgIC8vICAgZWFzZTogInBvd2VyMS5lYXNlSW5PdXQiLAogICAgICAvLyAgIGR1cmF0aW9uOiBoYWxmLAogICAgICAvLyB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRvKHRoaXMuY292ZXIsIHsKICAgICAgICB4OiAnMCUnLAogICAgICAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgICBkdXJhdGlvbjogMC41LAogICAgICB9KQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">W3RoaXMuY292ZXIsIHRoaXMuY292ZXIxLCB0aGlzLmNvdmVyMiwg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBpZiAoCiAgICAgIHByb3BzUGFuZWwuY3VycmVudFN0Y0NvbXBvbmVudCAmJgogICAgICBzdGNTdG9yZS5jb21wb25lbnRTZXQuZ2V0KHByb3BzUGFuZWwuY3VycmVudFN0Y0NvbXBvbmVudCkgJiYKICAgICAgIXN0Y1N0b3JlLmNvbXBvbmVudFNldC5nZXQocHJvcHNQYW5lbC5jdXJyZW50U3RjQ29tcG9uZW50KS5kYXRhU291cmNlICYmCiAgICAgICFzdGNTdG9yZS5jb21wb25lbnRTZXQuZ2V0KHByb3BzUGFuZWwuY3VycmVudFN0Y0NvbXBvbmVudCkudHJhbnNmb3JtLmlzQmFzZUNvbXBvbmVudAogICAgKSB7CiAgICAgIHJldHVybiBbCiAgICAgICAgLy8g5qih5Z6L6aG1562+CiAgICAgICAgPFRhYlBhbmUKICAgICAgICAgIHRhYj17CiAgICAgICAgICAgIDxUYWJMYWJlbAogICAgICAgICAgICAgIHRpdGxlPSLmqKHlnosiCiAgICAgICAgICAgICAgYWN0aXZlSW1nPXtzdHlsZXMuYWN0aXZlTW9kZWxUYWJ9CiAgICAgICAgICAgICAgaW5BY3RpdmVJbWc9e3N0eWxlcy5tb2RlbFRhYn0KICAgICAgICAgICAgICBjb25kaXRpb249Im1vZGVsIgogICAgICAgICAgICAvPgogICAgICAgICAgfQogICAgICAgICAga2V5PSJtb2RlbCIKICAgICAgICA+CiAgICAgICAgICA8RWRpdG9yTW9kZWxTZWxlY3RvciAvPgogICAgICAgIDwvVGFiUGFuZT4sCiAgICAgIF07CiAgICB9</text>
+      <register name="4" type="4">
+        <text>, this.cover3</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">SW50ZWxsaUogSURFQVBocFN0b3JtV2ViU3Rvcm0K</text>
+      <register name="5" type="4">
+        <text>, this.cover3])
+      .to(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWludERyaXAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">W3RoaXMuY292ZXIsIHRoaXMuY292ZXIxLCA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgLy8gICB4OiAnMCUnLAogICAgICAvLyAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgLy8gICBkdXJhdGlvbjogaGFsZiwKICAgICAgLy8gfSkKICAgICAgLy8gLnRvKFt0aGlzLmNvdmVyMSwgdGhpcy5jb3ZlcjIsIHRoaXMuY292ZXIzXSwgewogICAgICAvLyAgIHg6ICcwJScsCiAgICAgIC8vICAgZWFzZTogInBvd2VyMS5lYXNlSW5PdXQiLAogICAgICAvLyAgIGR1cmF0aW9uOiBoYWxmLAogICAgICAvLyB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
@@ -301,9 +305,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>v</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern>v</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">PHNwYW4=</last-substitute>
       <last-dir>-1</last-dir>
