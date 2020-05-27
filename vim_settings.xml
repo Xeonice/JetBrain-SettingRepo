@@ -85,33 +85,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590553787127">
-        <mark key="[" line="61" column="24" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/index.js" timestamp="1590565891650">
+        <mark key="[" line="71" column="17" />
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590481972875">
-        <mark key="[" line="1" column="33" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/work.js" timestamp="1590567006956">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590565799577">
+        <mark key="[" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Typography/Paragraph.js" timestamp="1590484243921">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
-        <mark key="[" line="140" column="11" />
-        <mark key="]" line="140" column="11" />
-        <mark key="." line="140" column="11" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/styles.css" timestamp="1590566637202">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/index.less" timestamp="1590561442749" />
-      <file name="$USER_HOME$/ExploreProject/rathes.me/src/content/articles/培养体系？工具提效？谁能创造更多价值？.mdx" timestamp="1590460562595">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590475621295">
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
         <mark key="[" line="132" column="12" />
         <mark key="]" line="131" column="0" />
@@ -119,6 +114,22 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-select-old/EditorSelect.jsx" timestamp="1590562057773">
         <mark key="[" line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/Test.js" timestamp="1590566728118">
+        <mark key="[" line="17" column="66" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590562018542">
+        <mark key="[" line="135" column="20" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
+        <mark key="[" line="140" column="11" />
+        <mark key="]" line="140" column="11" />
+        <mark key="." line="140" column="11" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590475621295">
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590562110139">
         <mark key="[" line="209" column="52" />
@@ -129,12 +140,6 @@
         <mark key="]" line="45" column="24" />
         <mark key="^" line="191" column="36" />
         <mark key="." line="45" column="24" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeLogo/AnimeLogo.jsx" timestamp="1590471781872">
-        <mark key="[" line="130" column="13" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590562018542">
-        <mark key="[" line="135" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -242,8 +247,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>cover</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cover</text>
@@ -258,23 +263,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRvKHRoaXMuY292ZXIsIHsKICAgICAgICB4OiAnMCUnLAogICAgICAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgICBkdXJhdGlvbjogMC41LAogICAgICB9KQ==</text>
+        <text encoding="base64">ICBjb25zdCBbdG9nZ2xlLCBzZXRdID0gdXNlU3RhdGUodHJ1ZSkKICBjb25zdCB0cmFpbCA9IHVzZVRyYWlsKGl0ZW1zLmxlbmd0aCwgewogICAgY29uZmlnLAogICAgb3BhY2l0eTogdG9nZ2xlID8gMSA6IDAsCiAgICB4OiB0b2dnbGUgPyAwIDogMjAsCiAgICBoZWlnaHQ6IHRvZ2dsZSA/IDgwIDogMCwKICAgIGZyb206IHsgb3BhY2l0eTogMCwgeDogMjAsIGhlaWdodDogMCB9LAogIH0pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">W3RoaXMuY292ZXIsIHRoaXMuY292ZXIxLCB0aGlzLmNvdmVyMiwg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>, this.cover3</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgojcm9vdCB7CiAgICB3aWR0aDogMTAwJTsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>, this.cover3])
-      .to(</text>
+      <register name="5" type="2">
+        <text>html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto,
+    segoe ui, arial, sans-serif;
+    background: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+    background-color: #f0f0f0;
+}</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">W3RoaXMuY292ZXIsIHRoaXMuY292ZXIxLCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgLy8gICB4OiAnMCUnLAogICAgICAvLyAgIGVhc2U6ICJwb3dlcjEuZWFzZUluT3V0IiwKICAgICAgLy8gICBkdXJhdGlvbjogaGFsZiwKICAgICAgLy8gfSkKICAgICAgLy8gLnRvKFt0aGlzLmNvdmVyMSwgdGhpcy5jb3ZlcjIsIHRoaXMuY292ZXIzXSwgewogICAgICAvLyAgIHg6ICcwJScsCiAgICAgIC8vICAgZWFzZTogInBvd2VyMS5lYXNlSW5PdXQiLAogICAgICAvLyAgIGR1cmF0aW9uOiBoYWxmLAogICAgICAvLyB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxCb3gKICAgICAgICAgICAgY2xhc3NOYW1lPSJib3giCiAgICAgICAgICAgIHBvc2U9ewogICAgICAgICAgICAgIG1vdW50CiAgICAgICAgICAgICAgICA/ICd2aXNpYmxlJwogICAgICAgICAgICAgICAgOiAnaGlkZGVuJwogICAgICAgICAgICB9CiAgICAgICAgICAvPg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
