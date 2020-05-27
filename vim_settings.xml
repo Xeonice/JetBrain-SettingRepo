@@ -90,16 +90,26 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/work.js" timestamp="1590567006956">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/work.js" timestamp="1590568513105">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/about.js" timestamp="1590568545985">
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590565799577">
         <mark key="[" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Typography/Paragraph.js" timestamp="1590484243921">
-        <mark key="[" line="6" column="18" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeContainer/AnimatedContainer.js" timestamp="1590567758105">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/writings.js" timestamp="1590568505274">
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/styles.css" timestamp="1590566637202">
         <mark key="[" line="0" column="0" />
@@ -107,10 +117,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/index.less" timestamp="1590561442749" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590489937916">
-        <mark key="[" line="132" column="12" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/TestComponent.js" timestamp="1590567571640">
+        <mark key="[" line="3" column="70" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-select-old/EditorSelect.jsx" timestamp="1590562057773">
         <mark key="[" line="18" column="30" />
@@ -121,18 +129,17 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590562018542">
         <mark key="[" line="135" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1590482903560">
-        <mark key="[" line="140" column="11" />
-        <mark key="]" line="140" column="11" />
-        <mark key="." line="140" column="11" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/gatsby-config.js" timestamp="1590475621295">
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/index.js" timestamp="1590568531675">
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590562110139">
         <mark key="[" line="209" column="52" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/AnimatedContainer.js" timestamp="1590567712441" />
+      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeContainer/index.js" timestamp="1590567728710">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590553298223">
         <mark key="'" line="40" column="10" />
@@ -263,45 +270,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBbdG9nZ2xlLCBzZXRdID0gdXNlU3RhdGUodHJ1ZSkKICBjb25zdCB0cmFpbCA9IHVzZVRyYWlsKGl0ZW1zLmxlbmd0aCwgewogICAgY29uZmlnLAogICAgb3BhY2l0eTogdG9nZ2xlID8gMSA6IDAsCiAgICB4OiB0b2dnbGUgPyAwIDogMjAsCiAgICBoZWlnaHQ6IHRvZ2dsZSA/IDgwIDogMCwKICAgIGZyb206IHsgb3BhY2l0eTogMCwgeDogMjAsIGhlaWdodDogMCB9LAogIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgojcm9vdCB7CiAgICB3aWR0aDogMTAwJTsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>html,
-body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto,
-    segoe ui, arial, sans-serif;
-    background: transparent;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    cursor: default;
-    background-color: #f0f0f0;
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCb3gKICAgICAgICAgICAgY2xhc3NOYW1lPSJib3giCiAgICAgICAgICAgIHBvc2U9ewogICAgICAgICAgICAgIG1vdW50CiAgICAgICAgICAgICAgICA/ICd2aXNpYmxlJwogICAgICAgICAgICAgICAgOiAnaGlkZGVuJwogICAgICAgICAgICB9CiAgICAgICAgICAvPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbdG9nZ2xlLCBzZXRdID0gdXNlU3RhdGUodHJ1ZSkKICBjb25zdCB0cmFpbCA9IHVzZVRyYWlsKGl0ZW1zLmxlbmd0aCwgewogICAgY29uZmlnLAogICAgb3BhY2l0eTogdG9nZ2xlID8gMSA6IDAsCiAgICB4OiB0b2dnbGUgPyAwIDogMjAsCiAgICBoZWlnaHQ6IHRvZ2dsZSA/IDgwIDogMCwKICAgIGZyb206IHsgb3BhY2l0eTogMCwgeDogMjAsIGhlaWdodDogMCB9LAogIH0pCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
