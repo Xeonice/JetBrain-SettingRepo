@@ -96,7 +96,7 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/observable.ts" timestamp="1590635284005" />
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/atom.ts" timestamp="1590647760398" />
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/faq-page.tsx" timestamp="1590655613881" />
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/faq-page.tsx" timestamp="1590663717176" />
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/action.md" timestamp="1590655418018">
         <mark key="[" line="3" column="11" />
       </file>
@@ -111,15 +111,16 @@
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about.md" timestamp="1590655289662">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/toc.json" timestamp="1590655874552">
-        <mark key="[" line="58" column="7" />
-      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/toc.json" timestamp="1590663279069" />
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/test.tsx" timestamp="1590655740574">
         <mark key="[" line="7" column="66" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/reaction.ts" timestamp="1590648479571" />
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/release-notes/2018-06-05-version-2.5.md" timestamp="1590663165059">
+        <mark key="[" line="5" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590654157814">
         <mark key="[" line="0" column="0" />
       </file>
