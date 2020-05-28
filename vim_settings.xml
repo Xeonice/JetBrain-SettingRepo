@@ -142,13 +142,7 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeContainer/index.js" timestamp="1590567728710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/Navigation/TransformLink.js" timestamp="1590553298223">
-        <mark key="'" line="40" column="10" />
-        <mark key="[" line="185" column="47" />
-        <mark key="]" line="45" column="24" />
-        <mark key="^" line="191" column="36" />
-        <mark key="." line="45" column="24" />
-      </file>
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/computedvalue.ts" timestamp="1590578122145" />
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
