@@ -100,9 +100,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1590565799577">
-        <mark key="[" line="56" column="32" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeContainer/AnimatedContainer.js" timestamp="1590567758105">
         <mark key="[" line="5" column="24" />
       </file>
@@ -116,7 +113,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/derivation.ts" timestamp="1590636588684">
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/derivation.ts" timestamp="1590649186747">
         <mark key="[" line="190" column="55" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/TestComponent.js" timestamp="1590567571640">
@@ -125,22 +122,25 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/Test.js" timestamp="1590566728118">
         <mark key="[" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/reaction.ts" timestamp="1590577775727" />
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/reaction.ts" timestamp="1590648479571" />
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/observable.ts" timestamp="1590635284005" />
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/atom.ts" timestamp="1590635295882" />
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/utils/utils.ts" timestamp="1590647210304" />
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/atom.ts" timestamp="1590647760398" />
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/index.js" timestamp="1590568531675">
         <mark key="[" line="55" column="5" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590562110139">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590648842285">
         <mark key="[" line="209" column="52" />
       </file>
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/AnimatedContainer.js" timestamp="1590567712441" />
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/AnimeContainer/index.js" timestamp="1590567728710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/computedvalue.ts" timestamp="1590578122145" />
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/computedvalue.ts" timestamp="1590647687351">
+        <mark key="[" line="146" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
