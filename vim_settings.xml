@@ -85,11 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/about.js" timestamp="1590568545985">
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about2.md" timestamp="1590655260126">
         <mark key="[" line="5" column="30" />
       </file>
@@ -105,7 +100,7 @@
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/action.md" timestamp="1590655418018">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/test.md" timestamp="1590655428845">
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/test.md" timestamp="1590655869681">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
@@ -120,6 +115,9 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about.md" timestamp="1590655289662">
         <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/toc.json" timestamp="1590655874552">
+        <mark key="[" line="58" column="7" />
       </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/test.tsx" timestamp="1590655740574">
         <mark key="[" line="7" column="66" />
