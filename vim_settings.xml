@@ -85,9 +85,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/observable.ts" timestamp="1590731763320" />
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/release-notes/2018-06-05-version-2.5.md" timestamp="1590663165059">
+        <mark key="[" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about.md" timestamp="1590655289662">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/extendobservable.ts" timestamp="1590737258360">
+        <mark key="[" line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/derivation.ts" timestamp="1590717217109">
         <mark key="[" line="190" column="55" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/observableset.ts" timestamp="1590723033228">
+        <mark key="[" line="147" column="68" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/test.tsx" timestamp="1590655740574">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/action.md" timestamp="1590655418018">
+        <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/test.md" timestamp="1590655869681">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/introduction-to-project.md" timestamp="1590655317576">
         <mark key="[" line="4" column="11" />
@@ -97,37 +121,9 @@
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/become-observed.ts" timestamp="1590732723392" />
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/observable.ts" timestamp="1590730982631" />
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/faq-page.tsx" timestamp="1590663717176" />
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/action.md" timestamp="1590655418018">
-        <mark key="[" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/test.md" timestamp="1590655869681">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/menu.json" timestamp="1590655626810">
         <mark key="[" line="41" column="3" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about.md" timestamp="1590655289662">
-        <mark key="[" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/toc.json" timestamp="1590663279069" />
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/observableset.ts" timestamp="1590723033228">
-        <mark key="[" line="147" column="68" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/test.tsx" timestamp="1590655740574">
-        <mark key="[" line="7" column="66" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/release-notes/2018-06-05-version-2.5.md" timestamp="1590663165059">
-        <mark key="[" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/modifiers.ts" timestamp="1590729827572" />
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/page.tsx" timestamp="1590655606207" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590718897311">
         <mark key="[" line="209" column="52" />
       </file>
