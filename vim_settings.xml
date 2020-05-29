@@ -85,9 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/overview/about2.md" timestamp="1590655260126">
-        <mark key="[" line="5" column="30" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/observable.ts" timestamp="1590731763320" />
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/derivation.ts" timestamp="1590717217109">
         <mark key="[" line="190" column="55" />
@@ -100,6 +97,7 @@
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/become-observed.ts" timestamp="1590732723392" />
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/observable.ts" timestamp="1590730982631" />
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/src/templates/faq-page.tsx" timestamp="1590663717176" />
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/concepts/action.md" timestamp="1590655418018">
