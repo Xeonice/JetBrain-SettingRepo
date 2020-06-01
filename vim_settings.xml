@@ -88,8 +88,16 @@
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/release-notes/2018-06-05-version-2.5.md" timestamp="1590663165059">
         <mark key="[" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/autorun.ts" timestamp="1590743540492" />
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/internal.ts" timestamp="1590737753604" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponentRenderer.jsx" timestamp="1590979898934">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1590980613783">
+        <mark key="[" line="239" column="30" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/extendobservable.ts" timestamp="1590737771841">
         <mark key="[" line="62" column="30" />
       </file>
@@ -112,10 +120,18 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/Record.tsx" timestamp="1590975689423">
         <mark key="[" line="434" column="25" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1590980466318">
+        <mark key="[" line="75" column="69" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590718903428">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/package.json" timestamp="1590978729840" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/DataStructure.js" timestamp="1590980352893" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/FieldSelector/FieldSelector.jsx" timestamp="1590981069029">
+        <mark key="[" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/ExploreProject/kata-platform-docs/docs/menu.json" timestamp="1590655626810">
         <mark key="[" line="41" column="3" />
@@ -125,6 +141,9 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/computedvalue.ts" timestamp="1590716887622">
         <mark key="[" line="146" column="37" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590980388047">
+        <mark key="[" line="71" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -251,22 +270,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">ICAgIDwvRHJhZ0Ryb3BDb250ZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBoYXNoTWFwID0gewogIC8vICAgUGFnZUJ0bjogKAogIC8vICAgICA8UGFnZUxldmVsQnV0dG9uQ29tcG9uZW50CiAgLy8gICAgICAgY29kZT17c3RjQ29kZX0KICAvLyAgICAgICBsYXlvdXRDb2RlPXtjb2RlfQogIC8vICAgICAgIGlzRWRpdG9yPXtpc0VkaXRvcn0KICAvLyAgICAgICBvbkNsaWNrPXtzZXRDb21wb25lbnREZWZhdWx0U2lkZUJhcn0KICAvLyAgICAgICBzdGNTdG9yZT17c3RjU3RvcmV9CiAgLy8gICAgICAgYmFzZUNvbXBvbmVudFN0b3JlPXtiYXNlQ29tcG9uZW50U3RvcmV9CiAgLy8gICAgICAgdGV4dEFsaWduPXtjdXJyZW50U3RvcmUucHJvcHMudGV4dEFsaWdufQogIC8vICAgICAgIHN1c3BlbnNpb249e2N1cnJlbnRTdG9yZS5wcm9wcy5zdXNwZW5zaW9ufSAvLyDmgqzmta4KICAvLyAgICAgICB2ZXJ0aWNhbEFsaWduPXtsYXlvdXRTdG9yZUl0ZW1ZID09PSAwfQogIC8vICAgICAvPgogIC8vICAgKSwKICAvLyAgIEZvcm06ICgKICAvLyAgICAgPEZvcm1Db21wb25lbnQKICAvLyAgICAgICBjb2RlPXtzdGNDb2RlfQogIC8vICAgICAgIGxheW91dENvZGU9e2NvZGV9CiAgLy8gICAgICAgaXNFZGl0b3I9e2lzRWRpdG9yfQogIC8vICAgICAgIG9uQ2xpY2s9e3NldENvbXBvbmVudERlZmF1bHRTaWRlQmFyfQogIC8vICAgICAgIHByb3BzUGFuZWw9e3Byb3BzUGFuZWx9CiAgLy8gICAgICAgc3RjU3RvcmU9e3N0Y1N0b3JlfQogIC8vICAgICAgIGJhc2VDb21wb25lbnRTdG9yZT17YmFzZUNvbXBvbmVudFN0b3JlfQogIC8vICAgICAgIGZpZWxkU3RvcmU9e2ZpZWxkU3RvcmV9CiAgLy8gICAgICAgb25CdXR0b25DbGljaz17b25CdXR0b25DbGlja30KICAvLyAgICAgLz4KICAvLyAgICksCiAgLy8gICBUYWJsZTogKAogIC8vICAgICA8VGFibGVDb21wb25lbnQKICAvLyAgICAgICBjb2RlPXtzdGNDb2RlfQogIC8vICAgICAgIGxheW91dENvZGU9e2NvZGV9CiAgLy8gICAgICAgaXNFZGl0b3I9e2lzRWRpdG9yfQogIC8vICAgICAgIG9uQ2xpY2s9e3NldENvbXBvbmVudERlZmF1bHRTaWRlQmFyfQogIC8vICAgICAgIHByb3BzUGFuZWw9e3Byb3BzUGFuZWx9CiAgLy8gICAgICAgc3RjU3RvcmU9e3N0Y1N0b3JlfQogIC8vICAgICAgIGJhc2VDb21wb25lbnRTdG9yZT17YmFzZUNvbXBvbmVudFN0b3JlfQogIC8vICAgICAgIGZpZWxkU3RvcmU9e2ZpZWxkU3RvcmV9CiAgLy8gICAgICAgb25CdXR0b25DbGljaz17b25CdXR0b25DbGlja30KICAvLyAgICAgLz4KICAvLyAgICksCiAgLy8gfTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBbdG9jSXNPcGVuLCBzZXRUb2NJc09wZW5dID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IHsgbWFya2Rvd25SZW1hcmssIHNpdGUgfSA9IGRhdGE7CiAgY29uc3QgeyBzaXRlTWV0YWRhdGEgfSA9IHNpdGU7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxJbmRleExheW91dCBuYXZIaWRkZW4+CiAgICAgIDxQYWdlIGRvY3NQYWdlPgogICAgICAgIDxIZWxtZXQ+CiAgICAgICAgICA8dGl0bGU+CiAgICAgICAgICAgIHttYXJrZG93blJlbWFyay5mcm9udG1hdHRlci50aXRsZX0gJm1pZGRvdDsge3NpdGUuc2l0ZU1ldGFkYXRhLnRpdGxlfQogICAgICAgICAgPC90aXRsZT4KICAgICAgICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PXttYXJrZG93blJlbWFyay5leGNlcnB0fSAvPgogICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnRpdGxlIiBjb250ZW50PXttYXJrZG93blJlbWFyay5mcm9udG1hdHRlci50aXRsZX0gLz4KICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD17bWFya2Rvd25SZW1hcmsuZXhjZXJwdH0gLz4KICAgICAgICA8L0hlbG1ldD4KICAgICAgICA8RG9jc1dyYXBwZXIgaGFzVG9jPXshIW1hcmtkb3duUmVtYXJrLnRhYmxlT2ZDb250ZW50c30+CiAgICAgICAgICB7bWFya2Rvd25SZW1hcmsudGFibGVPZkNvbnRlbnRzICYmICgKICAgICAgICAgICAgPFRvY1dyYXBwZXIKICAgICAgICAgICAgICBpc09wZW49e3RvY0lzT3Blbn0KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRUb2NJc09wZW4oIXRvY0lzT3Blbil9CiAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sgX19odG1sOiBtYXJrZG93blJlbWFyay50YWJsZU9mQ29udGVudHMgfX0KICAgICAgICAgICAgLz4KICAgICAgICAgICl9CiAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICA8RG9jc0hlYWRlciB0aXRsZT17bWFya2Rvd25SZW1hcmsuZnJvbnRtYXR0ZXIudGl0bGV9IHN1YnRpdGxlPXttYXJrZG93blJlbWFyay5mcm9udG1hdHRlci5kZXNjcmlwdGlvbn0gLz4KICAgICAgICAgICAgPE1hcmtkb3duQ29udGVudD57cmVuZGVyQXN0KG1hcmtkb3duUmVtYXJrLmh0bWxBc3QpfTwvTWFya2Rvd25Db250ZW50PgogICAgICAgICAgICA8RG9jc0NvbnRyaWJ1dGlvbiAvPgogICAgICAgICAgICA8Rm9vdGVyV3JhcHBlcj4KICAgICAgICAgICAgICA8Rm9vdGVyCiAgICAgICAgICAgICAgICB2ZXJzaW9uPXtzaXRlTWV0YWRhdGEudmVyc2lvbn0KICAgICAgICAgICAgICAgIHNpdGVMYXN0VXBkYXRlZD17c2l0ZU1ldGFkYXRhLnNpdGVMYXN0VXBkYXRlZH0KICAgICAgICAgICAgICAgIHNvY2lhbHM9e3NpdGVNZXRhZGF0YS5zb2NpYWxzfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvRm9vdGVyV3JhcHBlcj4KICAgICAgICAgIDwvQ29udGFpbmVyPgogICAgICAgICAgPEJhY2tUb1RvcEJ1dHRvbiBocmVmPSIjIiAvPgogICAgICAgIDwvRG9jc1dyYXBwZXI+CiAgICAgIDwvUGFnZT4KICAgIDwvSW5kZXhMYXlvdXQ+</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHF1ZXJ5ID0gZ3JhcGhxbGAKICBxdWVyeSBGQVFQYWdlVGVtcGxhdGVRdWVyeSgkc2x1ZzogU3RyaW5nISkgewogICAgc2l0ZSB7CiAgICAgIHNpdGVNZXRhZGF0YSB7CiAgICAgICAgdGl0bGUKICAgICAgICBzaWRlYmFyVGl0bGUKICAgICAgICBzaWRlYmFyU3VidGV4dAogICAgICAgIHNpdGVMYXN0VXBkYXRlZAogICAgICAgIGRlc2NyaXB0aW9uCiAgICAgICAgdmVyc2lvbgogICAgICAgIHNpdGVVcmwKICAgICAgICBrZXl3b3JkcwogICAgICAgIGF1dGhvciB7CiAgICAgICAgICBuYW1lCiAgICAgICAgICB1cmwKICAgICAgICAgIGVtYWlsCiAgICAgICAgfQogICAgICAgIHNvY2lhbHMgewogICAgICAgICAgbmFtZQogICAgICAgICAgaW1ncGF0aAogICAgICAgICAgdXJsCiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICBtYXJrZG93blJlbWFyayhmaWVsZHM6IHsgc2x1ZzogeyBlcTogJHNsdWcgfSB9KSB7CiAgICAgIGh0bWxBc3QKICAgICAgdGFibGVPZkNvbnRlbnRzCiAgICAgIGV4Y2VycHQKICAgICAgZnJvbnRtYXR0ZXIgewogICAgICAgIGlkCiAgICAgICAgdGl0bGUKICAgICAgICBkZXNjcmlwdGlvbgogICAgICAgIHByZXYKICAgICAgICBuZXh0CiAgICAgIH0KICAgIH0KICB9CmA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
