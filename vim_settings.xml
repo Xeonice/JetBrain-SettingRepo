@@ -126,9 +126,8 @@
         <mark key="[" line="434" column="25" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1591079104817">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590718903428">
         <mark key="[" line="216" column="0" />
@@ -143,8 +142,8 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067930674">
         <mark key="[" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590718897311">
-        <mark key="[" line="209" column="52" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591083289100">
+        <mark key="[" line="207" column="8" />
       </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/computedvalue.ts" timestamp="1590716887622">
         <mark key="[" line="146" column="37" />
@@ -152,8 +151,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590980388047">
         <mark key="[" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591068764915">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591083954418">
+        <mark key="[" line="90" column="11" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -265,7 +266,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>ItemTypes.CARD</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -283,16 +284,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
