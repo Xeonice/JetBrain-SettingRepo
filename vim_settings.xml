@@ -126,10 +126,8 @@
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/package.json" timestamp="1590978729840" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/DataStructure.js" timestamp="1590980352893" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067267936">
-        <mark key="[" line="49" column="4" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067930674">
+        <mark key="[" line="56" column="4" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1590718897311">
         <mark key="[" line="209" column="52" />
