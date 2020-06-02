@@ -119,8 +119,10 @@
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/observableset.ts" timestamp="1590723033228">
         <mark key="[" line="147" column="68" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[692]前K个高频单词.js" timestamp="1591088036747">
-        <mark key="[" line="51" column="0" />
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[692]前K个高频单词.js" timestamp="1591088145604">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/Record.tsx" timestamp="1590975689423">
         <mark key="[" line="434" column="25" />
@@ -142,7 +144,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067930674">
         <mark key="[" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/qian-kge-gao-pin-dan-ci-by-leetcode.md" timestamp="1591088023139" />
+      <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/doc/qian-kge-gao-pin-dan-ci-by-leetcode.md" timestamp="1591088836923" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591086681013">
         <mark key="[" line="209" column="52" />
       </file>
@@ -261,7 +263,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgrkvZzogIXvvJpwZWFudXRidXR0ZXIK6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvdG9wLWstZnJlcXVlbnQtd29yZHMvc29sdXRpb24vbGkteW9uZy1kdWktamllLWp1ZS10b3Ata3dlbi10aS1ieS1wZWFudXRidXR0ZXIvCiAg5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
       </register>
       <register name="-" type="4">
         <text>ItemTypes.CARD</text>
@@ -273,7 +275,7 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgrkvZzogIXvvJpwZWFudXRidXR0ZXIK6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvdG9wLWstZnJlcXVlbnQtd29yZHMvc29sdXRpb24vbGkteW9uZy1kdWktamllLWp1ZS10b3Ata3dlbi10aS1ieS1wZWFudXRidXR0ZXIvCiAg5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -285,16 +287,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB7CiAgICBmaWVsZDogJ3Byb3BzLmhlbHAnLAogICAgdHlwZTogJ2VkaXRvci1pbnB1dCcsCiAgICB0ZXh0OiAn6L6T5YWl5o+Q56S6JywKICB9LA==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
