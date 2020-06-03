@@ -86,12 +86,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponentRenderer.jsx" timestamp="1590979898934">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591167991088" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Card/Card.jsx" timestamp="1591169602314" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1591089494811">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -102,8 +101,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1591174136897">
-        <mark key="[" line="411" column="21" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1591174743766">
+        <mark key="[" line="421" column="55" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/TimePicker/index.js" timestamp="1591077571956">
         <mark key="[" line="116" column="4" />
@@ -124,16 +123,6 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/Record.tsx" timestamp="1590975689423">
         <mark key="[" line="434" column="25" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1591164376604">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="37" column="9" />
-        <mark key="." line="37" column="9" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1591169322418">
-        <mark key="[" line="62" column="58" />
-        <mark key="]" line="62" column="58" />
-        <mark key="." line="62" column="58" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1591077544433">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -141,10 +130,6 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067930674">
         <mark key="[" line="56" column="4" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591169043453">
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590980388047">
         <mark key="[" line="71" column="13" />
