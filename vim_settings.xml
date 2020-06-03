@@ -91,9 +91,7 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591167991088" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Card/Card.jsx" timestamp="1591169360225">
-        <mark key="[" line="54" column="37" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Card/Card.jsx" timestamp="1591169602314" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1591089494811">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -117,9 +115,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1591161882424" />
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/extendobservable.ts" timestamp="1590737771841">
         <mark key="[" line="62" column="30" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/observableset.ts" timestamp="1590723033228">
-        <mark key="[" line="147" column="68" />
       </file>
       <file name="$USER_HOME$/ExploreProject/Leetcode/leetcode/editor/cn/[692]前K个高频单词.js" timestamp="1591088145604">
         <mark key="[" line="53" column="25" />
@@ -148,16 +143,16 @@
         <mark key="[" line="56" column="4" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591169043453">
-        <mark key="[" line="91" column="21" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590980388047">
         <mark key="[" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591168553482">
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591169625650">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -266,10 +261,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>drop2</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>drop2</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
