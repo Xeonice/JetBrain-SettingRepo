@@ -90,6 +90,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591167991088" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/Card/Card.jsx" timestamp="1591169360225">
+        <mark key="[" line="54" column="37" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/CheckBox/index.js" timestamp="1591089494811">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -114,9 +118,6 @@
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/api/extendobservable.ts" timestamp="1590737771841">
         <mark key="[" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/mobx/src/v4/core/derivation.ts" timestamp="1590717217109">
-        <mark key="[" line="190" column="55" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/mobx/src/v4/types/observableset.ts" timestamp="1590723033228">
         <mark key="[" line="147" column="68" />
       </file>
@@ -129,14 +130,14 @@
         <mark key="[" line="434" column="25" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1591164376604">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="9" />
-        <mark key="." line="39" column="9" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1590718903428">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Table/store/index.js" timestamp="1591169322418">
+        <mark key="[" line="62" column="58" />
+        <mark key="]" line="62" column="58" />
+        <mark key="." line="62" column="58" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/DateTimePicker/index.js" timestamp="1591077544433">
         <mark key="[" line="125" column="0" />
@@ -146,7 +147,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/store/index.js" timestamp="1591067930674">
         <mark key="[" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591166066316">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1591169043453">
         <mark key="[" line="91" column="21" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
@@ -154,10 +155,9 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/DataStructure.js" timestamp="1590980388047">
         <mark key="[" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591159432400">
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1591168553482">
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -265,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gLmZpbHRlcihvYmogPT4gb2JqLnRyYW5zZm9ybS54IDwgZm9ybVN0b3JlLnByb3BzLmdyb3VwW2N1cnJlbnRLZXldLmNvbHVtbikKICAgICAgLy8gICAgIC5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgIC8vICAgICAgIGNvbnN0IGN1cnJlbnRHcm91cENvbHVtbiA9IGZvcm1TdG9yZS5wcm9wcy5ncm91cFtjdXJyZW50S2V5XS5jb2x1bW47CiAgICAgIC8vICAgICAgIHRlbXBBcnIucHVzaChjdXIpOwogICAgICAvLyAgICAgICBpZiAoKGN1ci50cmFuc2Zvcm0ueCArIDEpICUgY3VycmVudEdyb3VwQ29sdW1uID09PSAwKSB7CiAgICAgIC8vICAgICAgICAgYWNjLnB1c2godGVtcEFycik7CiAgICAgIC8vICAgICAgICAgdGVtcEFyciA9IG9ic2VydmFibGUoW10pOwogICAgICAvLyAgICAgICB9CiAgICAgIC8vICAgICAgIHJldHVybiBhY2M7CiAgICAgIC8vICAgICB9LCBvYnNlcnZhYmxlKFtdKSk=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>ItemTypes.CARD</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>[</text>
