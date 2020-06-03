@@ -96,8 +96,10 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/gatsby-browser.js" timestamp="1591186332853">
-        <mark key="[" line="0" column="32" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/gatsby-browser.js" timestamp="1591187881049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/node_modules/react-dom/index.js" timestamp="1591182066244" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTable/renderTablePropsReducer.js" timestamp="1591174743766">
@@ -112,14 +114,18 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/examples/second/demo/basic.js" timestamp="1591185534616" />
-      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/gatsby-config.js" timestamp="1591186184483">
-        <mark key="[" line="17" column="8" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/examples/second/demo/basic.js" timestamp="1591187289257">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/gatsby-config.js" timestamp="1591188010744">
+        <mark key="[" line="24" column="8" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/examples/category/second/demo/basic.js" timestamp="1591185533331">
-        <mark key="[" line="0" column="30" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/examples/category/second/demo/basic.js" timestamp="1591187164442">
+        <mark key="[" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/examples/second/demo/basic.js" timestamp="1591182713568">
         <mark key="[" line="0" column="12" />
@@ -235,17 +241,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[{
-        libraryName: &quot;choerodon-ui&quot;,
-        style: true,   // or 'css'
-      }, {
-        libraryName: &quot;choerodon-ui/pro&quot;,
-        style: true,
-      }, {
-        &quot;libraryName&quot;: &quot;ant-design&quot;,
-        &quot;style&quot;: true,   // or 'css'
-      }]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>antd</text>
@@ -256,7 +253,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>[{
         libraryName: &quot;choerodon-ui&quot;,
         style: true,   // or 'css'
@@ -268,23 +268,20 @@
         &quot;style&quot;: true,   // or 'css'
       }]</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgLy8gLmZpbHRlcihvYmogPT4gb2JqLnRyYW5zZm9ybS54IDwgZm9ybVN0b3JlLnByb3BzLmdyb3VwW2N1cnJlbnRLZXldLmNvbHVtbikKICAgICAgLy8gICAgIC5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgIC8vICAgICAgIGNvbnN0IGN1cnJlbnRHcm91cENvbHVtbiA9IGZvcm1TdG9yZS5wcm9wcy5ncm91cFtjdXJyZW50S2V5XS5jb2x1bW47CiAgICAgIC8vICAgICAgIHRlbXBBcnIucHVzaChjdXIpOwogICAgICAvLyAgICAgICBpZiAoKGN1ci50cmFuc2Zvcm0ueCArIDEpICUgY3VycmVudEdyb3VwQ29sdW1uID09PSAwKSB7CiAgICAgIC8vICAgICAgICAgYWNjLnB1c2godGVtcEFycik7CiAgICAgIC8vICAgICAgICAgdGVtcEFyciA9IG9ic2VydmFibGUoW10pOwogICAgICAvLyAgICAgICB9CiAgICAgIC8vICAgICAgIHJldHVybiBhY2M7CiAgICAgIC8vICAgICB9LCBvYnNlcnZhYmxlKFtdKSk=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Zm9ybVN0b3JlLnRyYW5zZm9ybVtjdXJyZW50S2V5XQogICAgLmZpbHRlcihvYmogPT4gb2JqLnRyYW5zZm9ybS54IDwgZm9ybVN0b3JlLnByb3BzLmdyb3VwW2N1cnJlbnRLZXldLmNvbHVtbikKICAgIC5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgIGNvbnN0IGN1cnJlbnRHcm91cENvbHVtbiA9IGZvcm1TdG9yZS5wcm9wcy5ncm91cFtjdXJyZW50S2V5XS5jb2x1bW47CiAgICAgIHRlbXBBcnIucHVzaChjdXIpOwogICAgICBpZiAoKGN1ci50cmFuc2Zvcm0ueCArIDEpICUgY3VycmVudEdyb3VwQ29sdW1uID09PSAwKSB7CiAgICAgICAgYWNjLnB1c2godGVtcEFycik7CiAgICAgICAgdGVtcEFyciA9IG9ic2VydmFibGUoW10pOwogICAgICB9CiAgICAgIHJldHVybiBhY2M7CiAgICB9LCBvYnNlcnZhYmxlKFtdKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybVN0b3JlLnRyYW5zZm9ybVtmb3JtU3RvcmUuY3VycmVudEFjdGl2ZUdyb3VwXQogICAgICAgICAgLmZpbHRlcihvYmogPT4gb2JqLnRyYW5zZm9ybS54IDwgZm9ybVN0b3JlLnByb3BzLmdyb3VwW2N1cnJlbnRLZXldLmNvbHVtbikKICAgICAgICAgIC5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRHcm91cENvbHVtbiA9IGZvcm1TdG9yZS5wcm9wcy5ncm91cFtjdXJyZW50S2V5XS5jb2x1bW47CiAgICAgICAgICAgIHRlbXBBcnIucHVzaChjdXIpOwogICAgICAgICAgICBpZiAoKGN1ci50cmFuc2Zvcm0ueCArIDEpICUgY3VycmVudEdyb3VwQ29sdW1uID09PSAwKSB7CiAgICAgICAgICAgICAgYWNjLnB1c2godGVtcEFycik7CiAgICAgICAgICAgICAgdGVtcEFyciA9IG9ic2VydmFibGUoW10pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhY2M7CiAgICAgICAgICB9LCBvYnNlcnZhYmxlKFtdKSk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgrkvZzogIXvvJpwZWFudXRidXR0ZXIK6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvdG9wLWstZnJlcXVlbnQtd29yZHMvc29sdXRpb24vbGkteW9uZy1kdWktamllLWp1ZS10b3Ata3dlbi10aS1ieS1wZWFudXRidXR0ZXIvCiAg5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybVN0b3JlLnRyYW5zZm9ybVtmb3JtU3RvcmUuY3VycmVudEFjdGl2ZUdyb3VwXQogICAgICAgICAgLmZpbHRlcihvYmogPT4gb2JqLnRyYW5zZm9ybS54IDwgZm9ybVN0b3JlLnByb3BzLmdyb3VwW2N1cnJlbnRLZXldLmNvbHVtbikKICAgICAgICAgIC5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRHcm91cENvbHVtbiA9IGZvcm1TdG9yZS5wcm9wcy5ncm91cFtjdXJyZW50S2V5XS5jb2x1bW47CiAgICAgICAgICAgIHRlbXBBcnIucHVzaChjdXIpOwogICAgICAgICAgICBpZiAoKGN1ci50cmFuc2Zvcm0ueCArIDEpICUgY3VycmVudEdyb3VwQ29sdW1uID09PSAwKSB7CiAgICAgICAgICAgICAgYWNjLnB1c2godGVtcEFycik7CiAgICAgICAgICAgICAgdGVtcEFyciA9IG9ic2VydmFibGUoW10pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhY2M7CiAgICAgICAgICB9LCBvYnNlcnZhYmxlKFtdKSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgrkvZzogIXvvJpwZWFudXRidXR0ZXIK6ZO+5o6l77yaaHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvdG9wLWstZnJlcXVlbnQtd29yZHMvc29sdXRpb24vbGkteW9uZy1kdWktamllLWp1ZS10b3Ata3dlbi10aS1ieS1wZWFudXRidXR0ZXIvCiAg5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
