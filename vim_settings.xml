@@ -91,11 +91,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/node_modules/react-dom/index.js" timestamp="1591182066244" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/node_modules/react-dom/umd/react-dom.development.js" timestamp="1591182101645" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1591245736176">
         <mark key="[" line="14" column="68" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1591247545499" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1591237659005">
         <mark key="[" line="35" column="49" />
       </file>
@@ -105,6 +105,12 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/index.js" timestamp="1591238009545" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/QueryColumn.jsx" timestamp="1591247711435">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/examples/category/second/demo/basic.js" timestamp="1591182712207">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
