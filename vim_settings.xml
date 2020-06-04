@@ -105,10 +105,11 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/index.js" timestamp="1591238009545" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/QueryColumn.jsx" timestamp="1591262170580">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="26" column="18" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/QueryColumn/QueryColumn.jsx" timestamp="1591264548043">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/examples/category/second/demo/basic.js" timestamp="1591182712207">
         <mark key="[" line="0" column="24" />
@@ -240,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>antd</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
