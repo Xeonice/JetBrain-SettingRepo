@@ -93,6 +93,9 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/node_modules/react-dom/index.js" timestamp="1591182066244" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/node_modules/react-dom/umd/react-dom.development.js" timestamp="1591182101645" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1591245736176">
+        <mark key="[" line="14" column="68" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/GroupRenderer.jsx" timestamp="1591237659005">
         <mark key="[" line="35" column="49" />
       </file>
@@ -110,6 +113,7 @@
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/gatsby-config.js" timestamp="1591182547010">
         <mark key="[" line="104" column="27" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1591245676072" />
       <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/examples/second/demo/basic.js" timestamp="1591187289257">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="4" column="12" />
