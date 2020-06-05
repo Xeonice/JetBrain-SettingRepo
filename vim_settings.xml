@@ -85,11 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/gatsby-starter-theme-antv/gatsby-browser.js" timestamp="1591234587352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/javascript-algorithms/src/data-structures/heap/Heap.js" timestamp="1591269376747" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1591245736176">
         <mark key="[" line="14" column="68" />
@@ -119,6 +114,9 @@
         <mark key="[" line="104" column="18" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591342386643">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Column/index.js" timestamp="1591245676072" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/AuthorityGroup/PageAuthorityGroup/components/ModelSelector/ModelSelector.jsx" timestamp="1591264630667" />
