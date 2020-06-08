@@ -85,12 +85,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/components/PlayGrounds.tsx" timestamp="1591600836553" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/templates/example.tsx" timestamp="1591598940743" />
       <file name="$USER_HOME$/ExploreProject/javascript-algorithms/src/data-structures/heap/Heap.js" timestamp="1591269376747" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-componentTypeSelector/EditorComponentTypeSelector.jsx" timestamp="1591245736176">
-        <mark key="[" line="14" column="68" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1591247545499" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/gatsby-config.js" timestamp="1591599068973" />
       <file name="$USER_HOME$/ExploreProject/react-materials/package.json" timestamp="1591344625135" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelDataSource/ThirdStep/index.js" timestamp="1591267694754">
@@ -125,8 +122,11 @@
         <mark key="[" line="100" column="48" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/AuthorityGroup/PageAuthorityGroup/components/ModelSelector/ModelSelector.jsx" timestamp="1591264630667" />
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/components/PlayGround.tsx" timestamp="1591599031391">
-        <mark key="[" line="248" column="65" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/examples/second/demo/basic.js" timestamp="1591600870797">
+        <mark key="[" line="2" column="71" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/components/PlayGround.tsx" timestamp="1591600850521">
+        <mark key="[" line="56" column="61" />
         <mark key="." line="240" column="32" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/gatsby-node.js" timestamp="1591599085055" />
