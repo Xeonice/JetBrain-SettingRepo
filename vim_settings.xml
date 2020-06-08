@@ -85,8 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/templates/example.tsx" timestamp="1591598940743" />
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/gatsby-config.js" timestamp="1591599068973" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/content/posts/test.mdx" timestamp="1591611236257">
         <mark key="[" line="9" column="14" />
       </file>
@@ -99,17 +97,19 @@
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/src/gatsby-plugin-theme-ui/styles.js" timestamp="1591614405636">
         <mark key="[" line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/package.json" timestamp="1591614484061">
-        <mark key="[" line="37" column="48" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/package.json" timestamp="1591615412156">
+        <mark key="[" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/gatsby-config.js" timestamp="1591599089677">
         <mark key="[" line="100" column="48" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/node_modules/@theme-ui/typography/package.json" timestamp="1591615162585" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/site/components/PlayGrounds.tsx" timestamp="1591600836553" />
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/package.json" timestamp="1591612024338" />
       <file name="/Dummy.txt" timestamp="1591608707422">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/node_modules/@theme-ui/typography/dist/index.esm.js" timestamp="1591615141088" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/README.md" timestamp="1591611373405" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/gatsby-node.js" timestamp="1591612000288">
         <mark key="[" line="78" column="0" />
@@ -129,7 +129,6 @@
         <mark key="[" line="56" column="61" />
         <mark key="." line="240" column="32" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/@antv/gatsby-theme-antv/gatsby-node.js" timestamp="1591599085055" />
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
