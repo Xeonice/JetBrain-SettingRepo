@@ -87,8 +87,8 @@
     <filemarks>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/content/posts/test.mdx" timestamp="1591672205027">
         <mark key="[" line="11" column="3" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/gatsby-config.js" timestamp="1591611902806">
         <mark key="[" line="3" column="10" />
@@ -110,7 +110,7 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/node_modules/@theme-ui/typography/dist/index.esm.js" timestamp="1591615141088" />
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/README.md" timestamp="1591611373405" />
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/gatsby-node.js" timestamp="1591612000288">
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/gatsby-node.js" timestamp="1591675758965">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
