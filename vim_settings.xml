@@ -125,9 +125,8 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/node_modules/@theme-ui/typography/dist/index.esm.js" timestamp="1591615141088" />
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/components/ThemeButton/ThemeButton.jsx" timestamp="1591694349423">
-        <mark key="[" line="108" column="52" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/gatsby-theme-chaton/gatsby-node.js" timestamp="1591675758965">
         <mark key="[" line="78" column="0" />
