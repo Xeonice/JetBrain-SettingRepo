@@ -87,6 +87,9 @@
     <filemarks>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/register.js" timestamp="1591785306231" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/dynamic-form-item.js" timestamp="1591785291521" />
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1591786018089">
+        <mark key="[" line="39" column="38" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/advanced-search.js" timestamp="1591785284637" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/time-related-controls.js" timestamp="1591785307908" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/validate-static.js" timestamp="1591785310114" />
@@ -104,7 +107,6 @@
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/presetted-ranges.js" timestamp="1591785274906" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/form-in-modal.js" timestamp="1591785295610" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/horizontal-login.js" timestamp="1591785302344" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/mode.js" timestamp="1591785270219" />
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
