@@ -85,32 +85,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/register.js" timestamp="1591785306231" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/dynamic-form-item.js" timestamp="1591785291521" />
-      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/gatsby-config.js" timestamp="1591839112996">
-        <mark key="[" line="100" column="48" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1591839334453">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/advanced-search.js" timestamp="1591785284637" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/time-related-controls.js" timestamp="1591785307908" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/validate-static.js" timestamp="1591785310114" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/normal-login.js" timestamp="1591785304279" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/validate-other.js" timestamp="1591785311974" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/time.js" timestamp="1591785280802" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/coordinated.js" timestamp="1591785287205" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/customized-form-controls.js" timestamp="1591785289529" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/global-state.js" timestamp="1591785297502" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/start-end.js" timestamp="1591785277255" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/layout.js" timestamp="1591785299529" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/without-form-create.js" timestamp="1591785316500" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/dynamic-rule.js" timestamp="1591785293422" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/presetted-ranges.js" timestamp="1591785274906" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/form-in-modal.js" timestamp="1591785295610" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/horizontal-login.js" timestamp="1591785302344" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/gatsby-config.js" timestamp="1591839112996">
+        <mark key="[" line="100" column="48" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/selectorDataSet/ComponentSelectorDataSet.js" timestamp="1591844172745">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
@@ -233,7 +220,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -242,19 +229,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmRhcmstbW9kZS10b2dnbGUgewogIGRpc3BsYXk6IGZsZXg7CiAgbWFyZ2luOiAwIGF1dG87CiAgJiA+IGJ1dHRvbiB7CiAgICBmb250LXNpemU6IDEuMmVtOwogICAgYmFja2dyb3VuZDogbm9uZTsKICAgIGJvcmRlcjogbm9uZTsKICAgIGNvbG9yOiAjZmZlNjAwOwogICAgY3Vyc29yOiBwb2ludGVyOwogICAgdHJhbnNpdGlvbjogY29sb3IgMC4zcyBlYXNlOwogICAgJjpsYXN0LWNoaWxkIHsKICAgICAgY29sb3I6ICM2NjY7CiAgICB9CgogICAgJjpmb2N1cyB7CiAgICAgIG91dGxpbmU6IG5vbmU7CiAgICB9CiAgfQp9Ci50b2dnbGUtY29udHJvbCB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHBhZGRpbmc6IDAgNHB4OwogIGRpc3BsYXk6IGZsZXg7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKfQoKaW5wdXRbdHlwZT0nY2hlY2tib3gnXS5kbWNoZWNrIHsKICB3aWR0aDogNDBweDsKICBoZWlnaHQ6IDEwcHg7CiAgYmFja2dyb3VuZDogIzU1NTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYm9yZGVyLXJhZGl1czogNXB4OwogIC13ZWJraXQtYXBwZWFyYW5jZTogbm9uZTsKICAtbW96LWFwcGVhcmFuY2U6IG5vbmU7CiAgYXBwZWFyYW5jZTogbm9uZTsKICBjdXJzb3I6IHBvaW50ZXI7CiAgdmVydGljYWwtYWxpZ246IDJweDsKICBvdXRsaW5lOiBub25lOwoKICAmOmNoZWNrZWQgKyBsYWJlbCB7CiAgICBsZWZ0OiAzMHB4OwogIH0KCiAgJjpmb2N1cy12aXNpYmxlIHsKICAgIG91dGxpbmU6IHNvbGlkIDJweCB3aGl0ZTsKICB9CgogICYgKyBsYWJlbCB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICB3aWR0aDogMThweDsKICAgIGhlaWdodDogMThweDsKICAgIGJvcmRlci1yYWRpdXM6IDUwJTsKICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7CiAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBsZWZ0OiAycHg7CiAgICBiYWNrZ3JvdW5kOiAjZmZmOwogICAgb3BhY2l0eTogMC45OwogICAgYmFja2dyb3VuZC1jb2xvcjogI2Y2ZjZmNjsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogc2l6ZSwK</text>
+        <text encoding="base64">LmRhcmstbW9kZS10b2dnbGUgewogIGRpc3BsYXk6IGZsZXg7CiAgbWFyZ2luOiAwIGF1dG87CiAgJiA+IGJ1dHRvbiB7CiAgICBmb250LXNpemU6IDEuMmVtOwogICAgYmFja2dyb3VuZDogbm9uZTsKICAgIGJvcmRlcjogbm9uZTsKICAgIGNvbG9yOiAjZmZlNjAwOwogICAgY3Vyc29yOiBwb2ludGVyOwogICAgdHJhbnNpdGlvbjogY29sb3IgMC4zcyBlYXNlOwogICAgJjpsYXN0LWNoaWxkIHsKICAgICAgY29sb3I6ICM2NjY7CiAgICB9CgogICAgJjpmb2N1cyB7CiAgICAgIG91dGxpbmU6IG5vbmU7CiAgICB9CiAgfQp9Ci50b2dnbGUtY29udHJvbCB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHBhZGRpbmc6IDAgNHB4OwogIGRpc3BsYXk6IGZsZXg7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKfQoKaW5wdXRbdHlwZT0nY2hlY2tib3gnXS5kbWNoZWNrIHsKICB3aWR0aDogNDBweDsKICBoZWlnaHQ6IDEwcHg7CiAgYmFja2dyb3VuZDogIzU1NTsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYm9yZGVyLXJhZGl1czogNXB4OwogIC13ZWJraXQtYXBwZWFyYW5jZTogbm9uZTsKICAtbW96LWFwcGVhcmFuY2U6IG5vbmU7CiAgYXBwZWFyYW5jZTogbm9uZTsKICBjdXJzb3I6IHBvaW50ZXI7CiAgdmVydGljYWwtYWxpZ246IDJweDsKICBvdXRsaW5lOiBub25lOwoKICAmOmNoZWNrZWQgKyBsYWJlbCB7CiAgICBsZWZ0OiAzMHB4OwogIH0KCiAgJjpmb2N1cy12aXNpYmxlIHsKICAgIG91dGxpbmU6IHNvbGlkIDJweCB3aGl0ZTsKICB9CgogICYgKyBsYWJlbCB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICB3aWR0aDogMThweDsKICAgIGhlaWdodDogMThweDsKICAgIGJvcmRlci1yYWRpdXM6IDUwJTsKICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7CiAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBsZWZ0OiAycHg7CiAgICBiYWNrZ3JvdW5kOiAjZmZmOwogICAgb3BhY2l0eTogMC45OwogICAgYmFja2dyb3VuZC1jb2xvcjogI2Y2ZjZmNjsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHNpemUgKiAwLjQ3LAo=</text>
+        <text encoding="base64">ICB3aWR0aDogc2l6ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwLAo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IHNpemUgKiAwLjQ3LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
