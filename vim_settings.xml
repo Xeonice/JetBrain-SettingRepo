@@ -85,39 +85,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591857219604">
-        <mark key="[" line="287" column="6" />
-        <mark key="]" line="471" column="0" />
-        <mark key="." line="471" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/radio/Radio.js" timestamp="1591863268941">
+        <mark key="[" line="175" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591854600156">
-        <mark key="[" line="3" column="21" />
-      </file>
-      <file name="/a.dummy" timestamp="1591845913080">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/PageLevelButton.jsx" timestamp="1591844791638">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/index.js" timestamp="1591848915007">
-        <mark key="[" line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-eventBind/EditorEventBind.jsx" timestamp="1591851251323">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="80" column="3" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/StepsActionBar/StepsActionBar.jsx" timestamp="1591862871757" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1591853594656" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1591849869743" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/selectorDataSet/ComponentSelectorDataSet.js" timestamp="1591844172745">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/core/ViewComponent.tsx" timestamp="1591864905258">
+        <mark key="[" line="345" column="54" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1591849730174" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/Switch.tsx" timestamp="1591863142601" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/index.less" timestamp="1591853919577">
         <mark key="[" line="3" column="15" />
       </file>
@@ -126,14 +102,36 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591858187545">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="25" />
-        <mark key="." line="70" column="25" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591863709919">
+        <mark key="[" line="152" column="12" />
+        <mark key="]" line="156" column="10" />
+        <mark key="." line="156" column="10" />
+        <mark key="^" line="86" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/store/DataStructure.js" timestamp="1591845214654">
-        <mark key="[" line="36" column="18" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/tools/getWebpackConfig.js" timestamp="1591863073868" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/check-box/CheckBox.js" timestamp="1591863253734" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1591851636078">
+        <mark key="[" line="185" column="35" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/index.tsx" timestamp="1591863121551" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591863837064">
+        <mark key="[" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/radio/Radio.tsx" timestamp="1591865215363">
+        <mark key="[" line="66" column="22" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591862573214">
+        <mark key="[" line="285" column="6" />
+        <mark key="]" line="478" column="0" />
+        <mark key="." line="478" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591854600156">
+        <mark key="[" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591864435264">
+        <mark key="[" line="514" column="7" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/index.js" timestamp="1591851335923" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591859146995">
@@ -141,15 +139,7 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1591848782936">
-        <mark key="[" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1591850373514" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1591851636078">
-        <mark key="[" line="185" column="35" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/check-box/CheckBox.tsx" timestamp="1591863985445" />
     </filemarks>
     <jumps>
       <jump line="38" column="26" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/HomePage/Store/HomePageDataSet.js" />
@@ -257,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>alignProps</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>alignProps</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
