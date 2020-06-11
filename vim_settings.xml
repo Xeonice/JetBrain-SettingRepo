@@ -85,10 +85,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591852876183">
-        <mark key="[" line="281" column="24" />
-        <mark key="]" line="462" column="0" />
-        <mark key="." line="462" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591857219604">
+        <mark key="[" line="287" column="6" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591854600156">
         <mark key="[" line="3" column="21" />
@@ -119,26 +119,27 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1591849730174" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/index.less" timestamp="1591853919577">
-        <mark key="[" line="2" column="15" />
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/index.less" timestamp="1591853612941">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591849952056">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591858187545">
+        <mark key="[" line="70" column="25" />
+        <mark key="]" line="70" column="25" />
+        <mark key="." line="70" column="25" />
         <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/store/DataStructure.js" timestamp="1591845214654">
         <mark key="[" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/index.js" timestamp="1591851335923" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591853709770">
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591859146995">
+        <mark key="[" line="158" column="6" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/index.js" timestamp="1591848782936">
         <mark key="[" line="30" column="3" />
@@ -255,11 +256,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>alignProps</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>alignProps</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -271,25 +272,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWxpZ25Qcm9wcyA9IFsKICAgICAgICB7CiAgICAgICAgICBrZXk6ICdmbGV4LXN0YXJ0JywKICAgICAgICAgIGxhYmVsOiAn5bem5a+56b2QJywKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIGtleTogJ2NlbnRlcicsCiAgICAgICAgICBsYWJlbDogJ+WxheS4rScsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICBrZXk6ICdmbGV4LWVuZCcsCiAgICAgICAgICBsYWJlbDogJ+WPs+Wvuem9kCcsCiAgICAgICAgfSwKICAgICAgXTsKCiAgICAgIGNvbnN0IGdyb3VwUHJvcHMgPSBbCiAgICAgICAgewogICAgICAgICAga2V5OiAndG9wJywKICAgICAgICAgIGxhYmVsOiAn572u6aG2JywKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIGtleTogJ2JvdHRvbScsCiAgICAgICAgICBsYWJlbDogJ+e9ruW6lScsCiAgICAgICAgfSwKICAgICAgXTs=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiAnZml4ZWQnLAogICAgICAgICAgd2lkdGg6ICdjYWxjKDEwMCUgLSAyNjBweCAtIDI0MHB4IC0gNTJweCknLAogICAgICAgICAgekluZGV4OiA2LA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvdHRvbTogcGFnZUxldmVsQnRuU3RvcmUucHJvcHMuZ3JvdXBBbGlnbiA9PT0gJ2JvdHRvbScgPyAwIDogLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDE7CiAgICBiYWNrZ3JvdW5kOiAjZmZmOwogICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgd2lkdGg6IDEwMCU7CiAgICAvL2hlaWdodDogMTAwJTsKICAgIGJvcmRlcjogMXB4IGRhc2hlZCAjYWFhZGJhOwogICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgbWFyZ2luOiAycHg7CiAgICBzY3JvbGxiYXItd2lkdGg6IG5vbmU7CiAgICAtbXMtb3ZlcmZsb3ctc3R5bGU6IG5vbmU7CgogICAgJjo6LXdlYmtpdC1zY3JvbGxiYXIgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSJzdGFydCI+CiAgICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIGhyZWY9Imh0dHBzOi8vY2hvZXJvZG9uLmlvIj7lt6blr7npvZA8L2E+CiAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSJjZW50ZXIiPgogICAgICAgICAgICA8YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIiBocmVmPSJodHRwczovL2Nob2Vyb2Rvbi5pbyI+5bGF5LitPC9hPgogICAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgICAgICA8TWVudS5JdGVtIGtleT0iZW5kIj4KICAgICAgICAgICAgPGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgaHJlZj0iaHR0cHM6Ly9jaG9lcm9kb24uaW8iPuWPs+Wvuem9kDwvYT4KICAgICAgICAgIDwvTWVudS5JdGVtPg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtbXMtb3ZlcmZsb3ctc3R5bGU6IG5vbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
