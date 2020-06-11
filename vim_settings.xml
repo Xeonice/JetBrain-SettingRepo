@@ -88,56 +88,62 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/radio/Radio.js" timestamp="1591863268941">
         <mark key="[" line="175" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Step/StepsActionBar/StepsActionBar.jsx" timestamp="1591862871757" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1591853594656" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/index.js" timestamp="1591876004111">
+        <mark key="[" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/Suspension.jsx" timestamp="1591876040703" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/core/ViewComponent.tsx" timestamp="1591868371945">
         <mark key="[" line="345" column="54" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/PageLevelButton/store/DataStructure.js" timestamp="1591869265236" />
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/Switch.tsx" timestamp="1591863142601" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/index.less" timestamp="1591853919577">
-        <mark key="[" line="3" column="15" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/AlignMent/Alignment.jsx" timestamp="1591877833623">
+        <mark key="[" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/index.less" timestamp="1591853612941">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/AlignMent/index.js" timestamp="1591873405868">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591871306047">
-        <mark key="[" line="155" column="47" />
-        <mark key="]" line="156" column="10" />
-        <mark key="." line="156" column="10" />
-        <mark key="^" line="86" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591877566363">
+        <mark key="[" line="68" column="26" />
+        <mark key="^" line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/tools/getWebpackConfig.js" timestamp="1591863073868" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/check-box/CheckBox.js" timestamp="1591863253734" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/StructureComponentSetting.jsx" timestamp="1591851636078">
-        <mark key="[" line="185" column="35" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/index.tsx" timestamp="1591863121551" />
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591871074226">
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591871442553">
         <mark key="[" line="26" column="32" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/radio/Radio.tsx" timestamp="1591869481519">
         <mark key="[" line="183" column="32" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591869129120">
-        <mark key="[" line="281" column="18" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591877470791">
+        <mark key="[" line="289" column="19" />
         <mark key="]" line="478" column="0" />
         <mark key="." line="283" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591854600156">
-        <mark key="[" line="3" column="21" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591872799916">
+        <mark key="[" line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591870084221">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/VerticalAlignment/VerticalAlignment.jsx" timestamp="1591877531608">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591872431111">
         <mark key="[" line="514" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591859146995">
-        <mark key="[" line="158" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591876960362">
+        <mark key="[" line="168" column="44" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/Suspension/Suspension.jsx" timestamp="1591877660427">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/Suspension/index.js" timestamp="1591875440094">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/check-box/CheckBox.tsx" timestamp="1591863985445" />
     </filemarks>
@@ -246,11 +252,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -259,22 +265,22 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWxpZ25Qcm9wcyA9IFsKICAgICAgICB7CiAgICAgICAgICBrZXk6ICdmbGV4LXN0YXJ0JywKICAgICAgICAgIGxhYmVsOiAn5bem5a+56b2QJywKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIGtleTogJ2NlbnRlcicsCiAgICAgICAgICBsYWJlbDogJ+WxheS4rScsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICBrZXk6ICdmbGV4LWVuZCcsCiAgICAgICAgICBsYWJlbDogJ+WPs+Wvuem9kCcsCiAgICAgICAgfSwKICAgICAgXTsKCiAgICAgIGNvbnN0IGdyb3VwUHJvcHMgPSBbCiAgICAgICAgewogICAgICAgICAga2V5OiAndG9wJywKICAgICAgICAgIGxhYmVsOiAn572u6aG2JywKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIGtleTogJ2JvdHRvbScsCiAgICAgICAgICBsYWJlbDogJ+e9ruW6lScsCiAgICAgICAgfSwKICAgICAgXTs=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBhbGlnbkVudW0gPSB7CiAgICAnZmxleC1zdGFydCc6IHsKICAgICAga2V5OiAnbGVmdCcsCiAgICAgIHZhbHVlOiAnZmxleC1zdGFydCcsCiAgICAgIG5vcm1hbDogbGVmdEFsaWdubWVudE5vcm1hbCwKICAgICAgc2VsZWN0ZWQ6IGxlZnRBbGlnbm1lbnRTZWxlY3RlZCwKICAgIH0sCiAgICBjZW50ZXI6IHsKICAgICAga2V5OiAnY2VudGVyJywKICAgICAgdmFsdWU6ICdjZW50ZXInLAogICAgICBub3JtYWw6IGNlbnRlcmVkTm9ybWFsLAogICAgICBzZWxlY3RlZDogY2VudGVyZWRTZWxlY3RlZCwKICAgIH0sCiAgICAnZmxleC1lbmQnOiB7CiAgICAgIGtleTogJ3JpZ2h0JywKICAgICAgdmFsdWU6ICdmbGV4LWVuZCcsCiAgICAgIG5vcm1hbDogcmlnaHRBbGlnbm1lbnROb3JtYWwsCiAgICAgIHNlbGVjdGVkOiByaWdodEFsaWdubWVudFNlbGVjdGVkLAogICAgfSwKICB9Ow==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiAnZml4ZWQnLAogICAgICAgICAgd2lkdGg6ICdjYWxjKDEwMCUgLSAyNjBweCAtIDI0MHB4IC0gNTJweCknLAogICAgICAgICAgekluZGV4OiA2LA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvdHRvbTogcGFnZUxldmVsQnRuU3RvcmUucHJvcHMuZ3JvdXBBbGlnbiA9PT0gJ2JvdHRvbScgPyAwIDogLAo=</text>
+        <text encoding="base64">ICBjb25zdCBpbWdTcmMgPSBwYWdlTGV2ZWxCdG5TdG9yZS5wcm9wcy5zdXNwZW5zaW9uID8gc3VzcGVuc2lvblNlbGVjdGVkIDogc3VzcGVuc2lvbk5vcm1hbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSJzdGFydCI+CiAgICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIGhyZWY9Imh0dHBzOi8vY2hvZXJvZG9uLmlvIj7lt6blr7npvZA8L2E+CiAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSJjZW50ZXIiPgogICAgICAgICAgICA8YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIiBocmVmPSJodHRwczovL2Nob2Vyb2Rvbi5pbyI+5bGF5LitPC9hPgogICAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgICAgICA8TWVudS5JdGVtIGtleT0iZW5kIj4KICAgICAgICAgICAgPGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgaHJlZj0iaHR0cHM6Ly9jaG9lcm9kb24uaW8iPuWPs+Wvuem9kDwvYT4KICAgICAgICAgIDwvTWVudS5JdGVtPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
