@@ -87,15 +87,17 @@
     <filemarks>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/register.js" timestamp="1591785306231" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/dynamic-form-item.js" timestamp="1591785291521" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1591787445001">
-        <mark key="[" line="39" column="16" />
+      <file name="$USER_HOME$/ExploreProject/gatsby-theme-antv/example/gatsby-config.js" timestamp="1591838431103">
+        <mark key="[" line="100" column="48" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1591838439562">
+        <mark key="[" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/advanced-search.js" timestamp="1591785284637" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/time-related-controls.js" timestamp="1591785307908" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/validate-static.js" timestamp="1591785310114" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/normal-login.js" timestamp="1591785304279" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/validate-other.js" timestamp="1591785311974" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/size.js" timestamp="1591785272683" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/date-picker/demo/time.js" timestamp="1591785280802" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/coordinated.js" timestamp="1591785287205" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/cmp/data-entry/form/demo/customized-form-controls.js" timestamp="1591785289529" />
