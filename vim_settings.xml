@@ -88,34 +88,16 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/images/index.js" timestamp="1591924908740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591947796433">
-        <mark key="[" line="275" column="43" />
-        <mark key="]" line="485" column="0" />
-        <mark key="." line="280" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591872799916">
-        <mark key="[" line="5" column="36" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/index.js" timestamp="1591876004111">
         <mark key="[" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/ToggleDisabled.jsx" timestamp="1591877960986">
         <mark key="[" line="14" column="49" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1591948000897">
-        <mark key="[" line="163" column="10" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/VerticalAlignment/VerticalAlignment.jsx" timestamp="1591877531608">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1591949307009" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponentRenderer.jsx" timestamp="1591947147084" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/AlignMent/Alignment.jsx" timestamp="1591877833623">
         <mark key="[" line="56" column="20" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591925060321">
-        <mark key="[" line="514" column="7" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/AlignMent/index.js" timestamp="1591873405868">
         <mark key="[" line="0" column="0" />
@@ -125,12 +107,36 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1591948371952">
         <mark key="[" line="19" column="33" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="49" column="6" />
-        <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591876960362">
-        <mark key="[" line="168" column="44" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591871442553">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1591947796433">
+        <mark key="[" line="275" column="43" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="280" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/index.less" timestamp="1591872799916">
+        <mark key="[" line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1591949455686">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/VerticalAlignment/VerticalAlignment.jsx" timestamp="1591877531608">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591925060321">
+        <mark key="[" line="514" column="7" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591949207736">
+        <mark key="[" line="184" column="22" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
@@ -142,17 +148,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591871442553">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/Suspension/index.js" timestamp="1591875440094">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/radio/Radio.tsx" timestamp="1591869481519">
-        <mark key="[" line="183" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -260,11 +257,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
