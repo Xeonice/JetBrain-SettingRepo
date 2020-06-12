@@ -88,6 +88,9 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/radio/Radio.js" timestamp="1591863268941">
         <mark key="[" line="175" column="37" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/images/index.js" timestamp="1591924908740">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/index.js" timestamp="1591876004111">
         <mark key="[" line="0" column="38" />
       </file>
@@ -109,7 +112,6 @@
         <mark key="[" line="68" column="26" />
         <mark key="^" line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/check-box/CheckBox.js" timestamp="1591863253734" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/switch/demo/basic.md" timestamp="1591871442553">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="31" column="4" />
@@ -132,7 +134,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591872431111">
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1591925060321">
         <mark key="[" line="514" column="7" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1591876960362">
