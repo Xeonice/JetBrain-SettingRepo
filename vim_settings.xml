@@ -88,18 +88,17 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/components/LowcodeLayout/LowcodeLayout.jsx" timestamp="1592189040466" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1592214201331" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/data-set/enum.tsx" timestamp="1592214501012" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/editor-eventBind/EditorEventBind.jsx" timestamp="1592218699520">
+        <mark key="[" line="20" column="154" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1592218697388" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1592214249967">
         <mark key="[" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/package.json" timestamp="1592214211414" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1592214431504" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1592217993729" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/field/FormField.tsx" timestamp="1592214638559">
         <mark key="[" line="161" column="23" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/DndHOC.jsx" timestamp="1591954071212">
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
       </file>
     </filemarks>
     <jumps>
