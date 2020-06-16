@@ -88,10 +88,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1592291895684">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1592292511020">
+        <mark key="[" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/tutorial/getting-started/getting-started.zh.md" timestamp="1592288650406">
         <mark key="[" line="5" column="0" />
