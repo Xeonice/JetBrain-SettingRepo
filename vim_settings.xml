@@ -103,11 +103,10 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/currency/Currency.tsx" timestamp="1592277788334" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/date-picker/demo/basic.md" timestamp="1592278017254" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1592217993729" />
-      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/api/index.md" timestamp="1592277278655">
-        <mark key="[" line="26" column="86" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/api/index.md" timestamp="1592283398704">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Currency/index.js" timestamp="1592221471523">
         <mark key="[" line="188" column="19" />
@@ -221,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>startIndex</text>
+      <register name="&quot;" type="2">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>startIndex</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -233,29 +232,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFJlYWN0LmNsb25lRWxlbWVudChjaGlsZHJlbiwgewogICAgcmVmLAogIH0p</text>
+      <register name="1" type="2">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFJlYWN0LmNsb25lRWxlbWVudChjaGlsZHJlbiwgewogICAgcmVmLAogIH0p</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBhbGlnbkVudW0gPSB7CiAgICAnZmxleC1zdGFydCc6IHsKICAgICAga2V5OiAnbGVmdCcsCiAgICAgIHZhbHVlOiAnZmxleC1zdGFydCcsCiAgICAgIG5vcm1hbDogbGVmdEFsaWdubWVudE5vcm1hbCwKICAgICAgc2VsZWN0ZWQ6IGxlZnRBbGlnbm1lbnRTZWxlY3RlZCwKICAgIH0sCiAgICBjZW50ZXI6IHsKICAgICAga2V5OiAnY2VudGVyJywKICAgICAgdmFsdWU6ICdjZW50ZXInLAogICAgICBub3JtYWw6IGNlbnRlcmVkTm9ybWFsLAogICAgICBzZWxlY3RlZDogY2VudGVyZWRTZWxlY3RlZCwKICAgIH0sCiAgICAnZmxleC1lbmQnOiB7CiAgICAgIGtleTogJ3JpZ2h0JywKICAgICAgdmFsdWU6ICdmbGV4LWVuZCcsCiAgICAgIG5vcm1hbDogcmlnaHRBbGlnbm1lbnROb3JtYWwsCiAgICAgIHNlbGVjdGVkOiByaWdodEFsaWdubWVudFNlbGVjdGVkLAogICAgfSwKICB9Ow==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBpbWdTcmMgPSBwYWdlTGV2ZWxCdG5TdG9yZS5wcm9wcy5zdXNwZW5zaW9uID8gc3VzcGVuc2lvblNlbGVjdGVkIDogc3VzcGVuc2lvbk5vcm1hbDsK</text>
+        <text encoding="base64">ICBjb25zdCBhbGlnbkVudW0gPSB7CiAgICAnZmxleC1zdGFydCc6IHsKICAgICAga2V5OiAnbGVmdCcsCiAgICAgIHZhbHVlOiAnZmxleC1zdGFydCcsCiAgICAgIG5vcm1hbDogbGVmdEFsaWdubWVudE5vcm1hbCwKICAgICAgc2VsZWN0ZWQ6IGxlZnRBbGlnbm1lbnRTZWxlY3RlZCwKICAgIH0sCiAgICBjZW50ZXI6IHsKICAgICAga2V5OiAnY2VudGVyJywKICAgICAgdmFsdWU6ICdjZW50ZXInLAogICAgICBub3JtYWw6IGNlbnRlcmVkTm9ybWFsLAogICAgICBzZWxlY3RlZDogY2VudGVyZWRTZWxlY3RlZCwKICAgIH0sCiAgICAnZmxleC1lbmQnOiB7CiAgICAgIGtleTogJ3JpZ2h0JywKICAgICAgdmFsdWU6ICdmbGV4LWVuZCcsCiAgICAgIG5vcm1hbDogcmlnaHRBbGlnbm1lbnROb3JtYWwsCiAgICAgIHNlbGVjdGVkOiByaWdodEFsaWdubWVudFNlbGVjdGVkLAogICAgfSwKICB9Ow==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
