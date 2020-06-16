@@ -80,12 +80,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/compileStartEnv.js" timestamp="1592214201331" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/ToggleDisabled.jsx" timestamp="1592277801836">
         <mark key="[" line="14" column="49" />
       </file>
@@ -94,12 +96,8 @@
         <mark key="[" line="258" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/constant.js" timestamp="1592218697388" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/index.js" timestamp="1592214249967">
-        <mark key="[" line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/date-picker/demo/dataset.md" timestamp="1592278834211" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/index.tsx" timestamp="1592276472861" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/package.json" timestamp="1592214211414" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/currency/Currency.tsx" timestamp="1592277788334" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/date-picker/demo/basic.md" timestamp="1592278017254" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Upload/index.js" timestamp="1592217993729" />
