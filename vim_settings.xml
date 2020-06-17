@@ -89,6 +89,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageMenu/Menu/ModalMain.js" timestamp="1592364226858" />
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/table/index.zh.md" timestamp="1592381630150" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/ToggleDisabled/ToggleDisabled.jsx" timestamp="1592302686602">
         <mark key="[" line="13" column="43" />
       </file>
@@ -116,12 +117,6 @@
         <mark key="[" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/test1.en.md" timestamp="1592299672711" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1592296386398">
-        <mark key="[" line="46" column="31" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="46" column="18" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageMenu/Menu/index.js" timestamp="1592364255864" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/AuthorityAppPreview/store/index.js" timestamp="1592364046891" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/basic/index.zh.md" timestamp="1592377787411" />
@@ -129,7 +124,7 @@
         <mark key="[" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/GridLayout/GridLayout.jsx" timestamp="1592301339039" />
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/introduction/index.zh.md" timestamp="1592377697644">
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/introduction/index.zh.md" timestamp="1592381402753">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="27" />
