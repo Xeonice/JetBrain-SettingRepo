@@ -96,9 +96,9 @@
         <mark key="[" line="176" column="95" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageLevelButton/PageLevelButton.jsx" timestamp="1592363838761">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1592298806415">
         <mark key="[" line="222" column="0" />
@@ -108,8 +108,11 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/PageMenu/store/index.js" timestamp="1592364059427">
         <mark key="[" line="227" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592366442701">
-        <mark key="[" line="666" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592368385687">
+        <mark key="[" line="668" column="32" />
+        <mark key="]" line="297" column="8" />
+        <mark key="^" line="275" column="50" />
+        <mark key="." line="297" column="8" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/package.json" timestamp="1592299933981">
         <mark key="[" line="15" column="60" />
@@ -247,11 +250,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>specification</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
