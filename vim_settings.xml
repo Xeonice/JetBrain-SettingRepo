@@ -92,6 +92,11 @@
         <mark key="[" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/table/index.zh.md" timestamp="1592455091689" />
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/gatsby-config.js" timestamp="1592455571774">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/package.json" timestamp="1592299933981">
         <mark key="[" line="15" column="60" />
       </file>
@@ -110,11 +115,6 @@
         <mark key="[" line="103" column="35" />
         <mark key="]" line="103" column="35" />
         <mark key="." line="103" column="35" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1592298806415">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/index.js" timestamp="1592370915193">
         <mark key="]" line="13" column="0" />
@@ -239,7 +239,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>Button</text>
@@ -251,7 +251,7 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -266,13 +266,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>`DataSet` 是一套专门用于抽象 API 的相关体系，`DataSet` 并不需要你针对现有的后端体系进行大幅改造，而只需要针对后端接口，进行对应的编码即可。</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>`DataSet` 是一套专门用于抽象 API 的相关体系，`DataSet` 并不需要你针对现有的后端体系进行大幅改造，而只需要针对后端接口，进行对应的编码即可。</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
