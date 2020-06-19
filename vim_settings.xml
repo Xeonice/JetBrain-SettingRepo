@@ -88,9 +88,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/basic/index.zh.md" timestamp="1592479578065">
-        <mark key="[" line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/table/index.zh.md" timestamp="1592479582476">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="9" column="0" />
@@ -99,6 +96,30 @@
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/form/index.zh.md" timestamp="1592479631686">
         <mark key="[" line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/i18n.en.md" timestamp="1592472611726">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/table-advance/index.zh.md" timestamp="1592479614378">
+        <mark key="[" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/i18n.zh.md" timestamp="1592472009526">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/customize-theme.zh.md" timestamp="1592471993110">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/customize-theme.en.md" timestamp="1592471989656">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592537679316">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/basic/index.zh.md" timestamp="1592479578065">
+        <mark key="[" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592551016731" />
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/recommendation.en.md" timestamp="1592472005567">
         <mark key="[" line="1" column="8" />
       </file>
@@ -106,35 +127,14 @@
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/recommendation.zh.md" timestamp="1592472002700">
         <mark key="[" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/i18n.en.md" timestamp="1592472611726">
-        <mark key="[" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/table-advance/index.zh.md" timestamp="1592479614378">
-        <mark key="[" line="3" column="3" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/playground/src/App.css" timestamp="1592533303131">
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/i18n.zh.md" timestamp="1592472009526">
-        <mark key="[" line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/tree/index.zh.md" timestamp="1592479658586">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/use-in-typescript.en.md" timestamp="1592471977708">
-        <mark key="[" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/use-in-typescript.zh.md" timestamp="1592471982522">
-        <mark key="[" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/customize-theme.zh.md" timestamp="1592471993110">
-        <mark key="[" line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/CHANGELOG.en.md" timestamp="1592474497806">
-        <mark key="[" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/customize-theme.en.md" timestamp="1592471989656">
         <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/introduction/index.zh.md" timestamp="1592479550188">
@@ -142,11 +142,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592537679316">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/playground/package.json" timestamp="1592534589009">
         <mark key="[" line="8" column="26" />
