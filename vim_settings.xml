@@ -95,9 +95,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/c7n-website/example/docs/other/tutorial/form/index.zh.md" timestamp="1592479631686">
-        <mark key="[" line="5" column="36" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructuralComponentSelector/StructuralComponentSelector.jsx" timestamp="1592560018408">
         <mark key="[" line="52" column="37" />
       </file>
@@ -115,6 +112,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/AppTypeManager/AppTypeManager.jsx" timestamp="1592826817408" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592560341457">
         <mark key="[" line="454" column="39" />
       </file>
@@ -134,8 +132,8 @@
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/form/demo/basic.md" timestamp="1592825842483">
         <mark key="[" line="123" column="39" />
       </file>
-      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/form/demo/record.md" timestamp="1592825876010">
-        <mark key="[" line="65" column="43" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/form/demo/record.md" timestamp="1592826919699">
+        <mark key="[" line="48" column="23" />
       </file>
       <file name="$USER_HOME$/ExploreProject/playground/package.json" timestamp="1592534589009">
         <mark key="[" line="8" column="26" />
