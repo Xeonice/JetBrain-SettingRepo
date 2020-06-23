@@ -92,21 +92,26 @@
         <mark key="[" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592918763756" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592920160891">
-        <mark key="[" line="430" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592923106462">
+        <mark key="[" line="393" column="39" />
+        <mark key="]" line="406" column="31" />
+        <mark key="." line="406" column="30" />
+        <mark key="^" line="406" column="31" />
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/table/query-bar/index.tsx" timestamp="1592916606624" />
       <file name="$USER_HOME$/WorkProject/lowcode-preview/packages/hzero-front-hlod/src/routes/PageDesigner/GridContainer.jsx" timestamp="1592918776655" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/index.js" timestamp="1592920790892">
-        <mark key="[" line="63" column="44" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/index.js" timestamp="1592922175473">
+        <mark key="[" line="116" column="49" />
       </file>
       <file name="$USER_HOME$/ExploreProject/playground/src/index.css" timestamp="1592893625146">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveDataJS.js" timestamp="1592919362111">
-        <mark key="[" line="2" column="46" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useSaveDataJS.js" timestamp="1592922513150">
+        <mark key="[" line="170" column="36" />
+        <mark key="]" line="170" column="36" />
+        <mark key="." line="170" column="36" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/lowcodeGlobal.less" timestamp="1592901235977" />
       <file name="/Button.jsx" timestamp="1592902591546" />
@@ -115,6 +120,9 @@
         <mark key="[" line="165" column="32" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/lowcodeGlobalStyles/global.less" timestamp="1592901219014" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/DefaultEvent/index.jsx" timestamp="1592922710380">
+        <mark key="[" line="262" column="72" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592896740440">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="62" column="0" />
@@ -125,20 +133,15 @@
         <mark key="[" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/ExploreProject/playground/node_modules/gg-editor/typings/index.d.ts" timestamp="1592916507860" />
-      <file name="$USER_HOME$/ExploreProject/playground/src/App.css" timestamp="1592893497648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1592919929874">
         <mark key="[" line="157" column="44" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorDetailPanel/index.less" timestamp="1592893540430" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/BaseComponent/Button/Button.jsx" timestamp="1592902595397">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/stores/eventDs.js" timestamp="1592921991772" />
     </filemarks>
     <jumps>
       <jump line="19" column="13" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/context.js" />
@@ -245,11 +248,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>splice</text>
       </register>
       <register name="-" type="4">
-        <text>TextArea</text>
+        <text>splice</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
