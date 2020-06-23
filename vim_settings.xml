@@ -89,19 +89,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/form/Form.tsx" timestamp="1592877746599" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentTree/store/index.js" timestamp="1592560337710">
-        <mark key="'" line="170" column="16" />
-        <mark key="[" line="170" column="16" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1592886208081">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/base-service-pro/react/src/app/iam/containers/market/SideBar/ApplyForRelease/Store/Step1/VersionNameDataSet.js" timestamp="1592881755238" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorDetailPanel/DetailForm.js" timestamp="1592889145696" />
       <file name="$USER_HOME$/WorkProject/choerodon-ui/tools/getWebpackConfig.js" timestamp="1592825989042" />
+      <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592889120718">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="112" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorDetailPanel/FlowDetailPanel.js" timestamp="1592889270157" />
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/AppTypeManager/AppTypeManager.jsx" timestamp="1592882178497" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1592879813040" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/ModelSelector/ModelSelector.jsx" timestamp="1592882452591">
@@ -230,7 +232,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBbZm9ybUVkaXRTaG93LCBzZXRGb3JtRWRpdFNob3ddID0gdXNlU3RhdGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnZ2ctZWRpdG9yJzsK</text>
       </register>
       <register name="-" type="4">
         <text>Button</text>
@@ -242,31 +244,31 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBbZm9ybUVkaXRTaG93LCBzZXRGb3JtRWRpdFNob3ddID0gdXNlU3RhdGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnZ2ctZWRpdG9yJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBbaXNTYXZlTW9kZWxTb3VyY2UsIHNldElzU2F2ZU1vZGVsU291cmNlXSA9IHVzZVN0YXRlKGZhbHNlKTsgLy8g5piv5ZCm5L+d5a2Y5LqG5pWw5o2u6KeG5Zu+6YWN572uCg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBbZm9ybUVkaXRTaG93LCBzZXRGb3JtRWRpdFNob3ddID0gdXNlU3RhdGUoZmFsc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBbaXNTYXZlTW9kZWxTb3VyY2UsIHNldElzU2F2ZU1vZGVsU291cmNlXSA9IHVzZVN0YXRlKGZhbHNlKTsgLy8g5piv5ZCm5L+d5a2Y5LqG5pWw5o2u6KeG5Zu+6YWN572uCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">c3RjU3RvcmUuY29tcG9uZW50U2V0LmdldChwcm9wc1BhbmVsLmN1cnJlbnRTdGNDb21wb25lbnQpICYmCiAgICAgIHN0Y1N0b3JlLmNvbXBvbmVudFNldC5nZXQocHJvcHNQYW5lbC5jdXJyZW50U3RjQ29tcG9uZW50KS5jb2RlLnNwbGl0KCctJylbMF0gIT09CiAgICAgICdQYWdlQnRuJyAmJiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>451</text>
