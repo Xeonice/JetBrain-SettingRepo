@@ -95,6 +95,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Steps/Steps.jsx" timestamp="1592879748157">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/tools/getWebpackConfig.js" timestamp="1592825989042" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/SideBar.jsx" timestamp="1592554028117">
         <mark key="[" line="74" column="63" />
@@ -105,12 +110,9 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/AppTypeManager/AppTypeManager.jsx" timestamp="1592826817408" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/Card.jsx" timestamp="1592879813040" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592560341457">
         <mark key="[" line="454" column="39" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/playground/src/App.css" timestamp="1592533303131">
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1592553264903">
         <mark key="[" line="67" column="57" />
@@ -123,9 +125,6 @@
       </file>
       <file name="$USER_HOME$/WorkProject/choerodon-ui/components-pro/form/demo/record.md" timestamp="1592826919699">
         <mark key="[" line="48" column="23" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/playground/package.json" timestamp="1592534589009">
-        <mark key="[" line="8" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -233,8 +232,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Button</text>
@@ -245,20 +244,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">c3RjU3RvcmUuY29tcG9uZW50U2V0LmdldChwcm9wc1BhbmVsLmN1cnJlbnRTdGNDb21wb25lbnQpICYmCiAgICAgIHN0Y1N0b3JlLmNvbXBvbmVudFNldC5nZXQocHJvcHNQYW5lbC5jdXJyZW50U3RjQ29tcG9uZW50KS5jb2RlLnNwbGl0KCctJylbMF0gIT09CiAgICAgICdQYWdlQnRuJyAmJiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
