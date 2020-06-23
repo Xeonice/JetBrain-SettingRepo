@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/WorkProject/base-service-pro/react/src/app/iam/containers/market/SideBar/ApplyForRelease/Store/Step1/VersionNameDataSet.js" timestamp="1592881755238" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorDetailPanel/DetailForm.js" timestamp="1592889145696" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/Flow/index.js" timestamp="1592893411064" />
-      <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592895531430">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="36" column="0" />
+      <file name="$USER_HOME$/ExploreProject/playground/src/App.js" timestamp="1592896740440">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="1" column="112" />
-        <mark key="." line="36" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorDetailPanel/FlowDetailPanel.js" timestamp="1592889270157" />
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/AppTypeManager/AppTypeManager.jsx" timestamp="1592882178497" />
@@ -267,22 +267,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2cocmVmKTsKICB9LCBbcmVmLmN1cnJlbnRdKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29tcG9uZW50ID0+IHsKICAgICAgICAgIGlmIChjb21wb25lbnQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2dyYXBoOicsIGNvbXBvbmVudC5ncmFwaC5fZGF0YSk7CiAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2cocmVmKTsKICB9LCBbcmVmLmN1cnJlbnRdKTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29tcG9uZW50ID0+IHsKICAgICAgICAgIGlmIChjb21wb25lbnQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2dyYXBoOicsIGNvbXBvbmVudC5ncmFwaC5fZGF0YSk7CiAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
