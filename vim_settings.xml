@@ -112,7 +112,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1592968291394">
         <mark key="[" line="165" column="32" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/lowcodeGlobalStyles/global.less" timestamp="1592901219014" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/StructureComponentSetting/DefaultEvent/index.jsx" timestamp="1592922710380">
         <mark key="[" line="262" column="72" />
       </file>
@@ -130,7 +129,12 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/stores/eventDs.js" timestamp="1592921991772" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1592966925525">
-        <mark key="[" line="1023" column="35" />
+        <mark key="[" line="1025" column="35" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/StcComponents/Form/store/index.js" timestamp="1592979599158">
+        <mark key="[" line="165" column="11" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -238,8 +242,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>splice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="-" type="4">
         <text>splice</text>
@@ -251,13 +255,13 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmICgvQnV0dG9uLy50ZXN0KGtleSkpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -266,10 +270,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2cocmVmKTsKICB9LCBbcmVmLmN1cnJlbnRdKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29tcG9uZW50ID0+IHsKICAgICAgICAgIGlmIChjb21wb25lbnQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2dyYXBoOicsIGNvbXBvbmVudC5ncmFwaC5fZGF0YSk7CiAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
