@@ -99,14 +99,17 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/RuleEngine/parser.js" timestamp="1593404271625" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/dsEventHandler.js" timestamp="1593421482540" />
+      <file name="$USER_HOME$/WorkProject/market-service/react/config.js" timestamp="1593422409938" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/index.js" timestamp="1593414095843" />
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/ContractManagerContent/index.js" timestamp="1593415022371" />
+      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/common/json-format/JsonFormatter.js" timestamp="1593422502195" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/constant.js" timestamp="1593408957296" />
       <file name="$USER_HOME$/ExploreProject/vscode-dataset-extension/docs/DataSetDoc.js" timestamp="1593417587563" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/DataScopeEngine/operatorHandle.js" timestamp="1593403896277" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/eventEngine.js" timestamp="1593420848551">
         <mark key="[" line="161" column="7" />
       </file>
+      <file name="$USER_HOME$/WorkProject/market-service/gulpfile.js" timestamp="1593422463780" />
     </filemarks>
     <jumps>
       <jump line="19" column="13" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/context.js" />
