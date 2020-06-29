@@ -94,6 +94,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/store/index.js" timestamp="1592967679584">
         <mark key="[" line="27" column="48" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/loaders/eslint-loader.md" timestamp="1593401180673">
+        <mark key="]" line="227" column="2" />
+        <mark key="." line="227" column="2" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592981435133">
         <mark key="[" line="389" column="24" />
         <mark key="]" line="404" column="31" />
@@ -105,7 +109,6 @@
         <mark key="[" line="117" column="24" />
       </file>
       <file name="/service.js" timestamp="1592982555046" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/service.js" timestamp="1592921008147" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/Tabs/Tabs.jsx" timestamp="1592968291394">
         <mark key="[" line="165" column="32" />
       </file>
@@ -116,7 +119,6 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderTab/RenderTab.jsx" timestamp="1592967219803">
         <mark key="[" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/plugins/EventSelector/stores/eventDs.js" timestamp="1592921991772" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/RenderEngine/RenderStructuralComponents/RenderForm/RenderForm.jsx" timestamp="1592966925525">
         <mark key="[" line="1028" column="35" />
       </file>
@@ -227,11 +229,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>splice</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>[</text>
