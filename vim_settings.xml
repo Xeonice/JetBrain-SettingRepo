@@ -94,9 +94,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ContainerComponent/TabPane/store/index.js" timestamp="1592967679584">
         <mark key="[" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/loaders/eslint-loader.md" timestamp="1593401180673">
-        <mark key="]" line="227" column="2" />
-        <mark key="." line="227" column="2" />
+      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/loaders/eslint-loader.md" timestamp="1593403153818">
+        <mark key="[" line="361" column="79" />
+        <mark key="]" line="361" column="80" />
+        <mark key="." line="361" column="80" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/store/index.js" timestamp="1592981435133">
         <mark key="[" line="389" column="24" />
@@ -230,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>。</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
