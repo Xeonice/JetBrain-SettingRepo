@@ -88,30 +88,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/RuleEngine/index.js" timestamp="1593404226637" />
+      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/ContractManagerContent/ContractManagerContent.jsx" timestamp="1593414999055" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/dsEventHandler.js" timestamp="1593421482540" />
+      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/common/json-format/JsonFormatter.js" timestamp="1593422502195" />
+      <file name="$USER_HOME$/ExploreProject/vscode-dataset-extension/docs/DataSetDoc.js" timestamp="1593417587563" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/Item.js" timestamp="1593499664757" />
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/AddAndEditContract/Store/index.js" timestamp="1593414699346" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/routers.js" timestamp="1593485035728">
         <mark key="[" line="138" column="20" />
       </file>
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/ContractManagerContent/Store/index.js" timestamp="1593414981164" />
-      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/ContractManagerContent/ContractManagerContent.jsx" timestamp="1593414999055" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/index.js" timestamp="1593484902059">
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/webpack.js.org/src/content/loaders/eslint-loader.md" timestamp="1593405795011">
-        <mark key="[" line="392" column="182" />
-        <mark key="]" line="384" column="3" />
-        <mark key="." line="384" column="3" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/RuleEngine/parser.js" timestamp="1593404271625" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/dsEventHandler.js" timestamp="1593421482540" />
       <file name="$USER_HOME$/WorkProject/market-service/react/config.js" timestamp="1593422409938" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/index.js" timestamp="1593414095843" />
       <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/CustomerManager/Contract/ContractManagerContent/index.js" timestamp="1593415022371" />
-      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/common/json-format/JsonFormatter.js" timestamp="1593422502195" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/constant.js" timestamp="1593408957296" />
-      <file name="$USER_HOME$/ExploreProject/vscode-dataset-extension/docs/DataSetDoc.js" timestamp="1593417587563" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/DataScopeEngine/operatorHandle.js" timestamp="1593403896277" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/eventEngine.js" timestamp="1593420848551">
         <mark key="[" line="161" column="7" />
       </file>
@@ -222,8 +213,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -235,28 +226,28 @@
         <text encoding="base64">ICA8T3B0aW9uPjE8L09wdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmNob3JQb2ludHM6IFsKICAgICAgICAgICAgICAgIFswLjUsIDFdCiAgICAgICAgICAgICAgXSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlmICgvQnV0dG9uLy50ZXN0KGtleSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXt7CiAgICAgICAgICAgICAgYW5jaG9yUG9pbnRzOiBbCiAgICAgICAgICAgICAgICBbMC41LCAxXQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfX0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmICgvQnV0dG9uLy50ZXN0KGtleSkpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
