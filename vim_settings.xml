@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/Flow/index.tsx" timestamp="1593569821744">
         <mark key="[" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/Item.js" timestamp="1593499664757" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/index.js" timestamp="1593588895327" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/package.json" timestamp="1593505288445">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="16" />
@@ -121,9 +121,10 @@
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/examples/component/item-panel/index.tsx" timestamp="1593567822707" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/command.zh-CN.md" timestamp="1593587734898" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1593589185549" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/examples/register/node/index.tsx" timestamp="1593502488231" />
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593588057721">
-        <mark key="[" line="13" column="37" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593589228076">
+        <mark key="[" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1593588043981" />
     </filemarks>
