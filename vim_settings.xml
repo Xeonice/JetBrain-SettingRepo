@@ -91,22 +91,34 @@
       <file name="$USER_HOME$/ExploreProject/PersonalBlog/src/pages/work.js" timestamp="1593506338477">
         <mark key="[" line="35" column="104" />
       </file>
-      <file name="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/common/json-format/JsonFormatter.js" timestamp="1593422502195" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/Flow/behavior/dragAddNode.ts" timestamp="1593568084668">
+        <mark key="[" line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/Graph/index.tsx" timestamp="1593568021578">
+        <mark key="[" line="136" column="37" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/examples/graph/flow/index.tsx" timestamp="1593567922231">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/Item.tsx" timestamp="1593567608141">
+        <mark key="[" line="28" column="39" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/Flow/index.tsx" timestamp="1593568156339">
+        <mark key="[" line="32" column="36" />
+      </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/Item.js" timestamp="1593499664757" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/package.json" timestamp="1593505288445">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/routers.js" timestamp="1593485035728">
-        <mark key="[" line="138" column="20" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/index.tsx" timestamp="1593567970080">
+        <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/index.js" timestamp="1593484902059">
-        <mark key="[" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/market-service/react/config.js" timestamp="1593422409938" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/examples/component/item-panel/index.tsx" timestamp="1593567822707" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/examples/register/node/index.tsx" timestamp="1593502488231" />
-      <file name="$USER_HOME$/WorkProject/market-service/gulpfile.js" timestamp="1593422463780" />
     </filemarks>
     <jumps>
       <jump line="19" column="13" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/context.js" />
@@ -214,10 +226,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>circle</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>circle</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -229,28 +241,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmNob3JQb2ludHM6IFsKICAgICAgICAgICAgICAgIFswLjUsIDFdCiAgICAgICAgICAgICAgXSw=</text>
+        <text encoding="base64">ICAgICAgICA8SXRlbQogICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaXRlbX0KICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgIHR5cGU6ICdyZWN0JywKICAgICAgICAgICAgc2l6ZTogWzgwLCAyNF0sCiAgICAgICAgICAgIGxhYmVsOiAncmVjdCcsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxpbWcKICAgICAgICAgICAgc3JjPSJodHRwczovL2d3LmFsaWNkbi5jb20vdGZzL1RCMXJlS09uVVQxZ0swalNaRnJYWGNOQ1hYYS0xNzgtNzYucG5nIgogICAgICAgICAgICB3aWR0aD0iODkiCiAgICAgICAgICAgIGhlaWdodD0iMzgiCiAgICAgICAgICAgIGRyYWdnYWJsZT17ZmFsc2V9CiAgICAgICAgICAvPgogICAgICAgIDwvSXRlbT4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SXRlbQogICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaXRlbX0KICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgIHR5cGU6ICdlbGxpcHNlJywKICAgICAgICAgICAgc2l6ZTogWzEwMCwgNTBdLAogICAgICAgICAgICBsYWJlbDogJ2VsbGlwc2UnLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICA8aW1nCiAgICAgICAgICAgIHNyYz0iaHR0cHM6Ly9ndy5hbGljZG4uY29tL3Rmcy9UQjFBdm1WblVIMWdLMGpTWlN5WFhYdGxwWGEtMjE2LTEyNi5wbmciCiAgICAgICAgICAgIHdpZHRoPSIxMDgiCiAgICAgICAgICAgIGhlaWdodD0iNjMiCiAgICAgICAgICAgIGRyYWdnYWJsZT17ZmFsc2V9CiAgICAgICAgICAvPgogICAgICAgIDwvSXRlbT4KICAgICAgICA8SXRlbQogICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaXRlbX0KICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgIHR5cGU6ICdkaWFtb25kJywKICAgICAgICAgICAgc2l6ZTogWzgwLCA4MF0sCiAgICAgICAgICAgIGxhYmVsOiAnZGlhbW9uZCcsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxpbWcKICAgICAgICAgICAgc3JjPSJodHRwczovL2d3LmFsaWNkbi5jb20vdGZzL1RCMUVCOVZuTnoxZ0swalNaU2dYWGF2d3BYYS0xNzgtMTg0LnBuZyIKICAgICAgICAgICAgd2lkdGg9Ijg5IgogICAgICAgICAgICBoZWlnaHQ9IjkyIgogICAgICAgICAgICBkcmFnZ2FibGU9e2ZhbHNlfQogICAgICAgICAgLz4KICAgICAgICA8L0l0ZW0+CiAgICAgICAgPEl0ZW0KICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLml0ZW19CiAgICAgICAgICBtb2RlbD17ewogICAgICAgICAgICB0eXBlOiAndHJpYW5nbGUnLAogICAgICAgICAgICBzaXplOiBbMzAsIDMwXSwKICAgICAgICAgICAgbGFiZWw6ICd0cmlhbmdsZScsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxpbWcKICAgICAgICAgICAgc3JjPSJodHRwczovL2d3LmFsaWNkbi5jb20vdGZzL1RCMTJzQzJuS0gyZ0swalNaSm5YWGFUMUZYYS0xMjYtMTU2LnBuZyIKICAgICAgICAgICAgd2lkdGg9IjYzIgogICAgICAgICAgICBoZWlnaHQ9Ijc4IgogICAgICAgICAgICBkcmFnZ2FibGU9e2ZhbHNlfQogICAgICAgICAgLz4KICAgICAgICA8L0l0ZW0+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXt7CiAgICAgICAgICAgICAgYW5jaG9yUG9pbnRzOiBbCiAgICAgICAgICAgICAgICBbMC41LCAxXQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfX0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmNob3JQb2ludHM6IFsKICAgICAgICAgICAgICAgIFswLjUsIDFdCiAgICAgICAgICAgICAgXSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlmICgvQnV0dG9uLy50ZXN0KGtleSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnPXt7CiAgICAgICAgICAgICAgYW5jaG9yUG9pbnRzOiBbCiAgICAgICAgICAgICAgICBbMC41LCAxXQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfX0=</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
