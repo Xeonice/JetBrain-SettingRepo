@@ -120,7 +120,12 @@
         <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/examples/component/item-panel/index.tsx" timestamp="1593567822707" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/command.zh-CN.md" timestamp="1593587734898" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/examples/register/node/index.tsx" timestamp="1593502488231" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593588057721">
+        <mark key="[" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1593588043981" />
     </filemarks>
     <jumps>
       <jump line="19" column="13" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/context.js" />
