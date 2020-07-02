@@ -88,30 +88,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/index.less" timestamp="1593677540526">
-        <mark key="[" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/SideBar.jsx" timestamp="1593676713750">
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593677398527">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/index.js" timestamp="1593681073507">
         <mark key="[" line="35" column="20" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/Node/Node.jsx" timestamp="1593677617094">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593681989497">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593677883658">
-        <mark key="[" line="2" column="15" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593681433331">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.less" timestamp="1593678847584" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/src/pages/Flow/index.js" timestamp="1593677724128" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/Node/index.js" timestamp="1593676890271">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorItemPanel/FlowItemPanel.js" timestamp="1593680535884" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/index.less" timestamp="1593679788170">
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1593679838569">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593677697811" />
     </filemarks>
@@ -242,7 +243,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3NOYW1lPXtgJHtpY29uZm9udC5pY29uZm9udH0gJHtpY29uZm9udC5pY29uWm9vbU91dE99YH0gLz4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -260,7 +261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc2VhcmNoSW5pdCA9IChzdG9yZSkgPT4gKG5vZGUpID0+IHsKICBpZiAoIXN0b3JlLmN1cnJlbnRQYXR0ZXJuKSB7CiAgICByZXR1cm4gdHJ1ZTsKICB9CiAgY29uc3QgcGF0dGVybiA9IG5ldyBSZWdFeHAoc3RvcmUuY3VycmVudFBhdHRlcm4pOwogIHJldHVybiBwYXR0ZXJuLnRlc3Qobm9kZS50ZXh0KTsKfTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
