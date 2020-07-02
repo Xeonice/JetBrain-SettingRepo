@@ -6,12 +6,13 @@
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="issueFlowTest" type="Jest Snapshot" />
       <mapping ext="mp4" type="Native" />
-      <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
-      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping pattern="index。js" type="PLAIN_TEXT" />
+      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
+      <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
       <mapping pattern="choerodon-front-boot-test" type="PLAIN_TEXT" />
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping pattern="IssueItem" type="TypeScript JSX" />
+      <mapping pattern="SelectOption" type="TypeScript JSX" />
       <removed_mapping pattern=".md" approved="true" type="Markdown" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
