@@ -88,33 +88,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/index.js" timestamp="1593681073507">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/README_lowcode.md" timestamp="1593762494303" />
+      <file name="$USER_HOME$/WorkProject/choerodon-ui/components/grid/row.tsx" timestamp="1593760737587" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593681989497">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593755820950">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593760423168">
+        <mark key="[" line="54" column="38" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.less" timestamp="1593682897784" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/src/pages/Flow/index.js" timestamp="1593677724128" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.less" timestamp="1593761809352" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/lib/grid/row.js" timestamp="1593760760787" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/index.less" timestamp="1593761648648" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/gg-editor/typings/index.d.ts" timestamp="1593758140478" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorItemPanel/FlowItemPanel.js" timestamp="1593680535884" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/index.less" timestamp="1593679788170">
         <mark key="[" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1593679838569">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/package.json" timestamp="1593762391122">
+        <mark key="[" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593677697811" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1593762299335">
+        <mark key="[" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593761932314" />
     </filemarks>
     <jumps>
       <jump line="3" column="38" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/InfiniteScrollHOC.jsx" />
@@ -222,7 +220,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPgo=</text>
       </register>
       <register name="-" type="4">
         <text>default</text>
@@ -237,25 +235,25 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3NOYW1lPXtgJHtpY29uZm9udC5pY29uZm9udH0gJHtpY29uZm9udC5pY29uWm9vbU91dE99YH0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9HR0VkaXRvcj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0dHRWRpdG9yPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
