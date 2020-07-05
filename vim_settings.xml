@@ -96,45 +96,49 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1593784815079">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/StartEndNode.js" timestamp="1593934994218">
+        <mark key="[" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1593930175538">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1593785303181">
-        <mark key="[" line="12" column="2" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1593934525349">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593785248656">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593932991911">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/index.js" timestamp="1593767328449">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Koni/shape/nodes/KoniCustomNode.js" timestamp="1593931794963" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/Node/Node.jsx" timestamp="1593932961551">
+        <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593770489613" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorContextMenu/FlowContextMenu.js" timestamp="1593766670631" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/index.js" timestamp="1593934980391">
+        <mark key="[" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1593935343598">
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1593935884754" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/flowStartAndEnd.js" timestamp="1593934149926" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectList.jsx" timestamp="1593765725946">
         <mark key="[" line="3" column="53" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/playground/src/index.css" timestamp="1593763227506">
-        <mark key="[" line="0" column="6" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/EndNode.js" timestamp="1593934898439">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/index.less" timestamp="1593763500686" />
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/index.html" timestamp="1593765194496" />
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Koni/shape/nodes/KoniCustomNode.js" timestamp="1593768323811" />
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/EditorItemPanel/KoniItemPanel.js" timestamp="1593768592176" />
-      <file name="$USER_HOME$/ExploreProject/playground/src/App.css" timestamp="1593763221442" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorContextMenu/index.less" timestamp="1593765582514">
-        <mark key="[" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1593764615954">
-        <mark key="[" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Flow/index.js" timestamp="1593766942133" />
-      <file name="/NodeList.jsx" timestamp="1593771086731" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1593935460501" />
     </filemarks>
     <jumps>
       <jump line="3" column="38" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/InfiniteScrollHOC.jsx" />
@@ -241,8 +245,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>4892184950812390589231895048123984觉得索科洛夫监考老师的肌肤框架撒的快乐逻辑</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>4892184950812390589231895048123984觉得索科洛夫监考老师的肌肤框架撒的快乐逻辑</text>
@@ -260,10 +264,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgICAgICBzaXplPSIyMCIKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPSJmbG93LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGNEM0QycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkFDNEM0JywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2U6ICcjRkY0QzRDJywKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBzcmM9IiI=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,16 +276,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJdGVtCiAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgIHNpemU9IjQwIgogICAgICAgICAgICAgICAgICBzaGFwZT0iZmxvd05vZGUiCiAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjQjM3RkVCJywKICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ0NvdW50cnknLAogICAgICAgICAgICAgICAgICAgIGxhYmVsT2Zmc2V0WTogMjgsCiAgICAgICAgICAgICAgICAgICAgaWNvbjogJ2h0dHBzOi8vZ3cuYWxpcGF5b2JqZWN0cy5jb20vem9zL3Jtc3BvcnRhbC96QnlhQ2tCS1BhY3ZnSnFGZ3R3eS5zdmcnLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8c3Bhbj5UZXN0Mjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPHNwYW4+VGVzdDwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvSXRlbT4=</text>
+        <text encoding="base64">ICAgICAgbGFiZWxPYmoudHJhbnNsYXRlKHggKyAyMCwgMCk7CiAgICAgIGxhYmVsT2JqLnRvRnJvbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBnZXRQYXRoID0gKGNmZykgPT4gewogICAgY29uc3Qgc2l6ZSA9IGNmZy5zaXplIHx8IFs0MCwgNDBdOyAvLyDlpoLmnpzmsqHmnIkgc2l6ZSDml7bnmoTpu5jorqTlpKflsI8KICAgIGNvbnN0IHdpZHRoID0gc2l6ZVswXTsKICAgIGNvbnN0IGhlaWdodCA9IHNpemVbMV07CiAgICAvLyAgLyAxIFwKICAgIC8vIDQgICAgIDIKICAgIC8vICBcIDMgLwogICAgY29uc3QgcGF0aCA9IFsKICAgICAgWydNJywgMCwgMCAtIGhlaWdodCAvIDJdLCAvLyDkuIrpg6jpobbngrkKICAgICAgWydMJywgd2lkdGggLyAyLCAwXSwgLy8g5Y+z5L6n6aG254K5CiAgICAgIFsnTCcsIDAsIGhlaWdodCAvIDJdLCAvLyDkuIvpg6jpobbngrkKICAgICAgWydMJywgLXdpZHRoIC8gMiwgMF0sIC8vIOW3puS+p+mhtueCuQogICAgICBbJ1onXSwgLy8g5bCB6ZetCiAgICBdOwogICAgcmV0dXJuIHBhdGg7CiAgfTsKICBjb25zdCBjb25maWcgPSB7CiAgICBkcmF3KGNmZywgZ3JvdXApIHsKICAgICAgLy8g5aaC5p6cIGNmZyDkuK3lrprkuYnkuoYgc3R5bGUg6ZyA6KaB5ZCM6L+Z6YeM55qE5bGe5oCn6L+b6KGM6J6N5ZCICiAgICAgIGNvbnN0IGtleVNoYXBlID0gZ3JvdXAuYWRkU2hhcGUoJ3BhdGgnLCB7CiAgICAgICAgYXR0cnM6IHsKICAgICAgICAgIHBhdGg6IGdldFBhdGgoY2ZnKSwgLy8g5qC55o2u6YWN572u6I635Y+W6Lev5b6ECiAgICAgICAgICBzdHJva2U6IGNmZy5jb2xvciwgLy8g6aKc6Imy5bqU55So5Yiw5o+P6L655LiK77yM5aaC5p6c5bqU55So5Yiw5aGr5YWF77yM5YiZ5L2/55SoIGZpbGw6IGNmZy5jb2xvcgogICAgICAgIH0sCiAgICAgICAgLy8gbXVzdCBiZSBhc3NpZ25lZCBpbiBHNiAzLjMgYW5kIGxhdGVyIHZlcnNpb25zLiBpdCBjYW4gYmUgYW55IHZhbHVlIHlvdSB3YW50CiAgICAgICAgbmFtZTogJ3BhdGgtc2hhcGUnLAogICAgICAgIC8vIOiuvue9riBkcmFnZ2FibGUg5Lul5YWB6K645ZON5bqU6byg5qCH55qE5Zu+5ou95LqL5Lu2CiAgICAgICAgZHJhZ2dhYmxlOiB0cnVlLAogICAgICB9KTsKICAgICAgaWYgKGNmZy5sYWJlbCkgewogICAgICAgIC8vIOWmguaenOacieaWh+acrAogICAgICAgIC8vIOWmguaenOmcgOimgeWkjeadgueahOaWh+acrOmFjee9rumhue+8jOWPr+S7pemAmui/hyBsYWJlQ2ZnIOS8oOWFpQogICAgICAgIC8vIGNvbnN0IHN0eWxlID0gKGNmZy5sYWJlbENmZyAmJiBjZmcubGFiZWxDZmcuc3R5bGUpIHx8IHt9OwogICAgICAgIC8vIHN0eWxlLnRleHQgPSBjZmcubGFiZWw7CiAgICAgICAgY29uc3QgbGFiZWwgPSBncm91cC5hZGRTaGFwZSgndGV4dCcsIHsKICAgICAgICAgIC8vIGF0dHJzOiBzdHlsZQogICAgICAgICAgYXR0cnM6IHsKICAgICAgICAgICAgeDogMCwgLy8g5bGF5LitCiAgICAgICAgICAgIHk6IDAsCiAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgIHRleHRCYXNlbGluZTogJ21pZGRsZScsCiAgICAgICAgICAgIHRleHQ6IGNmZy5sYWJlbCwKICAgICAgICAgICAgZmlsbDogJyM2NjYnLAogICAgICAgICAgfSwKICAgICAgICAgIC8vIG11c3QgYmUgYXNzaWduZWQgaW4gRzYgMy4zIGFuZCBsYXRlciB2ZXJzaW9ucy4gaXQgY2FuIGJlIGFueSB2YWx1ZSB5b3Ugd2FudAogICAgICAgICAgbmFtZTogJ3RleHQtc2hhcGUnLAogICAgICAgICAgLy8g6K6+572uIGRyYWdnYWJsZSDku6XlhYHorrjlk43lupTpvKDmoIfnmoTlm77mi73kuovku7YKICAgICAgICAgIGRyYWdnYWJsZTogdHJ1ZSwKICAgICAgICB9KTsKICAgICAgfQogICAgICByZXR1cm4ga2V5U2hhcGU7CiAgICB9LAogIH07</text>
+        <text encoding="base64">CiAgICAgIC8vIOexu+WeiyBsb2dvCiAgICAgIGdyb3VwLmFkZFNoYXBlKCdpbWFnZScsIHsKICAgICAgICBhdHRyczogewogICAgICAgICAgaW1nOiBlbmQsCiAgICAgICAgICB4OiB4ICsgNCwKICAgICAgICAgIHk6IC03LAogICAgICAgICAgd2lkdGg6IDE0LAogICAgICAgICAgaGVpZ2h0OiAxNCwKICAgICAgICB9LAogICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
