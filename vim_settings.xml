@@ -101,7 +101,10 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593784546430">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1593785303181">
+        <mark key="[" line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1593785248656">
         <mark key="[" line="39" column="32" />
         <mark key="]" line="39" column="32" />
         <mark key="." line="39" column="32" />
@@ -238,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4892184950812390589231895048123984觉得索科洛夫监考老师的肌肤框架撒的快乐逻辑</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>4892184950812390589231895048123984觉得索科洛夫监考老师的肌肤框架撒的快乐逻辑</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
