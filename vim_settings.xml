@@ -96,12 +96,8 @@
         <mark key="]" line="73" column="19" />
         <mark key="." line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1593930175538">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1593934525349">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventEngineService.js" timestamp="1594005694826" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1594005092515">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -111,7 +107,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/pages/Koni/shape/nodes/KoniCustomNode.js" timestamp="1593931794963" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventFlowService.js" timestamp="1594006272391">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useSaveData.js" timestamp="1594001082128">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
@@ -123,7 +123,7 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/index.js" timestamp="1593934980391">
         <mark key="[" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1594004344566">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1594006360325">
         <mark key="[" line="80" column="10" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -250,10 +250,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>useLoadData</text>
+        <text>addEventFlow</text>
       </register>
       <register name="-" type="4">
-        <text>useLoadData</text>
+        <text>addEventFlow</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -265,31 +265,31 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIOagueaNruWxleeOsOWxgueahOS6i+S7tmNvZGXmn6Xor6bnu4bkuovku7bkv6Hmga8KICogQGV4cG9ydAogKiBAcGFyYW0geyp9IGJvZHkKICogQHBhcmFtIHsqfSBhcHBJZAogKiBAcmV0dXJucwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHF1ZXJ5RXZlbnRzQnlDb2Rlcyhib2R5LCBhcHBJZCA9IGdldEFwcElkKCkpIHsKICByZXR1cm4gcmVxdWVzdChgJHtBUElfSE9TVH0vJHtsb3djb2RlT3JnYW5pemF0aW9uVVJMKCl9L2V2ZW50LWNvbC1oZWFkZXJzYCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7CiAgICAgICdhcHAtaWQnOiBhcHBJZCwKICAgICAgJ2RyYWZ0LWZsYWcnOiBnZXREcmFmdEZsYWcoKSwKICAgIH0sCiAgICBib2R5OiBib2R5Lm1hcChpdGVtID0+IHsKICAgICAgY29uc3QgeyBldmVudENvZGUsIGV2ZW50Q29sbGVjdGlvbiB9ID0gaXRlbTsKICAgICAgcmV0dXJuIHsgZXZlbnRDb2RlLCBldmVudENvbGxlY3Rpb24gfTsKICAgIH0pLAogIH0pOwp9</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgICAgICBzaXplPSIyMCIKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPSJmbG93LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGNEM0QycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkFDNEM0JywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2U6ICcjRkY0QzRDJywKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBzcmM9IiI=</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgICAgICBzaXplPSIyMCIKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPSJmbG93LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGNEM0QycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkFDNEM0JywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2U6ICcjRkY0QzRDJywKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBzcmM9IiI=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWxPYmoudHJhbnNsYXRlKHggKyAyMCwgMCk7CiAgICAgIGxhYmVsT2JqLnRvRnJvbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGFiZWxPYmoudHJhbnNsYXRlKHggKyAyMCwgMCk7CiAgICAgIGxhYmVsT2JqLnRvRnJvbnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8vIOexu+WeiyBsb2dvCiAgICAgIGdyb3VwLmFkZFNoYXBlKCdpbWFnZScsIHsKICAgICAgICBhdHRyczogewogICAgICAgICAgaW1nOiBlbmQsCiAgICAgICAgICB4OiB4ICsgNCwKICAgICAgICAgIHk6IC03LAogICAgICAgICAgd2lkdGg6IDE0LAogICAgICAgICAgaGVpZ2h0OiAxNCwKICAgICAgICB9LAogICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8vIOexu+WeiyBsb2dvCiAgICAgIGdyb3VwLmFkZFNoYXBlKCdpbWFnZScsIHsKICAgICAgICBhdHRyczogewogICAgICAgICAgaW1nOiBlbmQsCiAgICAgICAgICB4OiB4ICsgNCwKICAgICAgICAgIHk6IC03LAogICAgICAgICAgd2lkdGg6IDE0LAogICAgICAgICAgaGVpZ2h0OiAxNCwKICAgICAgICB9LAogICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
