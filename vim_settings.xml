@@ -88,6 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594025492627" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/StartEndNode.js" timestamp="1593934994218">
         <mark key="[" line="5" column="18" />
       </file>
@@ -102,7 +103,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594000593581">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594025246315">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -127,14 +128,13 @@
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/utils/useLoadDataJS.js" timestamp="1594000963634" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1593935884754" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/flowStartAndEnd.js" timestamp="1593934149926" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useAddData.js" timestamp="1594021707229">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594021596537">
-        <mark key="[" line="3" column="42" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594025249849">
+        <mark key="[" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594002167401">
         <mark key="[" line="0" column="0" />
@@ -251,8 +251,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>useSaveData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxIZWFkZXIKICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaGVhZGVyfQogICAgICAgICAgICB0aXRsZT17KAogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGhpc3RvcnkuYmFjaygpfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIOWbnumAgAogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICApfQogICAgICAgICAgPgogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2F2ZSgpfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAg5L+d5a2YCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9IZWFkZXI+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywKICAgICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7Lyog5bem5L6n55qE5LqL5Lu25rWBVHJlZSAqL30KICAgICAgICAgICAgPFNlbGVjdExpc3QgLz4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICBoZWlnaHQ6ICcxMDAlJywKICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHsvKiDkuK3pl7TnmoTmtYHnqIvlm77nvJbovpHlmaggKi99CiAgICAgICAgICAgICAgPEZsb3dEZXNpZ25lciAvPgogICAgICAgICAgICAgIHsvKiDlj7PkvqfnmoToioLngrnlsZ7mgKfpnaLmnb8gKi99CiAgICAgICAgICAgICAgPFNpZGVCYXIgLz4KICAgICAgICAgICAgICA8Rmxvd0NvbnRleHRNZW51IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9TdG9yZVByb3ZpZGVyPgogICAgICA8L0dHRWRpdG9yPgogICAgPC9Mb3djb2RlTGF5b3V0Pg==</text>
       </register>
       <register name="-" type="4">
         <text>useSaveData</text>
@@ -267,31 +267,40 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIOagueaNruWxleeOsOWxgueahOS6i+S7tmNvZGXmn6Xor6bnu4bkuovku7bkv6Hmga8KICogQGV4cG9ydAogKiBAcGFyYW0geyp9IGJvZHkKICogQHBhcmFtIHsqfSBhcHBJZAogKiBAcmV0dXJucwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHF1ZXJ5RXZlbnRzQnlDb2Rlcyhib2R5LCBhcHBJZCA9IGdldEFwcElkKCkpIHsKICByZXR1cm4gcmVxdWVzdChgJHtBUElfSE9TVH0vJHtsb3djb2RlT3JnYW5pemF0aW9uVVJMKCl9L2V2ZW50LWNvbC1oZWFkZXJzYCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7CiAgICAgICdhcHAtaWQnOiBhcHBJZCwKICAgICAgJ2RyYWZ0LWZsYWcnOiBnZXREcmFmdEZsYWcoKSwKICAgIH0sCiAgICBib2R5OiBib2R5Lm1hcChpdGVtID0+IHsKICAgICAgY29uc3QgeyBldmVudENvZGUsIGV2ZW50Q29sbGVjdGlvbiB9ID0gaXRlbTsKICAgICAgcmV0dXJuIHsgZXZlbnRDb2RlLCBldmVudENvbGxlY3Rpb24gfTsKICAgIH0pLAogIH0pOwp9</text>
+        <text encoding="base64">ICAgICAgICAgIDxIZWFkZXIKICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaGVhZGVyfQogICAgICAgICAgICB0aXRsZT17KAogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGhpc3RvcnkuYmFjaygpfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIOWbnumAgAogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICApfQogICAgICAgICAgPgogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2F2ZSgpfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAg5L+d5a2YCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9IZWFkZXI+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywKICAgICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICB7Lyog5bem5L6n55qE5LqL5Lu25rWBVHJlZSAqL30KICAgICAgICAgICAgPFNlbGVjdExpc3QgLz4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICBoZWlnaHQ6ICcxMDAlJywKICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHsvKiDkuK3pl7TnmoTmtYHnqIvlm77nvJbovpHlmaggKi99CiAgICAgICAgICAgICAgPEZsb3dEZXNpZ25lciAvPgogICAgICAgICAgICAgIHsvKiDlj7PkvqfnmoToioLngrnlsZ7mgKfpnaLmnb8gKi99CiAgICAgICAgICAgICAgPFNpZGVCYXIgLz4KICAgICAgICAgICAgICA8Rmxvd0NvbnRleHRNZW51IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9TdG9yZVByb3ZpZGVyPgogICAgICA8L0dHRWRpdG9yPgogICAgPC9Mb3djb2RlTGF5b3V0Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>import { Header } from 'components/Page';
+import SelectList from '@/routes/EventFlowDesigner/SelectList';
+import styles from '@/routes/PageDesigner/index.less';
+import LowcodeLayout from '@/components/LowcodeLayout';
+import FlowDesigner from '@/routes/EventFlowDesigner/FlowDesigner';
+import SideBar from '@/routes/EventFlowDesigner/SideBar';
+import GGEditor from &quot;gg-editor&quot;;
+import { FlowContextMenu } from '@/routes/EventFlowDesigner/FlowDesigner/components/EditorContextMenu';
+import useLoadData from '@/routes/EventFlowDesigner/utils/useLoadData';
+import useSaveData from '@/routes/EventFlowDesigner/utils/useSaveData';</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">LyoqCiAqIOagueaNruWxleeOsOWxgueahOS6i+S7tmNvZGXmn6Xor6bnu4bkuovku7bkv6Hmga8KICogQGV4cG9ydAogKiBAcGFyYW0geyp9IGJvZHkKICogQHBhcmFtIHsqfSBhcHBJZAogKiBAcmV0dXJucwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHF1ZXJ5RXZlbnRzQnlDb2Rlcyhib2R5LCBhcHBJZCA9IGdldEFwcElkKCkpIHsKICByZXR1cm4gcmVxdWVzdChgJHtBUElfSE9TVH0vJHtsb3djb2RlT3JnYW5pemF0aW9uVVJMKCl9L2V2ZW50LWNvbC1oZWFkZXJzYCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7CiAgICAgICdhcHAtaWQnOiBhcHBJZCwKICAgICAgJ2RyYWZ0LWZsYWcnOiBnZXREcmFmdEZsYWcoKSwKICAgIH0sCiAgICBib2R5OiBib2R5Lm1hcChpdGVtID0+IHsKICAgICAgY29uc3QgeyBldmVudENvZGUsIGV2ZW50Q29sbGVjdGlvbiB9ID0gaXRlbTsKICAgICAgcmV0dXJuIHsgZXZlbnRDb2RlLCBldmVudENvbGxlY3Rpb24gfTsKICAgIH0pLAogIH0pOwp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgICAgICBzaXplPSIyMCIKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPSJmbG93LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGNEM0QycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkFDNEM0JywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2U6ICcjRkY0QzRDJywKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBzcmM9IiI=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im5vZGUiCiAgICAgICAgICAgICAgICAgICAgICBzaXplPSIyMCIKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPSJmbG93LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGNEM0QycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkFDNEM0JywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2U6ICcjRkY0QzRDJywKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBzcmM9IiI=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWxPYmoudHJhbnNsYXRlKHggKyAyMCwgMCk7CiAgICAgIGxhYmVsT2JqLnRvRnJvbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIC8vIOexu+WeiyBsb2dvCiAgICAgIGdyb3VwLmFkZFNoYXBlKCdpbWFnZScsIHsKICAgICAgICBhdHRyczogewogICAgICAgICAgaW1nOiBlbmQsCiAgICAgICAgICB4OiB4ICsgNCwKICAgICAgICAgIHk6IC03LAogICAgICAgICAgd2lkdGg6IDE0LAogICAgICAgICAgaGVpZ2h0OiAxNCwKICAgICAgICB9LAogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgbGFiZWxPYmoudHJhbnNsYXRlKHggKyAyMCwgMCk7CiAgICAgIGxhYmVsT2JqLnRvRnJvbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
