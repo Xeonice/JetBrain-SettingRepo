@@ -88,6 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/hzero-front/lib/utils/request.js" timestamp="1594121306110" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/index.less" timestamp="1594119006905">
         <mark key="[" line="12" column="32" />
       </file>
@@ -104,8 +105,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventFlowService.js" timestamp="1594107420159">
-        <mark key="[" line="43" column="31" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventFlowService.js" timestamp="1594121221877">
+        <mark key="[" line="43" column="48" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
@@ -117,21 +118,16 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/HeaderComponent/HeaderComponent.jsx" timestamp="1594105810573">
-        <mark key="[" line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1594109346037" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useAddData.js" timestamp="1594119057620">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/EmptyPage.jsx" timestamp="1594119733159">
-        <mark key="[" line="9" column="6" />
-      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/EmptyPage.jsx" timestamp="1594120526064" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594119032587">
         <mark key="[" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/utils/ImgIcon/imgIcon.js" timestamp="1594120309606" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594113343338">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="44" column="0" />
@@ -244,7 +240,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Select</text>
@@ -259,13 +255,13 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -280,11 +276,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdXRvcnVuKCgpID0+IHsKICAgIGRlYnVnZ2VyOwogICAgcmVmcmVzaEZsb3coKTsKICB9KTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    if</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
