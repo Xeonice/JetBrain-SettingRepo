@@ -123,7 +123,7 @@
         <mark key="[" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/BaseComponentSetting.jsx" timestamp="1594103973251" />
-      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1594105702199" />
+      <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1594109346037" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/SideBar/BaseComponentSetting/EditorPlugin.jsx" timestamp="1594104295572">
         <mark key="[" line="130" column="67" />
         <mark key="]" line="130" column="63" />
@@ -141,8 +141,10 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectList.jsx" timestamp="1594092231223">
         <mark key="[" line="60" column="91" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594109134835">
-        <mark key="[" line="15" column="13" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594110228328">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594107428398">
         <mark key="[" line="19" column="32" />
@@ -283,14 +285,14 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBhdXRvcnVuKCgpID0+IHsKICAgIGRlYnVnZ2VyOwogICAgcmVmcmVzaEZsb3coKTsKICB9KTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
     if</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
