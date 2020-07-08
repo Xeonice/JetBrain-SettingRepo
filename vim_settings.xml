@@ -94,11 +94,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594198671082" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/InitGraphData.js" timestamp="1594191614363">
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1594192196614">
-        <mark key="[" line="11" column="23" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeList.js" timestamp="1594198698584">
+        <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -119,6 +120,9 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectOption/SelectOption.jsx" timestamp="1594198934659">
+        <mark key="[" line="27" column="36" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/utils.js" timestamp="1594189858485">
         <mark key="[" line="22" column="20" />
       </file>
@@ -128,18 +132,12 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/NodeDetail/index.js" timestamp="1594189030145" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594194959326">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1594189104054" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594182760262">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="38" filename="$USER_HOME$/WorkProject/market-service/react/src/app/marketService/containers/global/InfiniteScrollHOC/InfiniteScrollHOC.jsx" />
