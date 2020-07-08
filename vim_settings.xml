@@ -89,15 +89,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/SideBar.jsx" timestamp="1594189195322" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594174019973">
-        <mark key="[" line="16" column="42" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594194415907">
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/index.js" timestamp="1594191134499">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594176164476" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventEngineService.js" timestamp="1594174645773" />
@@ -121,20 +120,25 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/utils.js" timestamp="1594189858485">
         <mark key="[" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/HeaderComponent/HeaderComponent.jsx" timestamp="1594188935508">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/HeaderComponent/HeaderComponent.jsx" timestamp="1594194105750">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/NodeDetail/index.js" timestamp="1594189030145" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594191247224">
-        <mark key="[" line="60" column="8" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594194959326">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1594123531083">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594189880075">
-        <mark key="[" line="7" column="63" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594194971836">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1594189104054" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594182760262">
@@ -248,8 +252,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -267,10 +271,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFwcElkOiAwCiAgICAvLyBjcmVhdGVkQnk6IDUwMTMKICAgIC8vIGNyZWF0aW9uRGF0ZTogIjIwMjAtMDctMDYgMTA6MjM6MjEiCiAgICAvLyBjdXN0b21pemVGbGFnOiAxCiAgICAvLyBkaXNwbGF5SnNvbjoKICAgIC8vICAgZWRnZUxpc3Q6IFt74oCmfV0KICAgIC8vIG5vZGVMaXN0OiAoMikgW3vigKZ9LCB74oCmfV0KICAgIC8vIF9fcHJvdG9fXzogT2JqZWN0CiAgICAvLyBldmVudEZsb3dOb2RlczogQXJyYXkoMikKICAgIC8vIDA6CiAgICAvLyBjaGlsZHJlbk5vZGU6ICI0ODFmYmIxYSIKICAgIC8vIGV2ZW50VHlwZTogIlNUQVJUIgogICAgLy8gZmxvd0NvZGU6ICJGTE9XLTg0OTMyNDkwMjQwMjk0IgogICAgLy8gbm9kZUNvZGU6ICJlYTExODRlOCIKICAgIC8vIG5vZGVOYW1lOiAi5byA5aeLIgogICAgLy8gX19wcm90b19fOiBPYmplY3QKICAgIC8vIDE6CiAgICAvLyBjaGlsZHJlbk5vZGU6IHVuZGVmaW5lZAogICAgLy8gZXZlbnRUeXBlOiAiRU5EIgogICAgLy8gZmxvd0NvZGU6ICJGTE9XLTg0OTMyNDkwMjQwMjk0IgogICAgLy8gbm9kZUNvZGU6ICI0ODFmYmIxYSIKICAgIC8vIG5vZGVOYW1lOiAi57uT5p2fIgogICAgLy8gX19wcm90b19fOiBPYmplY3QKICAgIC8vIGxlbmd0aDogMgogICAgLy8gX19wcm90b19fOiBBcnJheSgwKQogICAgLy8gZmxvd0NvZGU6ICJGTE9XLTg0OTMyNDkwMjQwMjk0IgogICAgLy8gZmxvd0lkOiAzMwogICAgLy8gZmxvd05hbWU6ICJmbG93TmFtZTEiCiAgICAvLyBsYXN0VXBkYXRlRGF0ZTogIjIwMjAtMDctMDYgMTA6MjM6MjEiCiAgICAvLyBsYXN0VXBkYXRlZEJ5OiA1MDEzCiAgICAvLyBvYmplY3RWZXJzaW9uTnVtYmVyOiAxCiAgICAvLyBwYWdlQ29kZTogIlBBR0UtMSIKICAgIC8vIHJlbWFyazogIuS4gOauteaPj+i/sCIKICAgIC8vIHRlbmFudElkOiAwCiAgICAvLyBfdG9rZW46ICJ1UjEraE85d3lubXJkM21ObzZrRGtpdTZUOXU5U3M3N2F6N1NidS8xc1ZuTWJQRmw4czdhWWNXYnBvZmErOVFJZno2dVpzTGZJRFUvSzB4QTU1ZzFqU3RCbmRJZ1pvME1tYmJyTXMzQW43OD0iCiAgICAvLyBfX3Byb3RvX186IE9iamVjdA==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,7 +286,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
