@@ -89,17 +89,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/SideBar.jsx" timestamp="1594189195322" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594194415907">
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/index.js" timestamp="1594191134499">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594176164476" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/services/eventEngineService.js" timestamp="1594174645773" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/InitGraphData.js" timestamp="1594191614363">
         <mark key="[" line="3" column="20" />
       </file>
@@ -108,7 +102,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/package.json" timestamp="1594124381172" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594176462957">
         <mark key="[" line="34" column="24" />
       </file>
@@ -116,6 +109,15 @@
         <mark key="[" line="22" column="39" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594194971836">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594194415907">
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/utils.js" timestamp="1594189858485">
         <mark key="[" line="22" column="20" />
@@ -131,14 +133,6 @@
         <mark key="[" line="0" column="21" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/EditorToolbar/FlowToolbar.js" timestamp="1594123531083">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594194971836">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/pageEvents.zh-CN.md" timestamp="1594189104054" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594182760262">
