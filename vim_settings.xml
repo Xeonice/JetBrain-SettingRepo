@@ -108,15 +108,15 @@
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594306263405">
         <mark key="[" line="40" column="41" />
       </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/modalHandler.js" timestamp="1594368738967" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/NodePropsPanel.jsx" timestamp="1594305095490">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/HeaderComponent/HeaderComponent.jsx" timestamp="1594282518097" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/components/NodeDetail/index.js" timestamp="1594282633150" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/dsEventHandler.js" timestamp="1594368936876" />
       <file name="$USER_HOME$/ExploreProject/GGEditor/demo/src/components/NodeDetail/index.js" timestamp="1594283801593" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/eventEngine.js" timestamp="1594367711449">
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/eventEngine.js" timestamp="1594368721894">
         <mark key="[" line="161" column="7" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594357888844">
