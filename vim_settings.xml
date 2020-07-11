@@ -88,46 +88,57 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594448511527">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/SideBar.jsx" timestamp="1594454593423">
+        <mark key="[" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/routers.js" timestamp="1594358968219">
-        <mark key="[" line="142" column="3" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594454537382">
+        <mark key="[" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/NodePropsPanel.jsx" timestamp="1594305095490">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/pro/lib/form/Form.d.ts" timestamp="1594455914517" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/index.js" timestamp="1594456475997">
+        <mark key="[" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectOption/SelectOption.jsx" timestamp="1594454440124" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/index.less" timestamp="1594456261393">
+        <mark key="[" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/CreateModal.jsx" timestamp="1594455187504">
+        <mark key="[" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594454799749">
+        <mark key="[" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/node_modules/choerodon-ui/dist/choerodon-ui-pro.css" timestamp="1594456039605" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/NodePropsPanel.jsx" timestamp="1594456076245">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1594454588483">
+        <mark key="[" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/utils.js" timestamp="1594454781189">
+        <mark key="[" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentTree/store/init.js" timestamp="1594449637406" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594305949642">
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/HeaderComponent/HeaderComponent.jsx" timestamp="1594454526477">
+        <mark key="[" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useAddData.js" timestamp="1594449470847" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594449492191">
-        <mark key="[" line="15" column="23" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useAddData.js" timestamp="1594455248019">
+        <mark key="[" line="33" column="27" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594454508935">
+        <mark key="[" line="93" column="10" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594306263405">
-        <mark key="[" line="40" column="41" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectList.jsx" timestamp="1594456427497">
+        <mark key="[" line="68" column="39" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594449137976">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="0" column="23" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/FlowNodeMap.js" timestamp="1594305933764">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/useLoadData.js" timestamp="1594448755754" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594304164589">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -254,28 +265,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnRDb2xIZWFkZXJzTWFwLmhhcyhjdXIuZXZlbnRDb2RlKSkgewoKICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnRDb2xIZWFkZXJzTWFwLmhhcyhjdXIuZXZlbnRDb2RlKSkgewoKICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgPQogICAgICAgIC8vICAgZXZlbnRDb2xIZWFkZXJzLmZpbmQoaXRlbSA9PiBpdGVtW2Jhc2ljc0V2ZW50TWFwS2V5cy5ldmVudENvbENvZGVdID09PSBjdXIuZXZlbnRDb2RlKSB8fAogICAgICAgIC8vICAge307</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoIWN1ci5ldmVudENvbGxlY3Rpb24pIHsKICAgICAgICAvLyAgIHJldHVybiBvcmkuY29uY2F0KAogICAgICAgIC8vICAgICBiYXNpY3NFdmVudExpc3QuZmlsdGVyKAogICAgICAgIC8vICAgICAgIGl0ZW0gPT4gaXRlbVtiYXNpY3NFdmVudE1hcEtleXMuYmFzaWNzRXZlbnRDb2RlXSA9PT0gY3VyLmV2ZW50Q29kZQogICAgICAgIC8vICAgICApCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgPQogICAgICAgIC8vICAgZXZlbnRDb2xIZWFkZXJzLmZpbmQoaXRlbSA9PiBpdGVtW2Jhc2ljc0V2ZW50TWFwS2V5cy5ldmVudENvbENvZGVdID09PSBjdXIuZXZlbnRDb2RlKSB8fAogICAgICAgIC8vICAge307</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoIWN1ci5ldmVudENvbGxlY3Rpb24pIHsKICAgICAgICAvLyAgIHJldHVybiBvcmkuY29uY2F0KAogICAgICAgIC8vICAgICBiYXNpY3NFdmVudExpc3QuZmlsdGVyKAogICAgICAgIC8vICAgICAgIGl0ZW0gPT4gaXRlbVtiYXNpY3NFdmVudE1hcEtleXMuYmFzaWNzRXZlbnRDb2RlXSA9PT0gY3VyLmV2ZW50Q29kZQogICAgICAgIC8vICAgICApCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0=</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
