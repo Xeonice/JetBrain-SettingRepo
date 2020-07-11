@@ -88,30 +88,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1594448511527">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/config/routers.js" timestamp="1594358968219">
         <mark key="[" line="142" column="3" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594305949642">
-        <mark key="[" line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594306263405">
-        <mark key="[" line="40" column="41" />
-      </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/modalHandler.js" timestamp="1594368738967" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/NodePropsPanel.jsx" timestamp="1594305095490">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/EventPropsLoader/dsEventHandler.js" timestamp="1594368936876" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventEngine/eventEngine.js" timestamp="1594374600952">
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/PageDesigner/ComponentTree/store/init.js" timestamp="1594449637406" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/G6-Node/FlowNode.js" timestamp="1594305949642">
+        <mark key="[" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594357888844">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="21" column="36" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useAddData.js" timestamp="1594449470847" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594449492191">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodeList/NodeList.jsx" timestamp="1594306263405">
+        <mark key="[" line="40" column="41" />
+      </file>
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/DataTransfer.js" timestamp="1594449137976">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="0" column="23" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -120,6 +123,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/useLoadData.js" timestamp="1594448755754" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useUpdateData.js" timestamp="1594304164589">
         <mark key="[" line="45" column="6" />
         <mark key="]" line="65" column="0" />
@@ -231,8 +235,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eventColHeaders[i].</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>eventColHeaders[i].</text>
@@ -250,28 +254,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnRDb2xIZWFkZXJzTWFwLmhhcyhjdXIuZXZlbnRDb2RlKSkgewoKICAgICAgICB9</text>
+        <text />
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnRDb2xIZWFkZXJzTWFwLmhhcyhjdXIuZXZlbnRDb2RlKSkgewoKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgPQogICAgICAgIC8vICAgZXZlbnRDb2xIZWFkZXJzLmZpbmQoaXRlbSA9PiBpdGVtW2Jhc2ljc0V2ZW50TWFwS2V5cy5ldmVudENvbENvZGVdID09PSBjdXIuZXZlbnRDb2RlKSB8fAogICAgICAgIC8vICAge307</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoIWN1ci5ldmVudENvbGxlY3Rpb24pIHsKICAgICAgICAvLyAgIHJldHVybiBvcmkuY29uY2F0KAogICAgICAgIC8vICAgICBiYXNpY3NFdmVudExpc3QuZmlsdGVyKAogICAgICAgIC8vICAgICAgIGl0ZW0gPT4gaXRlbVtiYXNpY3NFdmVudE1hcEtleXMuYmFzaWNzRXZlbnRDb2RlXSA9PT0gY3VyLmV2ZW50Q29kZQogICAgICAgIC8vICAgICApCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgPQogICAgICAgIC8vICAgZXZlbnRDb2xIZWFkZXJzLmZpbmQoaXRlbSA9PiBpdGVtW2Jhc2ljc0V2ZW50TWFwS2V5cy5ldmVudENvbENvZGVdID09PSBjdXIuZXZlbnRDb2RlKSB8fAogICAgICAgIC8vICAge307</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbkRhdGFTZXRzID0gX19vcmlnaW5EYXRhU2V0cy5tYXAoZCA9PiAoeyAuLi5kLCBkYXRhU2V0OiBkLmRhdGFTZXREYXRhIHx8IGQuZGF0YVNldCB9KSk7CiAgICAvLyDlsIbnlLFjb2Rl57uE5oiQ55qEYmFzaWNFdmVudExpc3TvvIzlj5jmiJDlhbfkvZPkuovku7blr7nosaHnu4TmiJDnmoTmlbDnu4QKICAgIGNvbnN0IGV2ZW50QXJyYXkgPSBvdXRFdmVudEFycmF5Lm1hcCh2ID0+ICh7CiAgICAgIC4uLnYsCiAgICAgIGFwcElkLAogICAgICBiYXNpY0V2ZW50TGlzdDogaXNBcnJheSh2LmJhc2ljRXZlbnRMaXN0KQogICAgICAgID8gY29tcGFjdCh2LmJhc2ljRXZlbnRMaXN0Lm1hcChldmVudElkID0+IGFsbEV2ZW50LmZpbmQoZXZlbnQgPT4gZXZlbnQuZXZlbnRJZCA9PT0gZXZlbnRJZCkpKQogICAgICAgIDogW10sCiAgICB9KSk7CiAgICAvLyDlsIblubPnuqfnmoTlhbPns7vmlbDnu4TmnoTpgKDmiJDmoJHnirbnu5PmnoQKICAgIGNvbnN0IHJlbGF0aW9ucyA9IGdldFJlbGF0aW9ucyhjb21wb25lbnRSZWxhdGlvbkhlYWRzKTs=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoIWN1ci5ldmVudENvbGxlY3Rpb24pIHsKICAgICAgICAvLyAgIHJldHVybiBvcmkuY29uY2F0KAogICAgICAgIC8vICAgICBiYXNpY3NFdmVudExpc3QuZmlsdGVyKAogICAgICAgIC8vICAgICAgIGl0ZW0gPT4gaXRlbVtiYXNpY3NFdmVudE1hcEtleXMuYmFzaWNzRXZlbnRDb2RlXSA9PT0gY3VyLmV2ZW50Q29kZQogICAgICAgIC8vICAgICApCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>451</text>
