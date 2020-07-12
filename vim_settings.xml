@@ -99,12 +99,13 @@
         <mark key="[" line="164" column="60" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/EventFlowDesigner.jsx" timestamp="1594529717498">
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/index.js" timestamp="1594528594201">
-        <mark key="[" line="94" column="26" />
+      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/store/index.js" timestamp="1594529942638">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SelectList/SelectOption/SelectOption.jsx" timestamp="1594459751924">
         <mark key="[" line="22" column="21" />
@@ -118,14 +119,10 @@
         <mark key="[" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/src/components/ItemPanel/Item.js" timestamp="1594469613358" />
-      <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/SideBar/NodePropsPanel/NodePropsPanel.jsx" timestamp="1594456076245">
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/FlowDesigner/FlowDesigner.jsx" timestamp="1594527679070">
         <mark key="[" line="23" column="3" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/ExploreProject/GGEditor/docs/api/propsAPI.zh-CN.md" timestamp="1594527833581" />
       <file name="$USER_HOME$/WorkProject/hzero-front-hlod/src/routes/EventFlowDesigner/utils/useLoadData.js" timestamp="1594467192921">
@@ -264,20 +261,20 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWxldGVFdmVudEZsb3coZmxvdykudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICBzZXRDdXJyZW50RWRpdCgnJyk7CiAgICAgICAgICAgICAgICBldmVudEZsb3dTdG9yZS5zZWxlY3RFdmVudEZsb3cobnVsbCk7CiAgICAgICAgICAgICAgICByZWZyZXNoTWVudSgpOwogICAgICAgICAgICAgIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wc0FQSS5yZWFkKHsKICAgICAgICAgIGVkZ2VzOiBpbml0LmVkZ2VzLAogICAgICAgICAgbm9kZXM6IGluaXQubm9kZXMsCiAgICAgICAgfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5ub2RlQ29udGFpbmVyfT4qL30K</text>
+        <text encoding="base64">ICAgICAgICBwcm9wc0FQSS5yZWFkKHsKICAgICAgICAgIGVkZ2VzOiBpbml0LmVkZ2VzLAogICAgICAgICAgbm9kZXM6IGluaXQubm9kZXMsCiAgICAgICAgfSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5ub2RlQ29udGFpbmVyfT4qL30K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICBkZWxldGVFdmVudEZsb3coZmxvdykudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICBzZXRDdXJyZW50RWRpdCgnJyk7CiAgICAgICAgICAgICAgICBldmVudEZsb3dTdG9yZS5zZWxlY3RFdmVudEZsb3cobnVsbCk7CiAgICAgICAgICAgICAgICByZWZyZXNoTWVudSgpOwogICAgICAgICAgICAgIH0p</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgey8qPC9kaXY+Ki99Cg==</text>
