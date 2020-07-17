@@ -7,8 +7,8 @@
       <mapping pattern="issueFlowTest" type="Jest Snapshot" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="index。js" type="PLAIN_TEXT" />
-      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping pattern="AddPropsForn" type="PLAIN_TEXT" />
+      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
       <mapping pattern="choerodon-front-boot-test" type="PLAIN_TEXT" />
       <mapping ext="jdx" type="PLAIN_TEXT" />
