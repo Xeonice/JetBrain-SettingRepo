@@ -42,6 +42,10 @@
           <option name="url" value="git@code.choerodon.com.cn:hzero-hzero-c7n-hips/c7n-website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xinyu198736/s-mobx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ExploreProject" />
