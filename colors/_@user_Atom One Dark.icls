@@ -4,7 +4,7 @@
     <property name="created">2019-04-14T17:02:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-14T17:04:10</property>
+    <property name="modified">2020-09-03T17:29:31</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -107,8 +107,8 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -390,7 +390,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -941,6 +941,31 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="373b35" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2e3b39" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="373242" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2b3a41" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="43282e" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="98c379" />
@@ -979,8 +1004,6 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1054,7 +1077,6 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1065,7 +1087,6 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1122,7 +1143,6 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2182,10 +2202,10 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2602,14 +2622,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="59626f" />
@@ -2624,10 +2643,9 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="Static method access" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
@@ -2666,14 +2684,13 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
