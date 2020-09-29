@@ -6,9 +6,4 @@
       </diagnostics>
     </DiagnosticSettings>
   </component>
-  <component name="MarkdownNavigatorDiagnostics" isTrackReports="true" isCheckFixes="true">
-    <diagnostics>
-      <diagnosticEntry id="5291" isFixed="true" fixedVersion="3.0.201.83" description="IllegalArgumentException: prefixLength is out of valid range" status="" isEap="true" />
-    </diagnostics>
-  </component>
 </application>
