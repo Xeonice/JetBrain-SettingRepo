@@ -17,4 +17,8 @@
     <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
     <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+    <option name="tagTreeHighlightingOpacity" value="0" />
+  </component>
 </application>
