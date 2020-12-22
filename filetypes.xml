@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Table" type="JSX Harmony" />
       <mapping pattern="EditSprintName" type="JSX Harmony" />
@@ -10,12 +10,13 @@
       <mapping pattern="choerodon-front-boot-test" type="PLAIN_TEXT" />
       <mapping pattern="AddPropsForn" type="PLAIN_TEXT" />
       <mapping pattern="index。js" type="PLAIN_TEXT" />
-      <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
       <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
+      <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
       <mapping pattern="IssueItem" type="TypeScript JSX" />
       <mapping pattern="SelectOption" type="TypeScript JSX" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".md" approved="true" type="Markdown" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
