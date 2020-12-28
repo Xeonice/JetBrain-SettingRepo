@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
   </component>
@@ -10,12 +13,6 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseArrayLiterals" value="true" />
-    <option name="collapseObjectLiterals" value="true" />
-    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
-    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
