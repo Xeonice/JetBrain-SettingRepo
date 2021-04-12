@@ -10,8 +10,8 @@
       <mapping pattern="choerodon-front-boot-test" type="PLAIN_TEXT" />
       <mapping pattern="AddPropsForn" type="PLAIN_TEXT" />
       <mapping pattern="index。js" type="PLAIN_TEXT" />
-      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping pattern="EditorIconPicker" type="PLAIN_TEXT" />
+      <mapping pattern="EditorBoolean" type="PLAIN_TEXT" />
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
