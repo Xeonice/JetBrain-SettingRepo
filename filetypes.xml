@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="pre-rendering.md" type="AUTO_DETECTED" />
-      <mapping pattern="Table" type="JSX Harmony" />
       <mapping pattern="EditSprintName" type="JSX Harmony" />
+      <mapping pattern="Table" type="JSX Harmony" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="issueFlowTest" type="Jest Snapshot" />
       <mapping ext="mp4" type="Native" />
@@ -16,8 +16,8 @@
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
-      <mapping pattern="SelectOption" type="TypeScript JSX" />
       <mapping pattern="IssueItem" type="TypeScript JSX" />
+      <mapping pattern="SelectOption" type="TypeScript JSX" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".md" approved="true" type="Markdown" />
       <mapping ext="fnc" type="DBN-PSQL" />
