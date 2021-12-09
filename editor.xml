@@ -5,10 +5,6 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="LINE_SPACING" value="2.0" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
