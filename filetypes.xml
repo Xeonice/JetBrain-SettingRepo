@@ -15,6 +15,11 @@
       <mapping ext="jdx" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <mapping pattern="SelectOption" type="TypeScript JSX" />
       <mapping pattern="IssueItem" type="TypeScript JSX" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
